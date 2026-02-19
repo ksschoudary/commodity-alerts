@@ -3,43 +3,45 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime, timedelta
 
-# Target URLs
+# Target URL (Full Archive)
 URL = "https://fssai.gov.in/cms/advisories-directions-orders-circulars.php"
-# Expanded keywords based on your request
-KEYWORDS = ["Wheat", "Sugar", "Oil", "Agri", "Maida", "Atta", "Fortification", "Edible"]
+
+# Broader keywords to capture general policy and specific commodities
+KEYWORDS = [
+    "Wheat", "Atta", "Maida", "Sugar", "Oil", "Palm", "Fats", 
+    "Agri", "Fortification", "Adulteration", "Draft", "Amendment", "Standard"
+]
 
 def scrape_fssai():
     # Calculate the date 60 days ago
     date_limit = datetime.now() - timedelta(days=60)
-    print(f"Scanning for circulars since: {date_limit.strftime('%d-%m-%Y')}")
+    print(f"Scanning circulars since: {date_limit.strftime('%d-%m-%Y')}")
 
     try:
-        response = requests.get(URL, timeout=20)
+        # Headers help prevent being blocked by the government website
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(URL, timeout=20, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')
-        alerts = []
         
+        alerts = []
         table = soup.find('table')
-        if not table:
-            print("Table not found on FSSAI page.")
-            return
+        if not table: return
 
         for row in table.find_all('tr')[1:]:
             cols = row.find_all('td')
             if len(cols) < 2: continue
             
-            # 1. Parse the Date
+            # 1. Parse Date (FSSAI format: DD-MM-YYYY)
             date_text = cols[0].text.strip()
             try:
-                # FSSAI typically uses DD-MM-YYYY
                 item_date = datetime.strptime(date_text, '%d-%m-%Y')
-            except:
-                continue # Skip if date format is weird
+            except: continue
 
-            # 2. Check if within 60 days
+            # 2. Filter: Only last 60 days
             if item_date < date_limit:
                 continue
 
-            # 3. Check for Keywords
+            # 3. Filter: Keywords
             title = cols[1].text.strip()
             if any(key.lower() in title.lower() for key in KEYWORDS):
                 link_tag = cols[1].find('a')
@@ -51,13 +53,13 @@ def scrape_fssai():
                     "url": link if link.startswith('http') else f"https://fssai.gov.in{link}"
                 })
 
-        # Save the filtered results
+        # Save the results
         with open('fssai_data.json', 'w') as f:
             json.dump(alerts, f, indent=4)
-        print(f"Found {len(alerts)} relevant circulars in last 60 days.")
+        print(f"Success! Found {len(alerts)} alerts.")
 
     except Exception as e:
-        print(f"Error during scrape: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     scrape_fssai()
