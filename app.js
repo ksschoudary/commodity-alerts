@@ -1,19 +1,15 @@
-async function loadAlerts() {
-    const res = await fetch('fssai_data.json');
+async function loadPIB() {
+    const res = await fetch('pib_data.json');
     const data = await res.json();
-    const list = document.getElementById('fssaiList');
+    const container = document.getElementById('pibList');
     
-    if (data.length === 0) {
-        list.innerHTML = "<p>No new alerts found today.</p>";
-        return;
-    }
-
-    list.innerHTML = data.map(item => `
-        <div class="card">
-            <small>${item.date}</small>
-            <h3>${item.title}</h3>
-            <a href="${item.url}" target="_blank">View Circular (PDF)</a>
+    container.innerHTML = data.map(item => `
+        <div class="pib-card">
+            <div class="aging-badge">${item.aging}</div>
+            <div class="pib-date">${item.date}</div>
+            <h3 class="pib-title">${item.title}</h3>
+            <a href="${item.url}" target="_blank" class="pib-link">View Official Release</a>
         </div>
     `).join('');
 }
-loadAlerts();
+loadPIB();
