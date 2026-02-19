@@ -1,0 +1,24 @@
+{
+  "name": "Policy Pulse: Commodity Tracker",
+  "short_name": "PolicyPulse",
+  "description": "Real-time FSSAI circulars and policy updates for Wheat, Sugar, and Oil.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3503/3503827.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3503/3503827.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
