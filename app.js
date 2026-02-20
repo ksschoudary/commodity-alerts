@@ -1,51 +1,147 @@
-// Map to the files created by the Python script
+/**
+ * MASTER APP ENGINE: Commodity Intelligence Tracker
+ * Segments: Wheat News, PIB Updates, Regulatory
+ */
+
+// 1. DATA CONFIGURATION
 const DATA_SOURCES = {
     wheat: 'wheat_news.json',
     pib: 'pib_data.json',
     reg: 'fssai_data.json'
 };
 
-document.addEventListener('DOMContentLoaded', () => switchSegment('wheat'));
+// 2. INITIALIZE ON LOAD
+document.addEventListener('DOMContentLoaded', () => {
+    // Default to 'wheat' segment on startup
+    switchSegment('wheat');
+});
 
+/**
+ * CORE LOGIC: Switch between segments and fetch data
+ * Includes "Cache-Buster" and "No-Store" headers to prevent old data display
+ */
 async function switchSegment(segment) {
     const container = document.getElementById('main-feed');
-    
-    // UI Highlight
+    console.log("Switching to Segment:", segment);
+
+    // Update UI: Tab Button States
     document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
     const activeBtn = document.querySelector(`[data-segment="${segment}"]`);
     if (activeBtn) activeBtn.classList.add('active');
 
-    container.innerHTML = `<div style="padding:20px; color:#8b949e;">Syncing ${segment} pulse...</div>`;
+    // Show Loading State
+    container.innerHTML = `
+        <div style="padding:40px; text-align:center; color:#8b949e;">
+            <div class="spinner"></div>
+            <p>Syncing ${segment} pulse...</p>
+        </div>`;
 
     try {
-        // The '?v=' forces a fresh pull from GitHub (No caching)
-        const response = await fetch(`${DATA_SOURCES[segment]}?v=${new Date().getTime()}`);
+        // FETCH WITH CACHE-BUSTER: Forces fresh pull from GitHub
+        const response = await fetch(`${DATA_SOURCES[segment]}?v=${Date.now()}`, {
+            cache: "no-store",
+            headers: {
+                'Cache-Control': 'no-cache',
+                'Pragma': 'no-cache'
+            }
+        });
+
+        if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
+        
         const data = await response.json();
+        console.log(`Data for ${segment}:`, data);
 
         if (!data || data.length === 0) {
-            container.innerHTML = `<div style="padding:20px;">No new updates found in ${segment}.</div>`;
+            container.innerHTML = `
+                <div style="padding:40px; text-align:center; color:#8b949e;">
+                    <p>No recent ${segment} updates found.</p>
+                    <p style="font-size:0.8rem;">Check GitHub Actions logs for sync status.</p>
+                </div>`;
             return;
         }
 
         renderFeed(data, segment);
+
     } catch (error) {
-        container.innerHTML = `<div style="padding:20px; color:#e74c3c;">Connection Error. Run Scraper on GitHub.</div>`;
+        console.error("Fetch Failure:", error);
+        container.innerHTML = `
+            <div style="padding:40px; text-align:center; color:#e74c3c;">
+                <p><strong>Connection Interrupted</strong></p>
+                <p style="font-size:0.8rem; color:#8b949e;">${error.message}</p>
+            </div>`;
     }
 }
 
+/**
+ * RENDERING ENGINE: Converts JSON to visual cards
+ * Uses Flexible Key Matching for robust data display
+ */
 function renderFeed(data, type) {
     const container = document.getElementById('main-feed');
     
-    container.innerHTML = data.map(item => `
-        <div class="card" data-type="${type}">
-            <div class="card-header">
-                <span class="badge">${item.aging || 'Latest'}</span>
-                <span class="date-label">${item.date}</span>
+    const html = data.map(item => {
+        // FLEXIBLE KEY MATCHING: Handles both 'title' and 'Title' etc.
+        const title = item.title || item.Title || "Untitled Release";
+        const url = item.url || item.Link || item.url || "#";
+        const date = item.date || item.Date || item.published || "Recent";
+        const aging = item.aging || "Latest Update";
+
+        // Segment-Specific Branding
+        const sourceLabel = type === 'wheat' ? 'Market Feed' : (type === 'pib' ? 'PIB India' : 'FSSAI Regulatory');
+
+        return `
+            <div class="card" data-type="${type}">
+                <div class="card-header">
+                    <span class="badge">${aging}</span>
+                    <span class="source-label">${sourceLabel}</span>
+                </div>
+                <h3 class="card-title">${title}</h3>
+                <div class="card-subtitle">${date}</div>
+                <div class="card-footer">
+                    <a href="${url}" target="_blank" class="view-btn">View Official Release →</a>
+                </div>
             </div>
-            <h3 class="card-title">${item.title}</h3>
-            <div class="card-footer">
-                <a href="${item.url}" target="_blank" class="view-btn">Read Official Release →</a>
-            </div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
+
+    container.innerHTML = html;
+}
+
+/**
+ * NUCLEAR RESET: Bypasses Service Worker & Browser Cache
+ * Use this when the app feels "stuck"
+ */
+async function emergencyReset() {
+    const btn = document.getElementById('refresh-btn');
+    if(btn) {
+        btn.innerText = "Purging Cache...";
+        btn.style.opacity = "0.5";
+    }
+
+    try {
+        // 1. Clear Service Worker Cache
+        if ('caches' in window) {
+            const keys = await caches.keys();
+            await Promise.all(keys.map(key => caches.delete(key)));
+        }
+
+        // 2. Unregister Service Workers
+        if ('serviceWorker' in navigator) {
+            const registrations = await navigator.serviceWorker.getRegistrations();
+            for (let reg of registrations) {
+                await reg.unregister();
+            }
+        }
+
+        // 3. Wipe Storage
+        localStorage.clear();
+        sessionStorage.clear();
+
+        // 4. Forced Hard Reload with Timestamp
+        window.location.href = window.location.origin + window.location.pathname + '?bust=' + Date.now();
+
+    } catch (e) {
+        console.error("Reset failed", e);
+        window.location.reload(true);
+    }
 }
