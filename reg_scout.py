@@ -2,31 +2,50 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-REG_KEYWORDS = ["fssai", "standard", "regulation", "framework", "order", "advisory", "compliance"]
-COMMODITIES = ["Wheat", "Sugar", "Oil", "Atta", "Maida"]
+KEYWORDS = ["standard", "order", "advisory", "circular", "framework", "compliance", "fssai"]
+COMMODITIES = ["Wheat", "Sugar", "Oil", "Atta", "Maida", "Cereal", "Fortification"]
 
 def scrape_regulatory():
-    # Scraping FSSAI Advisories page
     URL = "https://fssai.gov.in/cms/advisories.php"
-    response = requests.get(URL, verify=False) # FSSAI often has SSL issues
-    soup = BeautifulSoup(response.text, 'html.parser')
+    print("--- Starting Regulatory (FSSAI) Scan ---")
     
-    reg_updates = []
-    # Logic to find rows in FSSAI table
-    for row in soup.find_all('tr')[1:]:
-        cols = row.find_all('td')
-        if len(cols) > 1:
-            title = cols[1].text.strip()
-            if any(key.lower() in title.lower() for key in REG_KEYWORDS) or \
-               any(com.lower() in title.lower() for com in COMMODITIES):
-                reg_updates.append({
-                    "title": title,
-                    "url": cols[1].find('a')['href'] if cols[1].find('a') else "N/A",
-                    "date": cols[0].text.strip()
-                })
+    try:
+        # FSSAI often requires bypassing SSL verify in some environments
+        response = requests.get(URL, timeout=20, verify=False, headers={'User-Agent': 'Mozilla/5.0'})
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        reg_updates = []
+        # FSSAI structure: Typically <table> -> <tr> -> <td>
+        table = soup.find('table')
+        if not table:
+            print("No table found on FSSAI page.")
+            return
 
-    with open('fssai_data.json', 'w') as f:
-        json.dump(reg_updates, f, indent=4)
+        for row in table.find_all('tr')[1:]:
+            cols = row.find_all('td')
+            if len(cols) >= 2:
+                title = cols[1].text.strip()
+                date = cols[0].text.strip()
+                
+                # If keyword OR commodity is mentioned
+                if any(k.lower() in title.lower() for k in KEYWORDS) or \
+                   any(c.lower() in title.lower() for c in COMMODITIES):
+                    
+                    link_tag = cols[1].find('a')
+                    reg_updates.append({
+                        "title": title,
+                        "url": link_tag['href'] if link_tag else "https://fssai.gov.in",
+                        "date": date,
+                        "source": "FSSAI Official"
+                    })
+                    print(f"Found Reg: {title[:50]}...")
+
+        with open('fssai_data.json', 'w') as f:
+            json.dump(reg_updates, f, indent=4)
+        print(f"Success: Saved {len(reg_updates)} Regulatory entries.")
+
+    except Exception as e:
+        print(f"Regulatory Error: {e}")
 
 if __name__ == "__main__":
     scrape_regulatory()
