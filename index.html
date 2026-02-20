@@ -1,13 +1,51 @@
-<div id="main-feed" class="feed-container"></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Policy Pulse: Commodity Tracker</title>
+    
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0a0e1a">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3503/3503827.png">
 
-<div class="tab-bar">
-  <button class="tab-btn" data-segment="wheat" onclick="switchSegment('wheat')">
-    <span>Wheat News</span>
-  </button>
-  <button class="tab-btn" data-segment="pib" onclick="switchSegment('pib')">
-    <span>PIB Updates</span>
-  </button>
-  <button class="tab-btn" data-segment="reg" onclick="switchSegment('reg')">
-    <span>Regulatory</span>
-  </button>
-</div>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="app-header">
+        <div class="header-content">
+            <h1>Policy Pulse</h1>
+            <div class="status-indicator">
+                <span class="dot"></span> Live Intelligence
+            </div>
+        </div>
+    </header>
+
+    <main id="main-feed" class="feed-container">
+        <div class="initial-loading">
+            <p>Initializing secure connection...</p>
+        </div>
+    </main>
+
+    <nav class="tab-bar">
+        <button class="tab-btn" data-segment="wheat" onclick="switchSegment('wheat')">
+            <div class="icon">🌾</div>
+            <span>Wheat News</span>
+        </button>
+        
+        <button class="tab-btn" data-segment="pib" onclick="switchSegment('pib')">
+            <div class="icon">🏛️</div>
+            <span>PIB Updates</span>
+        </button>
+        
+        <button class="tab-btn" data-segment="reg" onclick="switchSegment('reg')">
+            <div class="icon">📜</div>
+            <span>Regulatory</span>
+        </button>
+    </nav>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
