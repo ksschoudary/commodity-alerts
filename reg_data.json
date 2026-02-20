@@ -1,5 +1,5 @@
 {
-    "sync_time": "20 Feb, 05:26 PM",
+    "sync_time": "20 Feb, 07:28 PM",
     "news": [
         {
             "title": "Supreme Court asks FSSAI to consider warning labels for packaged foods high in sugar, salt and saturated fat - The Hindu",
@@ -79,13 +79,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Food Regulator Orders Removal Of Any Products Misleadingly Labelled 'ORS' - NDTV",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdU5OQW9HekE1NGFLUi1ZSGpoOUtZRnlGeldnN2tCZkx6eWF2NVRjTmJaQlB5eFFtcElEMm95eUNycFl0cEpkWGt3X1NERFc4UkFFTkRELUxhYkZ4eGg3Vjk2RnpqcHhIT1NwNW9Pc2tNVFo0MnZLQ0FCcGlfcUVqZk5FVkJpRXNGUmxEc3VrQkdPVGpYU01hWndnalhTb3M2ZlBlTTJ6YlRNaUk4Qk5xTtIBuAFBVV95cUxQd29XT0pOX1dTU2dkS1FSakc5ekFHUDQ1NHRkcVR2NmhMODc1ekpSSHBGZnBCaktGNnpSZkY2aEhjX1hMN2M2OGpWT0Y5S3BQMGlTUjFqZklmU2trNXd2cFlUSHlUSkRabWJ5N1Ztcnc0d3VzOU9MMFlFZDdobWhBUndaQWlVaW5DR3BKT0U3NlZ2czQzVHp1SUQtWVNOZkx4Sy03WHdCVjZzZGRfa0sxa2FmdkVPRk10?oc=5",
-            "date": "Fri, 21 Nov 2025 08:00:00 GMT",
-            "sort_key": 1763712000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "FSSAI orders removal of mislabelled ORS drinks in market: Here's what you should know as a consumer - The Times of India",
             "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVi03anpicElZUTE4OGhWTUtzdDM2ZGczZWpqN0FJc0dkUC1TSDRSOVVLNFZ0dl9rVnV0RUJiUlQ5NTRWRExSOFFKRzZtcXF6cnV6NlpBY0h5R1lhNWpmQUpUa3B4c1EzZ0Q5eWdPd2xlSHhLUVN6clRTaHZWQzYzUVFORi1UVzNtTGptYVNXQ0hjVEJfcTBiUWVmeFZ6d1cwckhFNGJDTloxY245Yl9SaHV6S2xkWnpVSDV4WUY1UFJ5MUFZNWthTWx0YVBrX1dvWnBlRkZIeW1PRU5kN1Rid3RkTTZjek9vaE83cVY5QzlRQWd4SzdHQTlmLVlNSEZnNlptWWoxeUV2b3BPclFTWVlWN09DUGtiZG1zNkFFMS1Ob1HSAagCQVVfeXFMUEtaR2pFTjFTR0VCXzQ4NEhiWDNZZTRGZU51WG1jbmloemo4eDRhWjJCeE93NzQwQTRnd1ZPRllZZ2UwTk9ZaUh4QVFSUG9lNllacE9rWV9TV2tpRVRIS0w3YzBJaW80Z1lOOXluUERrSWNfLXMzV3VrZkJJSTMySm8wZjFYaVltWXJhb0lpY3B3aThwTWNVX21BYWVkTE91RS1SNkNkUG5VYUFDdHdsbHlOSzdfOUdvNjA5bTE4TEtTR3dpNzBBRzBwM3ZlQUVxczJGWDVWa09ibjNkMWlnbllnVXVxd1h3clZkbUowWEhzTTlHSHVCTlV3WmZlNjVWN191UTRFSUNMd3NPaF9sMURsRUZWMG9YamJMdGFhY3Q0SlhvUmpzcG0?oc=5",
             "date": "Fri, 21 Nov 2025 08:00:00 GMT",
@@ -109,6 +102,13 @@
         {
             "title": "FSSAI orders immediate removal of misleading ORS-labelled beverages from markets, e-commerce platforms - The Hindu",
             "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdFd2UXJwQXlUMURWM3lYTzg2Y0oxV1NnODRTY29TTXFCT2dZZ1QyNGhnT0FfVjZfcnVBOVV1SE5fVV9tSHYwS0FMcGdRV3hKc04tQTBWTlp3R1g1d1R5cHNTcm4xeDlxdEY4QWZHT3NMOGwtM2xfVnFMLXlwM0J2U3N5VXpfT3l0dHhsMWk5dy1kczNRTGJDcVBnUzRQQzRlRDMtRjA4VVY0VVFqQkxLV2FSZy1Wb1RMc2ZHXzloUlpVLTVpdmNLQkF2blFfQmJyQnhuQUxheVFxRkNEaUZhSkk4elFhVzRpcGRmODRJOUo5RjJs0gH7AUFVX3lxTE42WXZHS25TT0F3c0hHazRvcHo4ZnVGMmZ1c2NtNVZZSklrRjBjNUtPbkdYcWFwTDluNkU4TWNUYXh1amczQmRhWlU1T1NWUlpfYmhJVlJkbFE2Z2FSNHJ4WU1pSWthTjZEalFfZkpHUEQyN3V6a2N6UmlYdnNwZlQtVjVxSTRXb2tpMVNFOUo4LXhYUUhZaGJsS0ZJRVl4VXNJQ3lsRlhlVGpvSVhXNnV3aEJCVVFqYnFPZlVfaEYwQ2tTQkpEU045ci0zbE9GSFAyNEtRX0EyN2JidW1odjVkNEpzS3RMQmVRSmVyV3dnWEtqTHRORnFvUEU0?oc=5",
+            "date": "Thu, 20 Nov 2025 08:00:00 GMT",
+            "sort_key": 1763625600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "FSSAI orders removal of all drinks using 'ORS' label, cites health concerns - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYUZJMWp4YVJrcUctYTNkTzZfcm9xbEc0S2lxMG5LLXdOU3RqcFpUSnE0ZzgwcFFWUjJTbGFkdWxSZ19kYy1qM0tPc3lmWEJ6UUF0Zm5lZlZIdWdCcnN2MUZ2anRsM2JRY2hyeno1aVNxdkRiSlkydHhvMmlIQnMxalBLbm13blRTc1R5UDUzdERlNUI4SDdabEZyVVZZTHVfLVpfYlR0ajRtb1F6ckFETzd2dU1pM3RBUzcxeWp0dk9PTmlBNVRTNTJiZ0drbDVrOUVwTHNfZ9IB3AFBVV95cUxPcWlGX2JFZU0yYkV6VllScXJCcDBvaFpCTVlZRG5JRU5PbEUxUXZhMGpodjJCc0tZMW9xZ21RZEQ5WVFsNnFwNG5XNXNlVjhDcVBjZjh0TmQzeUhzU282bnZ1ZHZCdTJjXzY2dXV5REY4ZG5vZTdlQnU5aFJENGNQeGlYdUJlbl8tWHczanEzZzBSazZfcFpxQ0dzSTZQOVZ3YjR3R3cyY2JjZTk0enNoLUhFdEZuWFN4MzB3aGU5ZmV2TnpWdzZwcmJub08tS2ExZ3ZrUGNnN0dwcjNy?oc=5",
             "date": "Thu, 20 Nov 2025 08:00:00 GMT",
             "sort_key": 1763625600.0,
             "aging": "Latest Pulse"
@@ -247,6 +247,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "\u2018Situation can\u2019t linger\u2019: Delhi HC urges FSSAI to decide on ORS branding plea by October 31 - The Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3hVd0MwSG9zbGpSQXMtcl9zRDRZZXpmTGM1dmMtOXVqVGNYNjNneDY5SjFxVkNiM1hkUUlUU1RybHBNaGpjOVprdktwcXpKVlhJMHNrVFVkVHljMko4d2dHVjJpQXpFZVJvMHI4aXlHTU5ySl84eXdYVWhxNm9qOU56VC1nNmY5M0lxUmh1LWRYMTVqX19YaVNOWU9CM3gxWjBuM09kVzZYaERFaGs1NW5Lc9IBugFBVV95cUxORE1yaVVQelp3QTd3dG1zQlhqNXk2WkREdnBfVmtOZXZfX2tWVmtXWjBIUDR6S1JsM0pZV3RHMDRadWtkRDl2Si0ya2hMVVU1dlhvcGxWOHFuUVhBaTFOcU1aUERzZHktd0p3T1cyRWNhejNfSFJ1TC1rQjIzb2l1S1NidlBDRVFESC03ZGpFQlc1ajQteVIyQi0zRzNCMDRUdm1XM2hDV0E5cW1lcWNjOTREVm5zamVLWnc?oc=5",
+            "date": "Wed, 29 Oct 2025 07:00:00 GMT",
+            "sort_key": 1761721200.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Delhi High Court clarifies ORS ruling, says order not a licence to continue manufacturing misleading beverages - Storyboard18",
             "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQUVIYnNxdFQ3UWVOcEh6UFdESmd0TUFKY1JVTGZmblhCNnRzUXdTamFfT2ZVdU1kSHFKTFQ1c0FTZVU4bTc3LXp6ZG04emdaRHdqekxzemVZMXUwN1Z2Q0J2elpCNkNmMGlYMjdMV1dTYjVMMUhQamxhQTlPQkNDWFFXYnV5enkzYWwwbm5IZ2ZuZ0xUYkZFSmVBdlVPaXZFNE1wZ2JOR2lacVhvQ2JrcjR2VGJZbTdlaU1OZXNZd0lNMXFlV2FDbmRCay1NQUZxNzlnbTc4WFNxTEZiSnhFVnRNV25BdW9YNjV6b2I5VmNmMVFhTzFB0gH8AUFVX3lxTFBwOFZFTUdpMDJxeEVvcXc1RzFzNlRfU1ZVVndtTy1Wa2UwRTU0OFNjb3o0R3BZSzEzVjRjUFZvSklsRkRCdUtaQUFTdVhGUGh6WWpDN2lsNW85RFVROGx0VVVZMVliUGkyM0F0dnFvS1ZZbm5mY2pieml1TS00TG5BYXJucmZpRUxsMWxJaEU2THlPRVpRSjZ1ODdmQWRCd0UybzZsUGRMdk1TS0ZqajY1X2tIVnIwTUFQeUZVZzVfOFcyeXJyakpOOEhNQmRuOGwyTUo2RV91YXZRZngxV3BFM2NGaHRlSXNFVnhTZVpSclA4WUdJM1ZBaWlTMw?oc=5",
             "date": "Wed, 29 Oct 2025 07:00:00 GMT",
@@ -317,13 +324,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "'Did not permit disposal or sale of ORS': FSSAI denies Hyderabad doctor's claim - Deccan Herald",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkVVTXdoeDFQZ1B3ZlhKTE5mNDFYU3lBNXY1enJkRnBqbTZHUXJsM3BSbml4bUJzWWVaVmlGbjhlUE9xc19GT1Z1MkNEZlZZVkNhVkFrTGgzcUZxTmVwcmRxNDZLVVZCOFFaU2cxdnhwUWZGclotcmw5Qjh4YVk0TEhwT1lBVjFGZjFVa2FwQ3JaZHZLeTFqU0lMS3dOXzd6TmZPQjlYeDQ2UTY5Z2ZVbWtaQUhrZUQwdXc?oc=5",
-            "date": "Fri, 24 Oct 2025 07:00:00 GMT",
-            "sort_key": 1761289200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Public Health vs Profit: Delhi High Court's Stay on \"ORS\" Ban Sparks Debate - Frontline Magazine",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlEtSTNBM210ek9lYzM3NTltc3FrZXZkNnlqWlc2QV81bjlibkZFLTFGYUF0SFhlV0dvYTVUdmNLMXlmUFFUelFHODN3ZElfbDZ3ZDR3UTAycV9FdXduN3ViSzhKbnc2THNvSzJuV2xISk9Nd2Y3M0FtRW5NN3ZqZnkzZDJQSWFkOGFuM1JudUFOUnc0aDRYUzRFdTl3dGN1Tjk5MmxfbDJuTkRraUgzeFJqd9IBugFBVV95cUxNMC1fRFZid0lyVEZJWUExR1pRS3BLYXlOSEtzd0tZYjRrQ2xJa2RJWHpPMkVRalpBMDVWVXhvTEE5bHhrZkFfRUE4ejJwTGR0eUVraU1yV3ZyT2NQd0pEQTZ1WDhVaEpFWldOaDFISHctWjFYWnJDWlRfNXRwR0RvR2pRcUt3cjZvTGxjQjFsb2VwOTlXODFsTm02ajZPc1BDQzcwWmRWTUFlNXhrRmlXckMyeEVMTTFsbXc?oc=5",
             "date": "Fri, 24 Oct 2025 07:00:00 GMT",
@@ -331,8 +331,29 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "'Did not permit disposal or sale of ORS': FSSAI denies Hyderabad doctor's claim - Deccan Herald",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkVVTXdoeDFQZ1B3ZlhKTE5mNDFYU3lBNXY1enJkRnBqbTZHUXJsM3BSbml4bUJzWWVaVmlGbjhlUE9xc19GT1Z1MkNEZlZZVkNhVkFrTGgzcUZxTmVwcmRxNDZLVVZCOFFaU2cxdnhwUWZGclotcmw5Qjh4YVk0TEhwT1lBVjFGZjFVa2FwQ3JaZHZLeTFqU0lMS3dOXzd6TmZPQjlYeDQ2UTY5Z2ZVbWtaQUhrZUQwdXc?oc=5",
+            "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+            "sort_key": 1761289200.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "All talk, no action? FSSAI's sweet confusion over the ORSL row - India Today",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd01KaTFfcy1sQXRwaEhDbXhhblY1dE8yTnlHcGpJTzJRc2d5dnJjWHlfWl81RkZKYjdNMF9icVpMM2haU3Ffdm9nenpwTVQ0Z1dMYV9VbGVZaGhWYndmcXFaWm5OdWI1bFZsaUoyS0RiekZ2RTlRUXA2NTZzNlpBb0Ezb00tdnMyWFl5QjlkTjhyOGtWMkRrYVVuMktUeTBKaTRnLXFJOVBXSExEanM3OTlHYm83aVozd0NiN3JCeXlVX1g0SzZjMGxmX1ZnME42LU9ScmROS0Q4WEE3cVFlYkpZRFQ5ZGRPVEHSAe8BQVVfeXFMTnFTWVRpMzE3em9taGExb3NmdVczRzk3bDNwMG90NFA1WjhLRVZnVGhIM2xlcEFyQzNtYUtzZVZ4T09QOHUtNjQyOHlLc0UtQ1lOdHdPU1ZvSzl4TnpCQ0FPMmpuSzZTcUcxY1JZWlNIVUNiSE1oX0VWdE44QVROd2hMRk9YcXJSNHBLMy1SYjRQaF9SMWhzWjliVEFJZ1N4cEh0cy1aUm5ibTZIeHhoMjVuZ3d3T0ptTU5rNXdEcmZ3MzV6TGpHZS1mWUoydENfdUVfb0E5SFY5YTdseUQ1VkdPcGlTNWFraGg1ai1hVkE?oc=5",
+            "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+            "sort_key": 1761289200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Doctors hail FSSAI ban on sugary \u2018ORS\u2019 drinks, warn of hidden dangers - ET Retail",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGxGdFFUQktYcUpocHlSdGtTZjFvTk5mU0xadlYxSWx0S01CUnV1dlJ4TmlmcHhpdVR3TnlPdnRDbVRxZVRTcGRNZlExTlhEbmZWS1kzYW9jUUh4Mk1xQnBaZHJLVUNvaWV4NVdqMHJjV0V2aC0xOXZDRGJZRWhvZl9Xb2RJVlJ1THE4OUw0eU1TbFRZNWc2S0psWlBlSTBJQ0xhb2NfRUhOQTdmaE53V2I2V1BMNTRReWhuZTBQTTN1MHo0Zk92MDY0SjFaSnRXWVVoREQ3NTdHWEdB?oc=5",
+            "date": "Fri, 24 Oct 2025 07:00:00 GMT",
+            "sort_key": 1761289200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Doctor Who Took on \u2018Fake ORS\u2019 Hits Out at FSSAI Over Stay On Historic Order - Times Now",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE1Xa2dpeHJkY0N2aEZTLXJzWEJiRUZ1NFg2UHhHcjFMM1dKQjV5dEVuR3NmQ25fLVRTYlNkUU5mcTFvbzlQWUhsY2YxUXBBMVA1WlJTOG02SmVqT05sRmJmLWFJejZycVQ2S2F2VUxHWFhHM1FCU3Y3bWxKaDFWamNrZnpPZ1BmWnlOVm9BbFp3V1hvYWZGUXZSRjk0bkNZa1l5ZzZCdXNRMmpuR0dwQ0NzTlpJTUg2LXc0MUNyVVJoWUcyVVHSAcsBQVVfeXFMT2xtMlJpU1ZOa1dZWmZvS2Q0WnV0QUM4UjQ5MmtEVWNNcUpNNi1Za0I1eTBXeFh4MHFQcXZxTnJyZ2szbXJZWm9iS3hpRkZLWHNtT2haa0tLSmxzWF82VVJWUnMyRnZ6QWFKQnRiTHA2SlVPN3VfaXRGdkctbXJaX2dPSXZHVzVZczc5QUthbnN6MjM4WElhVkZhTFgxalFod2FJRGliWTdoMXRFclFqbURkc21wZEJLbTl1YVAxS3BWWFFWRUxqVmhpQnc?oc=5",
             "date": "Fri, 24 Oct 2025 07:00:00 GMT",
             "sort_key": 1761289200.0,
             "aging": "Latest Pulse"
@@ -347,13 +368,6 @@
         {
             "title": "No more \u2018ORS\u2019 on brand labels, products: What food regulator's move means | India News - Hindustan Times",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnBWNnN6ZHh2YjVkMmVheHg4aUphTFpabm9HVXFYc19YNjB4ZFNZandNZXJBb0lFZmoyeGttd01fNFAwTUFVcDVPLTFFcElhTk81STUxRVJUUHlfUVBXNW5aN1J3Z3VDd2sxT01STXlaaVZCcExZVGdQTWs0NTFJOUdNMzRSN2t5TnpOSEdIbE9Oby1ILTlWRlJVSmlpU1F5UW5lYjA2QUY3MWhnM1lwZWxUNkVrMkpkdmh0MnJTdl9CNktFYUpVLWNn0gHPAUFVX3lxTE80bFlxVVRzUHRMcjBGY0NQV3R0bHhXWGFkcWhaZEROVTM0VGo3Q2RiR2kycmNfYXg1VGVYUi13bFFNYjhBNXM0LTJuNVdMOXhTWk9OdkRJODc1bGJsZ1A4Q0pxcjhaTTdoQWRpWXB4RzdhanNDOERUUU5FbXV3YW1kcy0tSjQxOHZJZDBsTjFwVlE1NU0xSkRPblFYeEQ5MEJZdGE1eWY5X3c0NW9zY0FHZjJwZDVBSFU3d2NLODBZSzJMcGpvUFRTRzFiUUR6RQ?oc=5",
-            "date": "Thu, 23 Oct 2025 07:00:00 GMT",
-            "sort_key": 1761202800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Doctors hail FSSAI ban on sugary \u2018ORS\u2019 drinks, warn of hidden dangers - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTW1Eb0RGLUdPN2hiT2J3dE00R3ZGQjdOaWRhN2kzU2tQYS1XRmNRVmpOSE9uNmhiTW1yc3dzZUdJMUQ1ZElMdUIzaERscUMwSlZRMWFlUGhUakphc3pEYXBzZk9ORjdMcTMwVDRFNXpuYVFkOU52OTJldTlGRklZN29UMzJNSzRQY3k2eTRfMmxEWlFhM1VzOFdrS1M2OTQtQVRRa0tJWTRYblVhdjd6RkdUaWhQTDUtSDFYbGMwYWpsYzk1b25MUEFkcTdlTE01OW95cXMzclJ3em5fVkc2alJ30gHnAUFVX3lxTFBCTVlrYzBqWHZvSlQ1RC1mSWM1cERQV0RGNnlrbkphRk1MM19DLTRFYVNsZl9JZ3pvWjEzZVlXUFFZQzdSVFloNnZhbE5ZRm4xSDJhakNsTXUwUlduejVDNVdKWFpuVjNfYVlWMTM1Yk0xV3h5alM0YW9HRnQzR1F3MU5HV3J6bVVodkZwWklRcENyeWtHNnhlWElwSVAwMkRFLUUzV1lKWHdFUlBjWHJDYzhfRFpvN2tCRU9KT3UyVmxXQzFsaXc3SnJ6ZUZXNFJSM0RYOGtsT0g3SzJ6TWo4U1Zsb29TMA?oc=5",
             "date": "Thu, 23 Oct 2025 07:00:00 GMT",
             "sort_key": 1761202800.0,
             "aging": "Latest Pulse"
@@ -375,20 +389,6 @@
         {
             "title": "Marico hit with \u20b91 lakh penalty by FSSAI over alleged misbranding - Storyboard18",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3o0NjJSMVhXUEJZRUpIZ0xzQVBaYlJzZi1vNjNIZDRBRWp4SHc3dUMwQWpfQU5MbHV0Ml81QWpRZmF3VWNiVldYZnp6RTlnOXg4SWZ0TkZNYWhGZ1FoRVM0SUtMRVNYSG5aNHVWS1RvSzRGTVNUcnpHZ0VkY3pQaFM0ZW1PMlhaNFNWMXY5TzVKTVRTX0NsZEZJQVZFRUJkZlEyYWd2Y1JVaWhDU25aRS1Za3pONHJkRXg5WGtnVGlXQdIBxwFBVV95cUxNRllNUDY5c0lQLUxhUTRzREpENzRxY0ZUSlkyb1VNVFVPb0hEVjAyZWhKSUw0TUc5WVYzNGNfQTlQOUtBLXhtY1BXYWhQUXh2Ujg1V0NyaDlxNl8yU3FxZTNuYkMyaEMxTDRQZEJiTDFoSU83WDc3QzItQ0VIdnpnZDFQaHFpU3V5S3hQbVVKNHVUdnhwUDFSeHBmcWc2ZmpUU2hUYWlaTDk5Wkd3azFpT3NPN1JXOV8xZ1FFb0VEVlZmZV9YMUlv?oc=5",
-            "date": "Tue, 21 Oct 2025 07:00:00 GMT",
-            "sort_key": 1761030000.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "FSSAI imposes Rs. 1 lakh penalty on Marico over alleged misbranding - bestmediainfo.com",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1AtZlJRbmZzRlRZYWZpdHdWMlU2R2hPZkozamdFdEdNOWVGdzBvMkNfd01EUk5UaHhuYkNINlU4UWRRaWhlbkFQQU15YWNjZkMwNXZhWE5zcHRVY3BHeWVRS1A0TnJSU2lpejhwOHhEQ0p3Y1V4ZWY5Z05qM2JyZzVrY1E1eXM0TFJuM3dOWDd1cXk1YjZFYlR0TWhnZUZJaGlNcXBlSTRCVGViUUV6WXI5WFR1QjR6UUNNNW9vQ2NNeWlxOG5vSGdlTdIBywFBVV95cUxQb1AtZlJRbmZzRlRZYWZpdHdWMlU2R2hPZkozamdFdEdNOWVGdzBvMkNfd01EUk5UaHhuYkNINlU4UWRRaWhlbkFQQU15YWNjZkMwNXZhWE5zcHRVY3BHeWVRS1A0TnJSU2lpejhwOHhEQ0p3Y1V4ZWY5Z05qM2JyZzVrY1E1eXM0TFJuM3dOWDd1cXk1YjZFYlR0TWhnZUZJaGlNcXBlSTRCVGViUUV6WXI5WFR1QjR6UUNNNW9vQ2NNeWlxOG5vSGdlTQ?oc=5",
-            "date": "Tue, 21 Oct 2025 07:00:00 GMT",
-            "sort_key": 1761030000.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Marico Faces Rs 1 Lakh FSSAI Penalty, Signals Tighter Oversight On Product Labelling & Marketing - BW Marketing World",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdTNTLXBYajFSSTVQRExJX3ZWdU4yWk1JWnpBeDJxYkY1SnBOWkZwVmJidmttLURsWHdfRkVqenJoQjBOaWdSa0hSRFk0bEFjTGZrRG5KWlRuYV9RMUVXZFV2UzJfNGlhWFZLRzQxcWR6d2JDV19ON2hhVjlSdDZRSy1jNXpHMVVEWC00alB4Q0ZuY3gwb3JIZGZ5R3VXR3QwNk1BeVJRM19TdVBVeVNwaW5iV2RnUGRCUm5MaG1DdlJTYnBfZFpvR19PdC1nYkdReS1Fai1JWlE?oc=5",
             "date": "Tue, 21 Oct 2025 07:00:00 GMT",
             "sort_key": 1761030000.0,
             "aging": "Latest Pulse"
@@ -417,13 +417,6 @@
         {
             "title": "Delhi High Court allows JNTL to sell \u20b9180 crore ORSL stock; Dr Sivaranjani urges FSSAI action - The South First",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaG5zeFpoYXBtZVBiRmlkcHdFbUhPQ0cwckIwUTBzaWt6TjBkazBvY3BGdVNaaWh0WXJ3MEFIWE5GYU9VdUpGUFRLSWFHQlVNT0gzRW1XZXI1M1pHRVhWVnVETlp0ZlVjVGdXVURxaXlZR05hMlRVaWc5Z3ZRMWthU3FoSEVrNE5KT214NjJGd0paWV9YMXJweld6THlzMEZjbEc0UHdJNC1QT2huM1NXNWNiXzZJOE9RcFJnZ011cHpMNTBBdF9yM1pBVEdBNUU?oc=5",
-            "date": "Sun, 19 Oct 2025 07:00:00 GMT",
-            "sort_key": 1760857200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "How a doctor fought relentlessly for an FSSAI ban on fake ORS products - The Federal",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdG1BZ1VSOHJhMjl0NWZCdzQ0d3BrMWZGUU94TWgwb2l2VG1sN1ljNVVKQTFoU3VyWWcwaVNGSng0S1Iwcl9oc1prZHhDczIxbFVsb1F6cTF3SXlna0luUkEyMGpBZFZRMjREd3ZIRDJEY1o3dVp5ejJmZnAzbTBHQWtCcHZtT000WkE?oc=5",
             "date": "Sun, 19 Oct 2025 07:00:00 GMT",
             "sort_key": 1760857200.0,
             "aging": "Latest Pulse"
@@ -590,6 +583,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "SC extends time for FSSAI to file report on mandatory labels on packaged foods | India News - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMXZ5eWJpUkFidnhFeWVhcnFVZVJmQUh0MFF3cktDYmFRcU9ja082YkswMkYwa0pteDZidHRmVkZnYVUyWER6RDVYTXhFX1h1d2kwTWJtQUlmNG9uRkJHeGNjREVMUW40UzVqZk14VTlVbEgwc2M5OTNwVW1PS2MwOWRqSDhzR0xHNzY2Q3paZDJicU1LaDF1N2x5M0xzN25wZkdwLUtzU1pWTTZ1Q0NDUmtqc19sOTJza0d4Y0hxdEZidnZmak55enNKbUZPNVBOOFFKUnctS3rSAd4BQVVfeXFMTjh4YWxyQlRpQUR1dVdlVFhWYmxGcEFEU2tmNUstN3U4T0R3OW1aalFzSkd2QllpR1dqYm1FSXNKS04wcUFDb1N3MTEwcDlGMWJlLW1jOEdwZ203T1RGQ3VldWRhc0s4WXNkTHFMYkFteVB0bV9CdFlGQ0wzc1dMdHBFZ05fS1ZHWUlMekhCeGt3RHIzZHR6R1VwdDhSZmF4UUpyb3R4M0Z4T2J5T3p4TGRrakJqNHkzdTc1Tlhpdk9IRFRMbE9udVVPUW1ZMjJ1VUtXZzJCa3JQNkN1eGpB?oc=5",
+            "date": "Tue, 15 Jul 2025 07:00:00 GMT",
+            "sort_key": 1752562800.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "FSSAI defies Supreme Court order on food warning labels, citing 'trade secrets' for withholding vital information - Counterview",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnp6RzUteDkwa1Y3ZVJxeUlCeUR3cUtTbWkxVmFBUC1KaVhjTzNXbG5tejBPZl9aMkVWNGp2YlBEQUVFY3YxcmdyWmJybjRrdFlXLUxKLXlLVmtkU2xkMnMwcnlpTzAtZGxaZlZTNkhzbVdLUVpNc2g3R05kNzBhUlln?oc=5",
             "date": "Mon, 14 Jul 2025 07:00:00 GMT",
@@ -653,13 +653,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Food regulator warns against using 100% on labels, packages: Here's why - India Today",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTFiOVgwY01PVGFmcWx2VjdBSWd3bmdua3VTazRoX0NHWFMxZWZoYVFZcDhBMjRvbGpITnNvWkJZVThDWkRtbV9VWjZtUjNpT0tWdjNvWlRLSWVXS0xfX2V5SkJnaDhrS012YlBybFpQVG1Ya1ZOeFlYME5iUFJIMWI0cllKQmROTXU4eUdvTnVEX2V0eFFOZFkwcGJ4UmZZRElJM0J3ZzFEcnJCdFpDNUlUZmZ3M3B0N19JMWRVOUJvbzRreGlj0gHMAUFVX3lxTFBHYUNzdkdRdWlYU1lncUZLcklmNEZydV8tQTJ2OTR5cFpEQkUza0tRX1JUTnpSdURPWGpEa1NJTXRLTGd0NG5RbzlsOFAxdW4zb1J1bXp2NUg2enBKbWtMellyaHQxZ2FrMFFVbW9zZG1VUzdqS2R4R1BjYnk4OXZNa2lyNWFBeEY1TEFnZFl0cWJWZlhBRVo5OVkxTjczQm5jSEl1SmNrZWZvLXgyb2FpNFo1ZnlJZHIxRUZMb1h1Yzk0TkZLSmQ5a0RnTQ?oc=5",
-            "date": "Fri, 30 May 2025 07:00:00 GMT",
-            "sort_key": 1748588400.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "FSSAI issued strong advisory for Food Business companies not to use '100%' in food labelling - Zee Business",
             "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYnp4QTZKamVWRW90dmFyYURDQ2x3SUNaUDJNODBvVXlBVHZHVnlBaTIyQ1BGd01vRTlxTEtPYkpuS2doMm44VEVVSFJuVGRianJmRkQwRURsTWc5b1FTX042UWxWOXdEQkRieGRpQWZOaWFyT1NFZ3VVQ01VSmpqSXlkTnh0d0o3ZkVQTExzY1d0SnR2Wl9GUFhFSGVrMnhfeVYzRnZkelZ3c2piT3pJQjA3S3dJS3Q5VzZzRGRISHFBN2FvUFVINF9yV1dvb2ZqQ3hzM1h6UFZ1Ym9HdDU5Mm1URHAtZmZNbXVMOTJOYnFwZHhYa2ZhSnJON0ppUmViS3NPT1dvMTVhSnBVWnctNldR?oc=5",
             "date": "Fri, 30 May 2025 07:00:00 GMT",
@@ -699,6 +692,13 @@
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfRXFxNVUtTVlVRkFaZ2VxMFgza1JDZWZWQm1rT0E2b2YtRGVualpHUlJDeEk5SEE1TWZldVlOdGdoNXl5bkZCcFIwWjJIaFlQMFdEWUtzMDYzZzR1Sk51MHNPSUp0YzRSMDZuaHBPZHBQSURwOXliVGJGbC0?oc=5",
             "date": "Mon, 19 May 2025 07:00:00 GMT",
             "sort_key": 1747638000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "FSSAI does a U-turn on its role in monitoring violations of baby food law - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdVpWMlhvcVpIOHh0dVMycE9EdkIxTGRDWVJXazFlWVE3QnRBcGtXLWdjUXA4UVdwV05lZTF3RjkwQTFjS3NHNklPWXJDM0N3dEliOVIwYzlrLWNsbXlpY0d3VXY0T2V3VVM3ZHZYeUYtRGlIb3lpeS1uZnVQUnJJdGJURUdYSncwZk9uZk91MXJXS3pXajlpUVdqMlEyQW1GdlkzREY4bnpCZTJldlRVb2Q2eFZ6MkFiYjd1c1pwdjRUZWtSZS1SOWFVZFN3VHRLZHNydHJ5R3h1b0pyZ092N2ZSUW9KQ29sc3F6elhKT1HSAfYBQVVfeXFMTTZ5RDBONkUtN0NWWTFsQzBuOUwwOWpQOWFnSWYyT0NKMlMzVE54SV93RGRhOXBsWXhXQ08wS1I3REs3WWd0bzY5UFI1MG1CQUpkZU1FZi1LQktmWmpKM1pZa2xlcm5MU0VOU0FNRTA1b1hjbm84Ymx2SkJDNjd3MzF4NFZhUF9nV3hCMGd4UVRJUWZhXy0ydTZKMDVVREFOazJtYzRHTDhmbjhka0toemxWNE5WMW1hR2pmNVQ4emR5NVNSb3ZZRTJaVEhkZVFWR3JOMU5jUXFxWnZEWi1wQkhIbDB3MW1rcVFzb282OHZfNmtHSlB3?oc=5",
+            "date": "Thu, 10 Apr 2025 07:00:00 GMT",
+            "sort_key": 1744268400.0,
             "aging": "Latest Pulse"
         }
     ]
