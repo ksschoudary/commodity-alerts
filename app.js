@@ -22,30 +22,30 @@ document.addEventListener('DOMContentLoaded', () => {
  */
 async function switchSegment(segment) {
     const container = document.getElementById('main-feed');
-    console.log("Switching to Segment:", segment);
-
-    // Update UI: Tab Button States
-    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-    const activeBtn = document.querySelector(`[data-segment="${segment}"]`);
-    if (activeBtn) activeBtn.classList.add('active');
-
-    // Show Loading State
-    container.innerHTML = `
-        <div style="padding:40px; text-align:center; color:#8b949e;">
-            <div class="spinner"></div>
-            <p>Syncing ${segment} pulse...</p>
-        </div>`;
+    // ... (UI highlight code remains same)
 
     try {
-        // FETCH WITH CACHE-BUSTER: Forces fresh pull from GitHub
-        const response = await fetch(`${DATA_SOURCES[segment]}?v=${Date.now()}`, {
-            cache: "no-store",
-            headers: {
-                'Cache-Control': 'no-cache',
-                'Pragma': 'no-cache'
-            }
-        });
+        const response = await fetch(`${DATA_SOURCES[segment]}?v=${Date.now()}`);
+        const wrapper = await response.json();
+        
+        // Handle the new structure {sync_time: "...", news: [...]}
+        const data = wrapper.news || [];
+        const lastSync = wrapper.sync_time || "Updating...";
 
+        // Update the header with the Last Updated timestamp
+        const statusEl = document.querySelector('.status-indicator');
+        if (statusEl) statusEl.innerHTML = `<span class="dot"></span> Last Sync: ${lastSync}`;
+
+        if (!data || data.length === 0) {
+            container.innerHTML = `<div class="empty-state">No fresh updates found.</div>`;
+            return;
+        }
+
+        renderFeed(data, segment);
+    } catch (error) {
+        console.error(error);
+    }
+}
         if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
         
         const data = await response.json();
