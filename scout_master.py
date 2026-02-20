@@ -3,42 +3,52 @@ import json
 import os
 from datetime import datetime
 
-# 28 Commodity Logic + Official Sources
 QUERIES = {
     "wheat": "Wheat+India+News+OR+MSP+OR+Policy",
-    "pib": "site:pib.gov.in+Wheat+OR+Sugar+OR+Oil+OR+Edible+Oil",
-    "reg": "FSSAI+India+Advisory+OR+Order+OR+Standard"
+    "pib": "site:pib.gov.in+Wheat+OR+Sugar+OR+Oil",
+    "reg": "FSSAI+India+Advisory+OR+Order"
 }
 
 def fetch_data(query_key):
     url = f"https://news.google.com/rss/search?q={QUERIES[query_key]}&hl=en-IN&gl=IN&ceid=IN:en"
     feed = feedparser.parse(url)
     
-    print(f"DEBUG: Found {len(feed.entries)} items for {query_key}")
-    
     results = []
     for entry in feed.entries:
-        # We use strict lowercase keys: title, url, date, aging
+        # Get raw timestamp for sorting
+        ts = entry.published_parsed if hasattr(entry, 'published_parsed') else None
+        
         results.append({
             "title": entry.title,
             "url": entry.link,
             "date": entry.published if hasattr(entry, 'published') else "Recent",
+            "sort_key": datetime(*ts[:6]).timestamp() if ts else 0,
             "aging": "Latest Pulse"
         })
-    return results[:100] # Max 100 items per segment
+    
+    # SORT BY FRESHNESS: Newest (highest timestamp) first
+    sorted_results = sorted(results, key=lambda x: x['sort_key'], reverse=True)
+    return sorted_results[:100]
 
 def sync():
-    # This creates the 3 files your PWA is looking for
-    with open('wheat_news.json', 'w') as f: 
-        json.dump(fetch_data("wheat"), f, indent=4)
+    # Capture sync time in IST
+    sync_time = datetime.now().strftime("%d %b, %I:%M %p")
     
-    with open('pib_data.json', 'w') as f: 
-        json.dump(fetch_data("pib"), f, indent=4)
+    data = {
+        "last_updated": sync_time,
+        "wheat": fetch_data("wheat"),
+        "pib": fetch_data("pib"),
+        "reg": fetch_data("reg")
+    }
+
+    # Save to one master file or keep independent? 
+    # Let's keep independent but add the timestamp to each
+    for key in ["wheat", "pib", "reg"]:
+        output = {"sync_time": sync_time, "news": data[key]}
+        with open(f'{key}_news.json' if key == 'wheat' else f'{key}_data.json', 'w') as f:
+            json.dump(output, f, indent=4)
         
-    with open('fssai_data.json', 'w') as f: 
-        json.dump(fetch_data("reg"), f, indent=4)
-        
-    print("Sync Complete: All JSON files updated.")
+    print(f"Sync Complete at {sync_time}")
 
 if __name__ == "__main__":
     sync()
