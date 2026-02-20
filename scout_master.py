@@ -1,39 +1,44 @@
 import feedparser
 import json
-from datetime import datetime, timedelta
+import os
+from datetime import datetime
 
-# BROADENING SEARCH: Removed strict filters to ensure results
-# Using exactly what usually works for Google News RSS
+# 28 Commodity Logic + Official Sources
 QUERIES = {
-    "wheat": "Wheat+India+News",
-    "pib": "site:pib.gov.in+Wheat+OR+Sugar+OR+Oil",
-    "reg": "FSSAI+India+Notice+OR+Order"
+    "wheat": "Wheat+India+News+OR+MSP+OR+Policy",
+    "pib": "site:pib.gov.in+Wheat+OR+Sugar+OR+Oil+OR+Edible+Oil",
+    "reg": "FSSAI+India+Advisory+OR+Order+OR+Standard"
 }
 
 def fetch_data(query_key):
     url = f"https://news.google.com/rss/search?q={QUERIES[query_key]}&hl=en-IN&gl=IN&ceid=IN:en"
     feed = feedparser.parse(url)
     
-    # Debug print for GitHub Logs
     print(f"DEBUG: Found {len(feed.entries)} items for {query_key}")
     
     results = []
     for entry in feed.entries:
-        # We will keep the latest 50 results regardless of age for now to test output
+        # We use strict lowercase keys: title, url, date, aging
         results.append({
             "title": entry.title,
             "url": entry.link,
-            "date": entry.published,
-            "aging": "Latest" 
+            "date": entry.published if hasattr(entry, 'published') else "Recent",
+            "aging": "Latest Pulse"
         })
-    return results[:50]
+    return results[:100] # Max 100 items per segment
 
 def sync():
-    # Save all files
-    with open('wheat_news.json', 'w') as f: json.dump(fetch_data("wheat"), f, indent=4)
-    with open('pib_data.json', 'w') as f: json.dump(fetch_data("pib"), f, indent=4)
-    with open('fssai_data.json', 'w') as f: json.dump(fetch_data("reg"), f, indent=4)
-    print("Files updated successfully.")
+    # This creates the 3 files your PWA is looking for
+    with open('wheat_news.json', 'w') as f: 
+        json.dump(fetch_data("wheat"), f, indent=4)
+    
+    with open('pib_data.json', 'w') as f: 
+        json.dump(fetch_data("pib"), f, indent=4)
+        
+    with open('fssai_data.json', 'w') as f: 
+        json.dump(fetch_data("reg"), f, indent=4)
+        
+    print("Sync Complete: All JSON files updated.")
 
 if __name__ == "__main__":
     sync()
