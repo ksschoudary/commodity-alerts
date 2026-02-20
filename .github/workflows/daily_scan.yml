@@ -1,4 +1,36 @@
-run: |
-  python wheat_scout.py
-  python pib_scout.py
-  python reg_scout.py
+name: Commodity Intelligence Sync
+
+on:
+  schedule:
+    - cron: '30 10 * * *'  # Runs daily at 10:30 AM
+  workflow_dispatch:      # Allows you to click "Run workflow" manually
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Scraper Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run All Intelligence Scrapers
+        run: |
+          python wheat_scout.py
+          python pib_scout.py
+          python reg_scout.py
+
+      - name: Commit and Push Updated JSON Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add wheat_news.json pib_data.json fssai_data.json
+          git commit -m "Sync latest commodity intelligence" || exit 0
+          git push
