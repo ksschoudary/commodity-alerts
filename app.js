@@ -1,131 +1,77 @@
-/**
- * MASTER APP ENGINE: Commodity Intelligence Tracker
- * Segments: Wheat News, PIB Updates, Regulatory
- */
-
-// 1. DATA CONFIGURATION
 const DATA_SOURCES = {
     wheat: 'wheat_news.json',
     pib: 'pib_data.json',
     reg: 'fssai_data.json'
 };
 
-// 2. INITIALIZE ON LOAD
+// 1. Initial Load
 document.addEventListener('DOMContentLoaded', () => {
-    // Default to 'wheat' segment on startup
     switchSegment('wheat');
 });
 
-/**
- * CORE LOGIC: Switch between segments and fetch data
- * Includes "Cache-Buster" and "No-Store" headers to prevent old data display
- */
+// 2. Main Navigation Function
 async function switchSegment(segment) {
     const container = document.getElementById('main-feed');
-    // ... (UI highlight code remains same)
+    
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.querySelector(`[data-segment="${segment}"]`);
+    if (activeBtn) activeBtn.classList.add('active');
+
+    container.innerHTML = `<div class="spinner"></div><p style="text-align:center;color:gray;">Syncing ${segment}...</p>`;
 
     try {
         const response = await fetch(`${DATA_SOURCES[segment]}?v=${Date.now()}`);
         const wrapper = await response.json();
         
-        // Handle the new structure {sync_time: "...", news: [...]}
+        // Extract news and sync time from your new JSON structure
         const data = wrapper.news || [];
-        const lastSync = wrapper.sync_time || "Updating...";
+        const lastSync = wrapper.sync_time || "Recent";
 
-        // Update the header with the Last Updated timestamp
         const statusEl = document.querySelector('.status-indicator');
-        if (statusEl) statusEl.innerHTML = `<span class="dot"></span> Last Sync: ${lastSync}`;
+        if (statusEl) statusEl.innerHTML = `<span class="dot"></span> Live Pulse: ${lastSync}`;
 
         if (!data || data.length === 0) {
-            container.innerHTML = `<div class="empty-state">No fresh updates found.</div>`;
+            container.innerHTML = `<div style="padding:20px; text-align:center;">No fresh updates found.</div>`;
             return;
         }
 
         renderFeed(data, segment);
     } catch (error) {
-        console.error(error);
-    }
-}
-        if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
-        
-        const data = await response.json();
-        console.log(`Data for ${segment}:`, data);
-
-        if (!data || data.length === 0) {
-            container.innerHTML = `
-                <div style="padding:40px; text-align:center; color:#8b949e;">
-                    <p>No recent ${segment} updates found.</p>
-                    <p style="font-size:0.8rem;">Check GitHub Actions logs for sync status.</p>
-                </div>`;
-            return;
-        }
-
-        renderFeed(data, segment);
-
-    } catch (error) {
-        console.error("Fetch Failure:", error);
-        container.innerHTML = `
-            <div style="padding:40px; text-align:center; color:#e74c3c;">
-                <p><strong>Connection Interrupted</strong></p>
-                <p style="font-size:0.8rem; color:#8b949e;">${error.message}</p>
-            </div>`;
+        console.error("Fetch Error:", error);
+        container.innerHTML = `<div style="padding:20px; color:red; text-align:center;">Sync Error. Check GitHub Actions.</div>`;
     }
 }
 
-/**
- * RENDERING ENGINE: Converts JSON to visual cards
- * Uses Flexible Key Matching for robust data display
- */
+// 3. Rendering Engine
 function renderFeed(data, type) {
     const container = document.getElementById('main-feed');
-    
-    const html = data.map(item => {
-        // FLEXIBLE KEY MATCHING: Handles both 'title' and 'Title' etc.
-        const title = item.title || item.Title || "Untitled Release";
-        const url = item.url || item.Link || item.url || "#";
-        const date = item.date || item.Date || item.published || "Recent";
-        const aging = item.aging || "Latest Update";
-
-        // Segment-Specific Branding
-        const sourceLabel = type === 'wheat' ? 'Market Feed' : (type === 'pib' ? 'PIB India' : 'FSSAI Regulatory');
-
-        return `
-            <div class="card" data-type="${type}">
-                <div class="card-header">
-                    <span class="badge">${aging}</span>
-                    <span class="source-label">${sourceLabel}</span>
-                </div>
-                <h3 class="card-title">${title}</h3>
-                <div class="card-subtitle">${date}</div>
-                <div class="card-footer">
-                    <a href="${url}" target="_blank" class="view-btn">View Official Release →</a>
-                </div>
+    container.innerHTML = data.map(item => `
+        <div class="card" data-type="${type}">
+            <div class="card-header">
+                <span class="badge">Latest</span>
+                <span class="date-label">${item.date || 'Recent'}</span>
             </div>
-        `;
-    }).join('');
-
-    container.innerHTML = html;
+            <h3 class="card-title">${item.title}</h3>
+            <div class="card-footer">
+                <a href="${item.url}" target="_blank" class="view-btn">Read Official Release →</a>
+            </div>
+        </div>
+    `).join('');
 }
 
-/**
- * NUCLEAR RESET: Bypasses Service Worker & Browser Cache
- * Use this when the app feels "stuck"
- */
+// 4. THE FIX: The Emergency Reset Function (Must be top-level)
 async function emergencyReset() {
     const btn = document.getElementById('refresh-btn');
-    if(btn) {
-        btn.innerText = "Purging Cache...";
-        btn.style.opacity = "0.5";
-    }
+    if (btn) btn.innerText = "Purging...";
 
     try {
-        // 1. Clear Service Worker Cache
+        // Clear Caches
         if ('caches' in window) {
             const keys = await caches.keys();
             await Promise.all(keys.map(key => caches.delete(key)));
         }
 
-        // 2. Unregister Service Workers
+        // Unregister Service Workers
         if ('serviceWorker' in navigator) {
             const registrations = await navigator.serviceWorker.getRegistrations();
             for (let reg of registrations) {
@@ -133,13 +79,8 @@ async function emergencyReset() {
             }
         }
 
-        // 3. Wipe Storage
-        localStorage.clear();
-        sessionStorage.clear();
-
-        // 4. Forced Hard Reload with Timestamp
+        // Hard Reload
         window.location.href = window.location.origin + window.location.pathname + '?bust=' + Date.now();
-
     } catch (e) {
         console.error("Reset failed", e);
         window.location.reload(true);
