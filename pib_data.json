@@ -1,5 +1,5 @@
 {
-    "sync_time": "23 Feb, 11:04 PM",
+    "sync_time": "24 Feb, 12:01 AM",
     "news": [
         {
             "title": "PRESIDENT OF INDIA HOSTS PRESIDENT OF BRAZIL - PIB",
@@ -13,13 +13,6 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Yc2MtNzVWNlJUaHNlUnhhN0hqY1I1UDFKVGxMUUtZc3pLa25DUURHLUI0Z0QtcDdKSVJCbThsbUFILV9jZ2taZW1oOWFIN1NndG05UHdid3R4YkV2NlNRTTJtN1lnMXdVMnRBNEgtdnQyUkhZYnByTUZn?oc=5",
             "date": "Sat, 21 Feb 2026 14:35:00 GMT",
             "sort_key": 1771684500.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "IIM Raipur Concludes Leadership Programme for Indian Oil Officers - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81MFkwQTNNRXRaSFFzWGtoTV9sdVdMREF3NlhSbFV6c1B5VF9hN1FkZHVPR3BpZ3lCdTZWUGlKLWVfdWtIMkRHeEhlaWJRWnJKYnV1b0RPRDJSeThhLUZGZGd1SQ?oc=5",
-            "date": "Wed, 18 Feb 2026 12:58:00 GMT",
-            "sort_key": 1771419480.0,
             "aging": "Latest Pulse"
         },
         {
@@ -51,17 +44,24 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Indian Coast Guard Busts International Oil Smuggling Racket through Coordinated Sea-Air Operation - PIB",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uWTFwNVRHQzBzbmlER0oxSXczZ0d2QzRKajM1c3NRWVNDZjJEMEhiOHhyYi1Va01CdHZFVUpYRDAzcVhZTk5pRllwTUstUjlIRlhkVllYT01KSUdsUWhFdGdwNVpzc09Ock5v?oc=5",
-            "date": "Sat, 07 Feb 2026 08:00:00 GMT",
-            "sort_key": 1770451200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Centre Withdraws Wheat Stock Limit Order Following Improved Availability Ahead of Festive Season - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96NFF1cmpwdjI4b0g5dnpwMkJZa0ZSVkpsYXIxRThqSVd0RlVVdzhqNHBOMkRoaEJLQ0xQX1U5LXpCZHA2bHJEQ0loV3ZHbmdPSGE5RmVIQUpSR2hFOG1hMUV2QjdMX3BuVEZCejBwajFzWHhRd1FYOUFR?oc=5",
             "date": "Thu, 05 Feb 2026 08:00:00 GMT",
             "sort_key": 1770278400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Shri. Shunchonngam Jatak Chiru (IAS), Principal Secretary, Transport Department, Government of Tamil Nadu inaugurated \"Saksham 2025\" - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00X3hTNlNTdk9QLXN6cHFVQWdaM0RwNXJNUHg1OFlkdWRhODNnVml6ZjBaekszNDAydHN6S2RkMEltVUlvWHc5eUlESHhiRDRQTnVjUWdFMGJjblhRLVBDTWFVUEkwZnFm?oc=5",
+            "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+            "sort_key": 1770105600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Cooperative Sugar Mills - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ek13Vm1vcmRNekl5SVRnTEJPdjBlRmlHY1dZc2xrOXBLWm9yZ2IyTnNlY1hULWxfQU5Eb2Q5Z3p3NlhCMmVVQ1dwVUgzdWZaQ0Y4WnJObFY3ZV9VbU4zYWVEdW1PUVAxc3ZKa0xOUDhwYTQtbFE4UEN3?oc=5",
+            "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+            "sort_key": 1770105600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -97,20 +97,6 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPX1ktalNFYmtpVmlMdV9fWmFaRnR0ZWZCN3laZXhKdzVNNDk4T1VROWtXOHNLdy01SzdwSVBYM0hvdVlCMURKd2hqTW9nNVNmajlpZk5pY0RMVWYtNEkzOFBEUkE0QW1I?oc=5",
             "date": "Sun, 05 Oct 2025 07:00:00 GMT",
             "sort_key": 1759647600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2026-27 - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zWkY0T0d0WlpYaU1iS3lfczBCUk9BcUNIWkI2RDB5TXBralhkVDN4cVJKcmFPU1dMTlhqNF9lRC1iYTV5NUNRQjUyRThPamhyWDNSYmVScXIwV2xKeGJiOUxsTmlsR2Y2?oc=5",
-            "date": "Wed, 01 Oct 2025 07:00:00 GMT",
-            "sort_key": 1759302000.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "ANDAMAN OIL EXPLORATION - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3MzlYZE9ZeVYyYlppNzhxYU1iTTZsVVlWbmZWSXlOZjRDb2xsekd6ckdjaGdtSmRLTjBlUGJtOVk3a2wyRlZqMi1EYkJoc3JnTEFHX3kydHRPXzE5X2RrOVJtQlhNUVhN?oc=5",
-            "date": "Mon, 11 Aug 2025 07:00:00 GMT",
-            "sort_key": 1754895600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -163,20 +149,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Various steps have been taken to reduce import of Crude Oil - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUGlGNVBhb2dPTlNSUWcyX1lsVzdTdXRKdXZmX1pzSG9lMW9zWDZXY2Y1RjFQT3FIYXBMX0Zab1QtajByQlh2RW1JSTVnYjM0NWltemVtZTBOenVUVExIcGJPclc0cTBULWc?oc=5",
-            "date": "Fri, 23 May 2025 19:17:23 GMT",
-            "sort_key": 1748027843.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Foodgrains for BPL population at highly subsidised prices - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaUc1eFByNDkwdHJ5clFsakYwaFdBcG16V29tbjhJVTlSNVNDdGY5RDBnaS05eTI4d1JKSGplaEJ6M0UteEVZT1JjeE1NWU1TX0I0dVctZF9FWmhZbUVTQ3FpSGdVV1FmTEV0b0tB?oc=5",
-            "date": "Wed, 21 May 2025 01:02:07 GMT",
-            "sort_key": 1747789327.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Oil and Gas production at Sakhalin commences todayMani Shankar Aiyar and Russian energy Minister witness tap opening ceremony - PIB",
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hbko4aFk4YUdTZDdxblZWMHNWMFNJRnoydFJfX0l4eEt5R1NTOWMwNF8wLXZZNVdxZUJUSGNfLURhMG15eG50R3dUYU9NSk12UndyUWl3cE50aGFRc1Y2TVpIM0o3aHdrekU3bQ?oc=5",
             "date": "Wed, 21 May 2025 00:28:03 GMT",
@@ -191,10 +163,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Sugar exports from India to China to begin soon - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ta2JDQXZ6UXoycTAtVmJkbW0xOHE1Wm0zSDEyY002MC1kN3VQbnVYdU1JQlRIb0VHTnJKUzMtcUZqS0M3V3RBRm9jT3NHdHF4MldTWjZUakVWQlFScHRvSXl6aVdOLTE5M3c?oc=5",
-            "date": "Sat, 17 May 2025 23:33:51 GMT",
-            "sort_key": 1747524831.0,
+            "title": "49% increase in Wheat procurement for ongoing RMS 2021-22 in comparison to corresponding period of last year - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FMEJRMlItbWwtTG51bG5rcDRTM25VaGw1VjhhcXZBN3NSQm9ueGxqYnVRS25OczVKeWFLRi1ELUpGX01HaUFDUnFpdEFmRkFIQjdhMVBBNjNMWnRVelBOYnRGc3E3cmVNMEE?oc=5",
+            "date": "Tue, 20 May 2025 05:06:43 GMT",
+            "sort_key": 1747717603.0,
             "aging": "Latest Pulse"
         },
         {
@@ -216,6 +188,13 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WZG9tY1FscVVNVnpUSTV5c3EwclJuLVdhRVVialRNcmt5TmZuU2w5S1NUbF91aHh5dmFrYU1IUXk0UlBqZU4wNlRrWVdJaEpodDg0bFZfcnY4amxoMlJmSjdYZ0preVoxY3c?oc=5",
             "date": "Tue, 13 May 2025 17:07:16 GMT",
             "sort_key": 1747156036.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "To streamline regulatory framework governing Sugar Sector, Centre formulates Sugar (Control) Order, 2025 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04ZDZzZ3F3aVd4Y0R6djA4ZnR5SkJ6N0YyMFB6STlkQlVlTUs1ZFBPOHFPcjJTWmowMlE2Ylk3YldTTmFDLV9KdlNiQ2ZVSndpa0dka0VnTDhrTGtadkN6RkFVQnk2b3Iy?oc=5",
+            "date": "Thu, 01 May 2025 07:00:00 GMT",
+            "sort_key": 1746082800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -317,13 +296,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to attend NFCSF\u2019s \u2018Sugar Conclave and National Efficiency Award 2022-23\u2019 ceremony as Chief Guest on Saturday, 10th August 2024 in New Delhi - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LdjVrSThIUnQ4TzIxbmxqWEJrM0FodDhsTW9ZWnNJOUUzbXdNMFI2N1EzYTZpVGVCaXJBZ0hLSzB6VkM3NXAzMThRQWIwaW1PbFBsUVptcUNzWmRldW5tYTZvV0tXZVZU?oc=5",
-            "date": "Fri, 09 Aug 2024 07:00:00 GMT",
-            "sort_key": 1723186800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "GOVERNMENT INITIATIVES TO REDUCE CRUDE OIL IMPORTS AND ENHANCE HYDROCARBON PRODUCTION - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZEpxbU9KdHVTSnBaTGRFWnlfbndJdkdjQzREcjdJZUhFTldjOWp2WV9XNFdySS1KdXlNLWRjYlFEU3pPWFFoRGhLLVY1bklPa2t0UENVU01fZWZLTENvOHBiRW4zNl9UUTh0S05wMG4?oc=5",
             "date": "Mon, 29 Jul 2024 07:00:00 GMT",
@@ -359,10 +331,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "STEPS TO INCREASE PRODUCTION OF OILSEEDS AND EDIBLE OIL - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKS3BTVi1ncERtak9vaENrdlo0bzZWUnM0VXAxbGZOZnNaSXZQVTlsUVpRLXBtS0lyTkdORUkyVzUtdlcyNkIwLUtDb1d4MGpmT21xdEpROFRFUVFzUWJjSU85R0o1enc1?oc=5",
-            "date": "Fri, 09 Feb 2024 08:00:00 GMT",
-            "sort_key": 1707465600.0,
+            "title": "Cabinet approves signing of Memorandum of Understanding between India and Guyana on cooperation in the hydrocarbon sector - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Tb25tUGJWZU5zWDhtbzVwX1hYTmNVbkNzOXJwSHRjZVlmVFpNUVVZZnhreVpvY2tGeTVGUWRvNUZRdHV6WWtTLTF4NjcwRFI0ajhLRFJxdjdrZUtIMTQ2cGdjMUwycDJBUkJQX2EwLXE?oc=5",
+            "date": "Fri, 05 Jan 2024 08:00:00 GMT",
+            "sort_key": 1704441600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -377,13 +349,6 @@
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIN0UxU2RMeE5lVFFDMXFPanJLMGZUQWVtS2dCeTAtZ2NpN09ERUxLQXJvTFJmVXh1YnhRcHhiZ1RyRjJ2YlphVHFidnhiYlFRUTFNcGVER1NldEJqQjNZd2VFcUl1MDZsbDZEZDFua1M?oc=5",
             "date": "Fri, 06 Oct 2023 07:00:00 GMT",
             "sort_key": 1696575600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "FCI will provide wheat at low price in Kerala - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LUW5objJNTHU2Z3FvbDlOeVM4cXpBanpBeHpReF9nT1N2V0plQktrMHRmRzNNM1pDSWxxMjNKb1ZOVFJjem00QktScm1HcXlCR08wYUV2SWNHUXQzRGdUZnlOUVZoRElp?oc=5",
-            "date": "Fri, 15 Sep 2023 07:00:00 GMT",
-            "sort_key": 1694761200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -422,13 +387,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "To cool down the prices of wheat and atta, Centre decides to offload 30 lakh metric tons of wheat under Open Market Disposal Scheme (OMSS) and sales to State Governments, KendriyaBhandar, National Consumer Cooperative Federation (NCCF), National - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZGI5TnA3RmZTMk5fR2p3NDNYbU4wYjJhYmlVbTh2N1BzQTdwckRhR09tZ2RCM1BhSGJWcUhrWGdybGpmUUl3STlTdkhreTROejFLYzRMaG9STS15YUhJVmhVZ0FRSGlSMnJ5dkJ4YmY?oc=5",
-            "date": "Fri, 10 Feb 2023 08:00:00 GMT",
-            "sort_key": 1676016000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Centre encouraging sugar mills to divert excess sugarcane to ethanol - PIB",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eUgtNWpoVVl5REk2eGkwXzlwM3ZxWENJeDRQa3ZqSl9sV3lvNU9tVUlQYTVqOWRvSDUwUUdHUnFldlBFQWRIeFhrazIxaG5NRGZwekQtQU1sR1k4ZW54YkhnTVVfb0R4aHc?oc=5",
             "date": "Wed, 14 Dec 2022 08:00:00 GMT",
@@ -436,17 +394,17 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Indian Oil signs MoU with National Tiger Conservation Authority (NTCA) for transcontinental relocation of \u2018cheetah\u2019 in its historical range in India - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRjBQbGFGX2F2eFY0a0dmRFdjTndNQnJnU0lLMTl2VmMta1FMZzUyQkt1bjZKUGpEcEw5R0dkdkM3eU03dW5oWjllMVpnUGttVUVPUC03M0tZNWlvQXJuODMwS0dxRVdvbW43U3JoX08?oc=5",
-            "date": "Tue, 02 Aug 2022 07:00:00 GMT",
-            "sort_key": 1659423600.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Edible Oils Prices of packed Mustard, Soya and Palm Oil down by 15-25 rupees per litre - PIB",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbnNkVnVSbUMwNjQ5dnBzVW95SjdFTkpnUVd1c3VoN0doQk9XMmNsS3hJMlVET19lRnRoa2UyOFZUZmo4dktNNnNfZ2FQRlpqaGlwZkI5eFBVT05iZVA1TDhLMnhXNnhnY1NKX1RYY1UweUhvN0hGUFZMWERIb0ZMQzdDVEJ3cFhsQUl0dnRMRU1sc01lUGc?oc=5",
             "date": "Mon, 18 Jul 2022 07:00:00 GMT",
             "sort_key": 1658127600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Balance of public procurement and market sales a win-win for farmers and consumers - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TcjFEX29uT09BSGJ6aC1jSzJ3RzFFclFUUW0tOGJSS1cxaFF4SWswZXNYQUM5OWNBZkJrVGlSU3ZjeEx3TDBxN2pXcnBFZ3lNNHFvT01PVzRscm9rcTZPZnNKdkFNM1VC?oc=5",
+            "date": "Fri, 10 Jun 2022 07:00:00 GMT",
+            "sort_key": 1654844400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -513,6 +471,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "CSR Initiatives by Oil and Petroleum PSUs - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94SVlhZ1dPNWN6VmEwNDlPQUlNS2NwZXdIUUdWbDdGRjhGVVZVS3ZnWnZlNXlIUG44aDRFVlJncURMRTVRbWFlVEFDU1ZqWkJOT0w2aHBZSG45ejRzdDdvdE9RV29WbHB1c2c?oc=5",
+            "date": "Mon, 13 Dec 2021 08:00:00 GMT",
+            "sort_key": 1639382400.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Production of Palm Oil - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iSGEzV09CMWxyNkMzTEpfSTRCWllwOEk1X1dnMTV3TExKbjY0SldOXzl5QjBXOUc2T19UNlRzUy1meU1tZ2FoZzA1blVGLTNWbUsya0lMLWtRalhVN09BdmgxZ2VOS1pKV3pNbVA2T1M?oc=5",
             "date": "Fri, 10 Dec 2021 08:00:00 GMT",
@@ -541,6 +506,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Ayurveda\u2019s immunity boosting measures for self care during COVID 19 crisis - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNG5GX2ZZV3RSS1k0WFg2enJxQ3AzVG81TklMUDhIWDg5blJtMWc4WXVnMUNVcHFKaXJSWFhacnRsZWJZWDdmNzlpU2Fjc1pEZm54NHFhSHo5OVhMQ203ZDhfeWcxdWdi?oc=5",
+            "date": "Tue, 31 Mar 2020 07:00:00 GMT",
+            "sort_key": 1585638000.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "FSSAI\u2019s Hygiene Rating Scheme - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVkgzZ2tJc1I1LTJndnd2RGxXSnA2UkJCTzNnekF2Vk9RbWhPdzBEQ1FjcnAza2ptYzU2N0JyNFV2dUtiNW9nUHZHMTJoS1J4VnQ0aFBsZzAwV1ZqZFFoaXFfWFBWNTdK?oc=5",
             "date": "Fri, 13 Dec 2019 08:00:00 GMT",
@@ -566,6 +538,13 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRW56ZVdyVk1YOTN0M0NwcTI2RzQ2TnpFZWR2Y3h4Q2ljeDkyZHhMeVN2cGhwdF91YXFibGRoRl85NEJIYzB4Mi0yQ0p6Wk4wVXJfYmZ6UG1VR0dDTVFKd1ZWS0h2VHJM?oc=5",
             "date": "Wed, 06 Jun 2018 07:00:00 GMT",
             "sort_key": 1528268400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Global Crude oil price of Indian Basket was US$ 48.62 per bbl on 04.07.2017 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcC1WbDVfYUt3WnIyOGFfN3hxa3AxU2tCU29Jc2F6TTNzVHFVNWotT0oteDlVTHgwZFVQUk9NUjFDMHg1cXFSZGFEYmNJbTZvdWFYQ3loNGxXNmJSZjBZbjJabXJQNjg3Y05aUWF3?oc=5",
+            "date": "Wed, 05 Jul 2017 07:00:00 GMT",
+            "sort_key": 1499238000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -604,6 +583,20 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Global crude oil price of Indian Basket was US$ 90.15 per bbl on 08.10.2014 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYX2lYeHRmNnBUclE3eTV5UHB4eEotQVRDdzdPUjF1VTBiZ0daUDJrZjlVaG1vU3FTQUktbW1FMjlCWkNLWXNXNGJnd2s4NG83N2NMemZNdjBuY3hCVFhMckxyeC1JX2JMNXhlR2FB?oc=5",
+            "date": "Thu, 09 Oct 2014 07:00:00 GMT",
+            "sort_key": 1412838000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Global crude oil price of Indian Basket increased to US$ 106.34 per bbl on 29.07.2014 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11TTFwMEJOTzJmVXZfS3RaU21MR2puQVEwb0pYbnBSTE5UemhwRmtrVTZMME8wSE1IcWdIdHdqWHo4bXE3UWFWbkZjY1Z6a1Zrb0R5UVhZLUk3SDdIVXZBRUlrWXlrZTU5QmFGZGNB?oc=5",
+            "date": "Wed, 30 Jul 2014 07:00:00 GMT",
+            "sort_key": 1406703600.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Global crude oil price of Indian Basket decreased to US$ 107.89 per bbl on 07.07.2014 - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lR09UQWVNWml1TkdzZFkyelJ3NWJZUndDUW1JZ0hKSzktaFNvTUc2TUVFcmFPbFdTU3NkdWNFNTBXSUhLODRVX05Md1Jfci0xYjJRMjhEa3RLcUI4cWxOR09FdGFUY1VDdHplMTZ3?oc=5",
             "date": "Tue, 08 Jul 2014 07:00:00 GMT",
@@ -615,6 +608,13 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yX29CVlZZNlBPejFCNEJjODl3VGNyVmNiRExEa1JaS0YtdGg1VWNFV2Q4dHlzeTZKaXFzcUdTcHRCT0o0WHFDSUJwclRiN3JQY1NRcGhpOFNkTU5MOWh6NVRTQ3VNVnhpQ0RMeXh3?oc=5",
             "date": "Thu, 06 Feb 2014 08:00:00 GMT",
             "sort_key": 1391673600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Revamp of Aging Platforms by ONGC is essential for sustenance of oil & gas production from western off-shore: Mos Petroleum - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XblEzQTZzX0JJdGZISlN4WTVqNmVUOXBOVFJrZk5xT21DUnQ0a2ZHYzBoTDlubjJjMU5mV080ZllrNW5LV3puRHpFZ0lqQzRISHlfM2h5c1NxT2oxam5QcVJOOUQ2YkljcXZpaQ?oc=5",
+            "date": "Fri, 03 May 2013 07:00:00 GMT",
+            "sort_key": 1367564400.0,
             "aging": "Latest Pulse"
         },
         {
