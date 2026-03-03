@@ -1,6 +1,13 @@
 {
-    "sync_time": "03 Mar, 02:32 PM",
+    "sync_time": "03 Mar, 05:30 PM",
     "news": [
+        {
+            "title": "Vegetable Daliya (Broken Wheat Porridge) - 7 gut-friendly Indian dinners for easier and better digestion - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWktPSDZ0SEdjRmtLWVh4Q21mWlVDY2Y2ZEpDUkJ3WExkeWQzZkxOc0lBby02N3cyTUN3RmNGN3BSb1BPelhreTgwUzNSalpVXzFBSnRSUEkySGlkSFFBeEhGOTNRYUdYckhkV0kweW5DNnJvRGk2R0pKUndNcHpqV012MG16RS1uRFdlb2EtM1ZTUzF3RGF2T2tzLWUtZ2liTG5UUHJwREw2S2liaUtOT0NTbHZvdlJ6bEpna0VqOEVCMHN1UlNyaWVRdUNTVzE3S0Fkc1FIcjZNOTg1b1ZlZmdoVHNOclNVTldSUGFVbGpTUHZWYUE?oc=5",
+            "date": "Mon, 02 Mar 2026 14:06:04 GMT",
+            "sort_key": 1772460364.0,
+            "aging": "Latest Pulse"
+        },
         {
             "title": "Bansal Engineers commissions 5,000 MT wheat silo in Uttar, India - Milling Middle East & Africa",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5WV3h6alBnRnF0cW54OE1DOHFtXzdlZkRJZzhDVGtTLWhRdndFNVpfc0xDaE5ScTc3YzlHSmdDSGV3RDRmLTJ0Mkhmb1dKSFNSR29jQVg0dUJkX0xabnFVM3ItOTVDY2pWdzZhYmNHeVNweGdsTE5HWFhoYUZac2NUWEtyTFNGdjhKc1ViMA?oc=5",
@@ -44,13 +51,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Will Pakistan run short of flour? Wheat output likely to fall amid Afghanistan war - India Today",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzBvVGpwOTEtU0hVRmtUT3FJcjdOeFFvSVBTUmRMY1Y1VWFJVnh2aWhwazRkNnVwZzVOX0RCTzNqdmZpUE1nRXQ1OXhjMWZWZmRkSlZTWWFIZGJFLTlJN3RFMHpHTkYyRHBqcW1DaXpNbzJUejlXa1hMNWNZX21RMkhvMWhveHVBamhsUDZyVS1uZ250QVJtRFhWbHNXb1hPcVNYdjhXak1LbmhzTHpreFdhcHktcmdqY2pHdUlMakVnX3BycnJMVzNLTWxfX1nSAdQBQVVfeXFMTndCYWRVWUs3WVpYNFJ4QzQ3YmJfS3FSMlpldHpjU1Bxb0VUY1lLbE9VbDU5TkZkNGk3Q283RlNuY2dlMmtfQVRJTDNaRGZwMTRpRjNqbTNENjJ5OVl4bWJ1QXpGbFNHSFg4TG1uZUNaeDg1SFhVQmRLWXNjQ0tJYzVEcDhrQ2wwa2FVMll5MnZha2ZfY0I0TXBrc29kQTRHYkRQanhfbGVXYVZxWXpOX1BaX0VSalBFMWx2R0d4RFk0aEdLWWREOXpXMHAwNlRCQlo4OUo?oc=5",
-            "date": "Fri, 27 Feb 2026 09:56:43 GMT",
-            "sort_key": 1772186203.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "India braces for unusually hot March: Wheat and rapeseed crops at risk - UkrAgroConsult",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2tfVVFzU2U3ZzlSNlAxdU5KOEtMSlRZTS13YWd0OWJEeFM1UWVGa09Iel8tMWdmNTdSQWhoRTFfaFhNNjBFajUyclFUOTlWTlBoampWckN6emgyUkNyQWtuQlJaVExwbXVDMHM0Tl9MUElvQWd2ckZOX19BbFNqeWFwckVfODdHTEhJcFBwOHFiN19IMjVfQUtOUG11YXhoTHJPRmlEbnc?oc=5",
             "date": "Fri, 27 Feb 2026 08:39:32 GMT",
@@ -58,10 +58,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India braces for unusually hot March this year, risking crop yields - Business Standard",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVczOGxhTTNiSDdxOE9nTjhWWFhMZ1FTRWJpQUd0OWVPZHE0NU5iamlVSlZ3NjBkX2szOE84SDhUMjZ3WmZLTm9qSUs2SzdtTFNsdnZINWFBTDc4bW9CS3A0aDJBR0FaU3NMZDNicWpUTC12QWxuWTNUOEdWaGluY1ZhdGwzVXhxZVBiRUNDVjJzSFN4aXg3SFVpLUFTMEJ3N0dZMjRUUXVhcnNwRzJUN0xzd3NXeUhBZ1NIVjNfX3J6T1JfVzExQWFNUkc2cG95S1pWczBwc9IB3AFBVV95cUxPTjNENFJTMDhjcTFMMmhkTGh2TE9fRjhYSzBUb3pXQ1VXWmhFMll6aWdzMWFIZVRBZlNUZzFrb0RPTVkyVlVUYmd0VkVueE9VMWtFVmJDZXpORjBtY1VuREtfSENPdGtmM3MtUzZtWXNra2E5NjVaVUxFWE5QMjNYQ2t0MUV2dFZPZlc4UXdrOEZXSlR1TF8zZGNLMDFIbTZKWnd4enlXbXZwNGhHOWF1dHYteFhDUjhZNmIwbXVtWUkyWUV4d0FNU3VBMGtlWHk0cnJkX1BZRi12cDRI?oc=5",
-            "date": "Thu, 26 Feb 2026 18:27:26 GMT",
-            "sort_key": 1772130446.0,
+            "title": "India braces for unusually hot March; wheat, rapeseed crops at risk: Report - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemVSQkxjQ2N4VTVMbVBzMUJIYzhQVm81U3RGbVFxOWY4SXFDQzhlV2tiekdkVnBfcUkzaURQMUdKTmQxUnFzVm1CQnBUZmNYdkZiaGNUSnFHTGJ4M3EtMHY4MGZsS3pzUVl6UUVPLXBoaTRLV3RmX3JBRWNNWmhORENTd2xQWWxheDgxUjdYTXFaV2FaR1lFVkUwSXMzV2txaXNDMzgzVVk1QkVraE02elRONVdPZWVqaGZCMWk0ZU16ZUgx0gHKAUFVX3lxTFBhTkNxRktrUGhsSUcxeWlBd2dKYnIzaHlydXZkSmZiU2dOS250NE45d1NidjRGWnZPUURybWl5UjhScmw3cjFtV050RFdJbGFoUzRFQkJSYlZwQS02ZTJxVXBZYm5wbUhyWW1YSmg1dUEwMWNsSGptaTd3aU5hdnRUNEt1MjF0Uzd3YkhNa2VrcmdfOXRrSWQ0M2E3akJueGMtYmRnYzFySGtYRzJrUGVwTXJFMHNNQTh6OEpGY3JrRTZOeVRyZHBpX3c?oc=5",
+            "date": "Thu, 26 Feb 2026 10:44:04 GMT",
+            "sort_key": 1772102644.0,
             "aging": "Latest Pulse"
         },
         {
@@ -69,6 +69,13 @@
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0g4ZURuTWtvXzZSTkhZcko5c2Z6NmI3WXNRaVdMZUREQzB0OXF5NEVMX0FoM01NR1pTNFV3TEQ4QWdLT1ZEMHhua2VHZDQxT3ZTOUdKSWdrdFdYZklnWG0xVmlBb09WMUhZSHFvdHQwTVA1NTgtcU5NTnlGT25xZFZZV2hrTXFzVVdGUVhPXy1XR2lLSkRXeURfM0JoT3VBSUZhdkl5SHN0a1F0Q3M4ZURXMjRPeHV40gG-AUFVX3lxTE5OeEw3WlBtRDE4REZob09ZbHdFd3kwRmhreVlOV1ZWNGxUYTE3NDFTTGZYSE00OFpVZVVzTFhlaDJNUU9JQXdabjRNNHdtdll4TW8tYXNIM1NoYTJTY08weFlHUkdwXzRrZkRkcld0OW42djZkNFZDZkxtRFZPRDFQaXE2NUIwNGRiYlRLYTZFclphVkZaQlk1YUM4TWZ0bXRqZU5seFpuZEpzbnJ1SkRydm1BWjc2YXJZQ2szZVE?oc=5",
             "date": "Tue, 24 Feb 2026 17:42:02 GMT",
             "sort_key": 1771954922.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Heat stress advisory for wheat growers - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGlwdVNSejZQbWF6MVpGTUd5TUYxd0FuREwzeVhmUXVaNktDRmUzckV3c3oxUVZVbVlmTlpjcmF0M1JFSVJNT0MtellyWVdkYkVzSWFSQ1BDLVRHNTFHU2d4WlQtSFdNWVhtMUw0U3I0VDZwNVE1VGlnTU5zUjBzX3pvd2EzRURKTnBr0gGPAUFVX3lxTE1oSFBFelFzTXRtWVNGYUo3M2o1bnN3UkYybEs1QjRLd1NIRDllSF9oWmx3N001ZXRjYmlBQmdDN0JYaFo1WFd0VVRfQzFhQzZvQTd0cnFSY1dLSGVFVEZaR09WTDFzRFJySzBGSVQ2NmVCLXV4TE9qaF9seWJqUVNGd19RajFaTjNtazBCV3JV?oc=5",
+            "date": "Sun, 22 Feb 2026 08:00:00 GMT",
+            "sort_key": 1771747200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -93,6 +100,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "India Clears Export Of 25 Lakh Metric Tonne Wheat, 5 LMT Wheat Products; Allows Additional 5 LMT Sugar Export - Swarajyamag",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlJmM0VVTjBzTHJDcVZaSVVaNkxXU1ExcEFlakV1VnJGZllEU3czelZ6UHZwZC1kdTgzMVVYVnhQU1ZUV3R5eHg0NXFHNmpKN0tsVE4wWmNpejF2cS0zd2Qzc3BRUHppNG1uUTFFWGh3YjlvVTVnb0ZIY19ycmdVQzY2T1dST0p0MkFoNVh4V0hheS15RWhVWDFnVnFwVjNKeHl3UjB3S0RERUh4NGh2d2hNVFpFdmIwZUpBQ3JtTVh4cEdadkJtUWVGMHEyLXp4a0s5TzEzUdIB5wFBVV95cUxQT3oxTi1qVWVOTXAxSFI5UUNTX3RUZUhrZ2NxZzhUQndtVnhYdmVxYlV4YnFlVDAtOFpmWFp2SnhzTTlxbzVSQTVOSU0yOWR3WENiYUl1bHE0R0l1bDFKczJxR1ZDYUxhSGNRMTlwU2tlSHRBSDJkTjVpRHVIeFcxQkVEczQ2dDdyVURURGFmZ0I3QkJDN2tfVExSal96MVNfWUxFajdmQ1ZkeXplcmdSQUh5Q096SVgyQVNRSEMwZ3FJUWtEUUJ6Z3Y3TEExQ0FuSGVvZWNWYzVnbDJMbjE1X0FUNjlpVGs?oc=5",
+            "date": "Fri, 13 Feb 2026 11:18:25 GMT",
+            "sort_key": 1770981505.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "India reopens wheat exports after four years - Mint",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEY1SVc4M1JWalF2WWxaWTBsRk03Nk0zb2RIX1VPdUxDU0VwOHZYWVRaSFEtQk8ycXRZVzNPdHhaMEY3QThQRmdxcm9NWlR0eGs2dXlzRlBEYmN0UFRwb2hqZkM5c1NCMXZaSlRybEJLamZQSEJacjY5bG1aWkx3OTRMREdPQ3llQVpyLXBUcjNhZ0dYWXRHTXRLNUNxekZpYzFQTUw5eTVxUnZTaWw4ZVdjUHJzQlBLai1jdDFualI5bkdk0gHKAUFVX3lxTE8wbk5FSDZHUGpXUDJaa21oZmVLR3hsQUx4b0lkYnl0dzdweHlRNkVIQzJCOTExaTdkbzFrWmM3c09HVlhHOXlGeFI4SlNLVjduTk5GNUNjM293N3duZUlBNUVseDlsMkJPZ01hOUxSSnRPeHRxLVdiMWQ0bnlsSHVtTEtBMlREdWtkcHZURmZiWUR4MlE4YlU3SVJmNkdsbU0wbVlSbmY1UlFZV194b1c0LTRsaG04NS1YbUF3bk9RbnJqR0xWR2w3Qmc?oc=5",
             "date": "Fri, 13 Feb 2026 08:00:00 GMT",
@@ -104,6 +118,20 @@
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDNCbzJ3Z3pQLUpGcDFVZ1hwc2E1c19ac2dRRnFWSTI2M2M1c0ZUVVdJZV9iYTZ5QUtpREtWTC1jWjhNU3NMck81QWlKQ3IwcEwyM3FkcmdTQmluckZFZm5mN3gzMWg4Tmt2RHRLV2c0aUNJMC1ETXJMajVCaGg0UFlZbDcwRndZTFlJRHkxZHZHeE5fS095T0ZtWjU5VWNzZTN6MzE0Z1JBSjBn?oc=5",
             "date": "Fri, 13 Feb 2026 08:00:00 GMT",
             "sort_key": 1770969600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India-US Trade Deal: Why dairy, wheat, and other \u2018core\u2019 products are excluded from US imports - The Financial Express",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSWtFcS1PZnZBS0kxajVFN1djbmQyNzdLU29oNzBYekhFZ01uczdLWkVKMlZHa2NFRzhhd1JIUmhwcjBFcDY2dFRQaGZlX01uY2Q3YlozdURsaHBMZ0tOV2F2TFlJa0xGUUEwU0JkWFFXSmFkM2dSbU9SNWVueWJkLUpGa1Q1eDA4VTR4dGhUV01qZDRuZHhJNF82S0FEeV9YWFZSbTl3ZDlSRTNjX0xwZ29hZnZVZnRQdkkyWl81YXVmNnVUNFBvOTZYbXRKMjg0LUw4ajdLWGtmSDhl0gHjAUFVX3lxTE9VWk9NTmNsZ2xub1hJeldEREtRYWVPVzRwa1M4Rk5SLXRNY3ZXdEUzRDJKVGttLVF6RWUtYzZSVHVCM2Zja2Y4UmRKLWxvN003b2JILVVOQlNPUFhkdmV0cU5xZm0tWktCaTdGRnhqV1NXcS15Y0k0U2JiLXMxZVY4SnpBT2l2UkloWHd4d2tsS0E4aWliVmZGQnQ1NGtXbHlGdTVBODRlS3JoUnZIMzlVRmlCcnNOdksyWDU1YnpWQ1lfRE4tTThvY0U5UzZraVNhOHFBR3pDdXhpek9lVUU4U3ZJ?oc=5",
+            "date": "Sun, 08 Feb 2026 08:00:00 GMT",
+            "sort_key": 1770537600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Wheat, rice, poultry, milk off the table: What\u2019s in it for agriculture sector in the India-US trade deal - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUjFzdnZ2X1BDUlhGaXd2OUJta1pYUkF5aFMzQ0R6VWlHeUtxdnhYRVp0ZnNCV2hpVVljeHN0eFVZN1ZlcC11VldDQUVSS1luN1ZCaF9IU0dVdkNialFUMmEtTHR2RS02ZE9fbDRRa0tEbmI4Zm9Uc291dkxyQ2ZPWXBDODE3dXdkRUF4OVJxRmdFTURjXzBWbTNxUGUycFFwZ25icHlFSXBGcWhOaEp3SWhxQWxfSzNFdGI3R3JIbHNJT2RhSTJaMG41SFcyVFJBT3lMOXJLXzl5YUdOdnNiRXRXYXdROWtBWWxWcUdnTlEtRnRoN3RxMlIwVXRteGU0UTc0OS1vVDlsc3dTSGdvaENhVdIBmAJBVV95cUxOUWVaazRIbzJZTnBKeEtxZW1lMmtNMXVtU0VSNW5PcXlEQ0tjTTR2MWg3TGFqTDc2ZnNsYWpNMW1hbG42eHc5akU4MFdmN2lZd2J1dDFRdmFtWFFlOGZJeUs0QV93QXFWQWZDQUVzTF9JSXZINkZKVzAzNi16Nzg4eVRkY0thZklLNHpHQU9Ma3luUFduVzBiWmVqZ211Z3FoSGlXWFBYRHlOLUUtd3JVaEg4YnRnWjdlSHRQUDVBeXA2NVptcWh3ejkzWlNlOExhSUt6dG1zNXotU2NUSXJNWVVmcWFDdGU4aWw1SEU0MmkzYWVILXViSnpGVm8tdE9LaktWQTN0M3lKWExDZ3NHV25HUmc1Mloy?oc=5",
+            "date": "Sat, 07 Feb 2026 08:00:00 GMT",
+            "sort_key": 1770451200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -128,15 +156,22 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India allows some exports of wheat products after three-year ban - Moneycontrol.com",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2ROWElwV1BlbmdGMVNiS2Z4RnR0SGhTalBESktjQkZvdmRlTHctX1dsaXdNRWgwczhrSGZqX2ZpalE2OW5wLWxxS3k4b1N4QVBvX1pBNTgzUlUwMW5FQnBqUm1VWDJRd1lLdGdVZTZEb2Fad2xzYkowZHhWRFl3cnFEa3hTcXo4blZOMVBYM0JUYnJ4Y3I1clZHdGRuODlTTTVWR2hHZHRuMWhtaWk1S21ZbnZxSGhIRUlmVVZB0gHDAUFVX3lxTE1yOVh1aHlCZUk5LUhxQVlzamJhUFdQcVlnSy1LckV2M0MwSXotRExmQlQ1Z0p0R3N0ZjRYc2ZFeW5WbDE2VzV3TFpvcmNia2hEUlZlR0hJMklDYmQxMEd3akFmN0lBZEptM0VHQXVLT1hsS3BEellraFNLcDlqVmtGQVZlUDJrSjUzUm0tZnYxb0pSYks2dzd2S0RqVkZJVzF4cDBTZHRrejNmTVBreWZQSjJCbWNyZm1jTThnT3RKNGR2aw?oc=5",
-            "date": "Tue, 20 Jan 2026 08:00:00 GMT",
-            "sort_key": 1768896000.0,
+            "title": "Centre\u2019s open market wheat sale gets lukewarm response - The Financial Express",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMElhdlUxQTZkNVRhejJmMGt5cVRaU21jMUlCUUViNzBObzhfeDAtdXVGV2w1d1UxdTBrSWJ1LURIS2VYZTkxdk1Fek5yWkNZN2ZYUkVNakxhODJ5SW4yR0pBMEdubzhoUElOSDgyUmo3R3hCRGtmM2pWSThTWmtmMFB5V3hiQndLVXRoZ3NpUzF2d3ZCS19UcU9NcUx4UTR5dklSaEdBak5vZFZZVmtJ0gG2AUFVX3lxTE54bWdUWjFqVEN4djM2b1dLRUtZOEdEYzVFRk9SUi1xMDRwbGlWWFZRR2FtTmNUZzBCSGpqWi1SYWg4eUNqSmtHS042RG5pSWZyaVU0aWljZzhNdG5FMEdEVGdPYnVQQnFoVUNOM1JwdlJDcTRycFZ6VXpmZUU2VE1EeHhFZEJXQWZacEJkSnZaR3FmTm52djNUWU9yTmNEZllHdHo5RnhkNkExMDhVd1JQRFhLUHZB?oc=5",
+            "date": "Thu, 22 Jan 2026 08:00:00 GMT",
+            "sort_key": 1769068800.0,
             "aging": "Latest Pulse"
         },
         {
-            "title": "Wheat Flour Exports Permitted: 5 Lakh Tonnes - Rediff MoneyWiz",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamIyVjVKSklBclBQUVhmNzllMGRuOTRXZjJONWVZUXVHYjJGT3g3dm5FMU45WGJrdElYS2MzcDNfYjdEMFJSaUZtVnB3X00wTjZFNWItRHZaUGdQTTluRXpyVFdqeUNabnNWclRCQ2E2VjJZQ1hWVnprRmNMTkJaWGhGQ3V4RVYxaUhIWENRdzd6ZGlRNkE5UlozRdIBoAFBVV95cUxQb01GWjRXMGJjMnB2ZjhmMGdSQXJNbHE3OTViSU00TzRtOWhSTjdGbk5SN2d0Y1Z2QlJrNlIwR2wybDVrRWI4OExZc3VTS2h5ZFdwVmdNUEVYZWJQTEtfMW9Ed3ZUX1cwVm1PZXkxRi1tWEpFb2ducXRyR1hGU3l0N0Vpb3dKOFdRWFRld1VTN1MxQVNJZUY0Slg1SUxxRDNB?oc=5",
+            "title": "India Allows Some Exports of Wheat Products After Three-Year Ban - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpaU3VqeF9sc0V4bGNuYlFyR1JKNkoxVW9mSkJ5UWJZcTlRWXJ1R21HVkd2NEU4X2JnbFp4TjhIeTAwWHdXb3dMa0NBOTR3LWxKRngxWHZHcWJzeUQ3bEdYUWFEc216blhibElIMlk0MHMzLUQ2OWpoLTZLQzBVY05fQ2pNLXQ1TF9XRE9BS3o1elpQcGtyaE9DYk11UEZWcVI3TVc3SmNvcXhfdHUwNUtCV3FnUQ?oc=5",
+            "date": "Mon, 19 Jan 2026 08:00:00 GMT",
+            "sort_key": 1768809600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Centre allows export of 500K tonnes of wheat flour, partially lifts ban - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTnVMYUlFYjdWZWYzVHAtVUhQZl9RUm16UlR3d2F3ZlBtdXl6VFVwNk9PaElGSzNUZHo3Ty1lZlJ0U1ExZEpKSlV4LVNNMVZta25LYXdpQjFlV1F3WDFsZHNfeUFtN1pfV0JVZDRhaGMtMXJrV1JQY19tWmNxbVJlYVFSWWYxcVdNcDl0bk9JWlBfamlMMFVlT1djSC1PUTlIZWYyRjBVeEpKaTMyUVFBWTdsSHUzQm8zYjByUENNeV85UlJ4QTlVbWZXVUNtRzhraExyUtIB2gFBVV95cUxOZkdYTm9mbUFkUUJNeTE0TGJrQzV3NTdieG9SUFliRGQtZWEwQmJiY0U3WnVyRnBaYjc1ejBZdFh6eWFvejk2SWcweV9TNVZ4VDlYbVpaSWNWbU96M2F3OFVlMVpjRUcyOEc5N3VDM1EzdEtIMll4RnlqVk1fQlYyN0dqS0J3b3M3d3ZoelBIbXY4c1VuMkpkbzR3eFJIWjd1YmwwVnJON0g3Q2FOc1BkNW82U2w5Q0FIY0JwMm1JREhvY3NMVFJSWmlwWUdXTURac2VTb0twSjNhUQ?oc=5",
             "date": "Mon, 19 Jan 2026 08:00:00 GMT",
             "sort_key": 1768809600.0,
             "aging": "Latest Pulse"
@@ -153,6 +188,13 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSTdBOURyVVJsUFdRSVR1OG9MTzRQT0VtMW9LYlIweHYzVV9kaW1aWjNXTzdWeGMyZThfSWVkaVV3V0ZQVzBGSDFqVDluVVpqWU9TaURDdjJJa291UVU4aHRfV2ZMTVFBRjVYdkxZcFpENUhTM05DakNzN2NUWlJxLTdWQU5JVFM3RzgwNEJ6TzZiY19ySWp3WllweUpCSWtuaHFjNnV6ZFc2NjZFaElKUncwWDBwNHFlMTFYajZNaTlNMkx5VlI2dnFnUC1nRndKanMwUTRWY0ZXdmJ2RlBNZmNzNXRteFF2d0RHWnIybFhtSEJ3Uzk2dnFR0gH_AUFVX3lxTE9aSWFTTnphU0pDbzR5aEFwemtRcnN4aHRBQ1JJLWVyMUd2am5aUjA5c294RlZSWlhfZVpDanNBSTd4ZHI3bzcydklZUEpCNDZ4V3AyREEtYXg3OUlvMTJfVXNJdFBVRkg2VHRJZm1SZHVuWjVUXzlCRzdUalpEWkV2WHduWnBWaENYYnp2Z0h3bzRLVjJBUF9YUGd1OW9SVmFSWjhESmVJTWJLYnhUdk5ENjAwZEVtYVE2MENucHF5UDV2T3pWTmdxV0c2b1A3MUkzYXAyZ2hOSllna3I1Wl82MTV1dndjUEQ4bmI3Q2dDUjRKTUllWHVGMEh0d2YwZw?oc=5",
             "date": "Fri, 16 Jan 2026 08:00:00 GMT",
             "sort_key": 1768550400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Resumption of e-auction of wheat sales hits millers as price dips - The Financial Express",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVVCRWhSNTBYeC0wcHFZM3ptNm9HRmRQVWctYTNFWFhYMmdDNklwSXBOQzJTM2p2R3d2a0xmcWFHdXdfOW54VmRIQWdYbURROGVlNXdaT2d2VzY3aXRkSFQ0d2VqdWY5VEtBUTI1bG5MODFjZWlxVHg5ZHFodUlnMXRTZ0o5ZUlYaV9LU0sxWFZ0dHdYNngySjZEaWJfMmEtaTB3S2x1LWdnTloxTXplSnhQb01nTkJjR0s5czNhSE1SZzjSAcoBQVVfeXFMTzV5RTUtbkNGMmZTelRkMnJaZmRTZ2MwVlRBb0szS2pXaDN3T2NfXzA4UTVILVpCN3BlY01RcWU4bGYtRUlTbWtOcVd0M09Ta216a0tsM00yaGI2TlN3WmQtRGZJWVRlbWRhSHJ3Z0p3bmtLTmpEaEJGMldhQUlXS01jV3o1RUhHcVZLR211R0Rpc204X3RJeFRacDV4NXE5WjcwWFdrM1RvRWhYNUtCUm4waUVVWFM5UGlHV0ZRa1FLWlNVNUVVWlpndw?oc=5",
+            "date": "Fri, 09 Jan 2026 08:00:00 GMT",
+            "sort_key": 1767945600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -177,24 +219,24 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India sets new record for grain production - UkrAgroConsult",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjVOLW12WGJXazRhdnJiLVQzSGF6dHRSNVVWQkpDNXBjTll6MW9vYlhLelpQRzYxQzlZTmFqN1dsZkJnc1MyX2s1bjd3NVUxUGVsU2J0ZDZBWklLR19fbXlHOTRpQ2FYMTExZDJSaUNGM2JFYjE5QkNueklGZGFkMmR4YU8?oc=5",
-            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
-            "sort_key": 1765440000.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Once a top recipient of US grain, India is now among largest rice exporters to Washington - Business Today",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWURjUDRpYWZ2SHJwNzVPUkF1SkUtb3prTVBuZHpyQ1hCMmJ1Tmt1cU5iU1NXTDFYZV9CcWE3d2N0SHZjTEZxNkxFT1FfS2NjTzNTdmx1Wmg5UXVtUXVveUJQM1lWbU9jZm5EYko1cG8zWVJHcVl3SnpBYVc1Q0U2Ykw5VE5lS3hHU3FGUjd0U0ZMa1FfQmotdnZOaHAyQkprWnZob3NCLXFxbVNnVlJqcjZpZ215QmJad1Myc25TNkJPSlRZVlBkblZ5V0U5VnJEMExhMlFiQWFXNFpJWDFnamxWRWjSAeoBQVVfeXFMTXNHamtFOWVGNTNIeWszSUF6Sm1wTHVIQ21QRm5xcHFmeXc4UWF6U2N2Uks4RkRRN0dtcnoyRjRsUmRDUTcwNm1OOWFTZkJSMmZfTVlEelh5UnEyV19Wb1EyN3BTSDBCQm5zQUszbTlleGVzNGJialVqNnlJQUg0b1hGbWczbUo2NDNXbllYXzVRRWJYQjl4TTZ0M3NZNG85SWdLQ1J4OWdJUjVhSEdCX3lkV0Z0cmJ1LTROSG5DQndYTFRaNEN0bDNKTjNvcU00TWRiT1hSaUpqTGJydDJMYXlCYnd3aVAwSzdn?oc=5",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-            "sort_key": 1765353600.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Food bowl, big loss: Punjab reports India\u2019s worst FCI grain damage in 5 years - The Times of India",
             "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVHFKUjQ0SkhuVWpTcnVaNU14SFpYaU5UOWFUc0loVm5LZzNrNFNyOXd5cTFWSzQ0dk9zZnYzdGVyZjhlRjkxandKTnc5UWlZQlpKOWh1LXgtOFB3Vkx0cEsxUF95Z1B4OFBfVXRaaXRwUHBqLXBHeFN6b1Fza1pvY2ZPbzE0YWdYZEItdkhhc2w3VG83VXhKc1FLVE5BS3o2SVhKc3Z4NjVjckZtNmt1clpxR0M5Tmo1UTdRR01DbExFeHk4ZTQzM3RKWGpPdXJmYkdWSHZkdWN1Q0JEWGVUR0hNQ3JHWlnSAewBQVVfeXFMUEpHeFdDWGVJYlRacnA2bDBOOExXcnpMWTZnSktnOGFVR2RCLUdteFNMUXVNU1hKVU5TOVo1b2xvY2c4djRWV3RZT3A2RjFxd0JZZElQMkhzR2V1OVdsSVFoSXpubFpWSDNRTWpjQlE1d3FNTnNrRUdIbWJYaWxZTFdjeTRBbEhidTZUQlpCOU81OXlhNHByU2pLSlZSVGVGbmdVdGRlYUxxLUctc3JNcE1PS19lZjhiV1JLQ1lOODRqWG5TM3pNZV9UUVZjWG14X0tkU0NIazFjQnJWUXZDcEVkd1FmWXNFS1AxZXA?oc=5",
             "date": "Sun, 07 Dec 2025 08:00:00 GMT",
             "sort_key": 1765094400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Record wheat surplus may force export-ban review next year, says industry body - CNBC TV18",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzI2NWZpd2hJcnRxV2JzR2h3dWlhNGlpUW1ETzZDdHpfcV9rNzl5amY0QUdrUUlOTk9wVjdRdEItRWZDTlJrQk9MdWVUZU9YOVFnTDBLbkc5bFdxcTRTSm9zWEotU29CVHlIaDF4VTVfeE1UNGVGUkxfVVZyZDlQckFBbWhxUXVNTDlyMXhQVzZicTIxTFBaZ0xGeUZoSVZ3Q1pqSzgyV3VoT2hueVBtRHhPNFl2OUdjcExBZFFhTDZNRWh6QzQtbEFvSzZmcHPSAdQBQVVfeXFMUFlIQnZ5RkVJUGlqSjdadVdCZmkxQWExZTR4TDNfUXNlcU91SVVsUDIxMG93dDk1V2ZXcHEtbC15bzczenBIa2htZWdlYnF1akRHN2lxOGMtczdqSkFDNzVkemtzMlV4di1rRXVtcjU1S0dobVBmWEc3Nk9hVVhBLU1MZlhUODdjSkZCd2pjNVNMUy1UbXpXVUVzQURjSENBTkVUZzVWaGktMnhkN3FXcDBpbWM4N1dSNE5zbFFJa2pZTDFHbjRhdkpKMHVZTkd3c0xteUM?oc=5",
+            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+            "sort_key": 1764662400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India Poised for Record Wheat Surplus! Export Ban Review Imminent as Stocks Soar - Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUVVUdG82RnpRSFRlcUNrMDJKYzBnRG52Q2ZJWE0wTVRrbGFLMlpzeHlEWGhVS1ZXS2F0Z1JLekd1Uk9rQVJITG0yRUpZRkhxdzIteFY3MjRvV09qT25nS3c2cGFPb2M5QnlPTU9kbEZrM1hzYVlUSjBZeGpCVGd2VXBrM3NQNjVmUHBTc2lxM2tmanJuWHV4XzNsVGRDblhZVHFhNTQ5Q1lxUUdEdU04S05aTE9Ba2hoalpTdXN5UUNyZnU1a1diMFhrRW1aY1BBN3JpUU02QVNPY3dvWE8tczVDT1FIVHRKR1dFUg?oc=5",
+            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+            "sort_key": 1764662400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -205,13 +247,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Procurement price of wheat across India from financial year 2014 to 2024 - Statista",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0lQQXFUU0lXT3ZzNkViVmJTWGgzMXJWdXk2X3lYWTFrZFBVWVNyVG56QnFxamw4WmhlXzdNYkN6eHZMOWNWNGdXMmZzZ1pWRVdKZ0RaVzBRdzBqRnZrMFNaeFJrbXR0elVoZmIycFQ3ZUx1aWhXVjd1dVZyOS1lcGdR?oc=5",
-            "date": "Sat, 29 Nov 2025 08:00:00 GMT",
-            "sort_key": 1764403200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Minimum support price for wheat in India FY 2020-2025 - Statista",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVvT0RjNjhtYlRFSFZyeTFzNE9haTRQeXpVUUdIYi02MEhZODBWVm9jU09mVVBqamdBQU9RaWxKUEcwbzZqZ2dmUUZBampMNWZJejNwb21tZ0s4TUdBVmJBSjJtZWtZLUVwNmVYMWViMm9iU0Jra1NNbEVwUjlKT2ROV0U?oc=5",
             "date": "Sat, 29 Nov 2025 08:00:00 GMT",
@@ -219,10 +254,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India\u2019s food grain output hits record 357 MT: ICAR - News On AIR",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlFfOGVhSjVQeUIwcWpvOHZ6ajJ1QjFRckNiTXYwQ05YYV9aVDZJU1VvYlI4dDM3NkVWRUlSX2EtR1Zic3U0cHozbFk5TC10aWhMU2dnd2ROcWxRLXBRRVdmUGpSXzNta2lFMnNCSTZ5WHJiS1pqdEFVUzJEQTFCNjRuU2U?oc=5",
-            "date": "Sat, 22 Nov 2025 08:00:00 GMT",
-            "sort_key": 1763798400.0,
+            "title": "India proposes lifting 3 year wheat-product export ban amid record stocks - UkrAgroConsult",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUVKajlXWDJBWW9Ya2RyRVJ5bkRJNUVTV3ZGRTdIY09LQllCTmFsRTlqYkVKRmVCdW5EaTg5OWs4OXN2ZXk1b1RjZ29VVlZJNWIydzROR1UyM2I0RkEwZ3pCb3ZKN0dZRGpOdWRERm1Ea05rYnhFMjc1Q2VWS0lHTHI2WEp3VjJiVGNnQ3BTUzlHbC1XOUZ5YVlKa0p4ZFNCaGFtZjd5V0pWRE9WaGc?oc=5",
+            "date": "Fri, 21 Nov 2025 08:00:00 GMT",
+            "sort_key": 1763712000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -261,15 +296,8 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India\u2019s Food Ministry favours lifting ban on wheat products export, moots 1 mt cap - BusinessLine",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2pjMm5xY1QyMi1MMjE2N1hINnpDUWkwNndfS1VzaWN4ZEk1bHFlalMxcHdhX3JXSGdEbmxIVnFWVUZvdEpmaHRXUFNYT3A3SGxMYU9hcldZR0NnX1R6S01obTZKM2w0RmwzOVl1bGZ5VTZNNFpNRVRCMzFheXYtVmNyRkxSUVJlUXZHNEdtbWlxSWtZWlgtWnJvWTB5M0FlakFZX0lvZVJjdDg2TkRaNWF6Vmp4dWpfeGRUWUlMT1R2ZzJBYm1oMk5RT2ZlTmkxMGN3MklRM215LUdNcGtCREppYW1LdDl2SkYzZnFQYmTSAfcBQVVfeXFMTWV2TFZWeFJ6dFFiX0JoZEpydzVKd2ZkY3NoWjg4Rk5fUFd4b2ljRExZRk1zam1pTDY2NWVKakNRcVliWjRvUUdfV25LekI1cXI4c0x2QzM0eEZuWlk0cVA5QThNZms4ZWtIZkxTek1QTWIzVFRpcG9uNzlWQ1JidlFRSkFucm14MjNCYVBpU0p2V3FhQWFhalRERktqbHp0aGdNbEl6RXNHWEs1VDhlU09zZ0x3RW90eTdyR3FMLW0yX2R3LVY2SnJGWVNvSnJkZl9wUXdFTV9BUHNTRV9jb3JYSUpZMGFaTmxvWHJQWTVueVFaMHl2MA?oc=5",
-            "date": "Fri, 14 Nov 2025 08:00:00 GMT",
-            "sort_key": 1763107200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Pakistan: Punjabs wheat ban pushes Rawalpindi and Islamabad to the brink of a flour catastrophe - The Tribune",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFVGNW5BNk9YdlRzMEwxWDVVeGNNRDFPc0FwanN4Z1Rrc0tNQ2J2Zi1RRXMwUnJ5clRRMWxPbVZiTnZLVjdibFVjQlZrNlpicm9od1lYbHdrcERwbW1TdmlLSjBYampUY01qU0NGMXhPTVJrTXRvczRFZUNDVzRBMWJKZW9iZnp3YllkNnNQd3JzREItUVhhdm43MzZ6SGp1dmVnVHpFMW1Ga0hRLU1mbmFacloycDZMVnp6cGd3Qmt1b2Z4eTdJR0lIc3pDU2hX0gHUAUFVX3lxTE1rUXZSMVYwLS1EcVVaSjBtRGFmSVZ5Zy1hbEc0RGRxTzUxVFpZa3B1TXl1VG5PeDNqTVl3MDBJSUpwN0pRM1hZUzhodzg0SWx0VUQzTXh1RUQtdEFTN3hlOEEwcFlxTHBhOVoyNGl2aFJtUUZlY3p2aVpQb1BQOU42MmIzNmJScnBsZXVNZzJ5S3hSaU5SMm9yZUk1ekpBZWRxMUxKUGhvaHdxckdsRElfbEktQjktZkwwSnFpd2hRcHI1VHlsQkIxLWs4ZmlPMURoTTZO?oc=5",
+            "title": "Warehousing official held from IGIA for wheat scam - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUg5Q3pFNTdvR2pjVXRSZWhmUHJGMk1BNFJhWUViRi1udFdLdld4dm1uUV9kUEFoMGYweVVmTm0wSFNQY05tSy1zZDJuQmxmcUVtUHk0V3RoYlBEVG12Y0JnZTN3YUZoMGMxS1ppTDJ0Y3dqTlY4RjVhLUk4RzdyVVVBenhfeUE2UUNYX0xRcnhGQ1BDbF8wSHJGc9IBnwFBVV95cUxPVkIyNWp5OTA3dWxOM2tkQm5NaVhYU3JLSVVlSHdoVWVGRnZOM0dWNDFtQXFTS3dvSzNLd3RORGVidmJrUDNnc2ZUaEhjc3NleS1PM1h6cGJXOFlybGxUZWVHVlpvQmE0Y2l0ZXJYb3IxNWNzTG9zQkJvWkN2VFBIZG1RWWtDSTdNMjBnYVlwdlluOHBLaklTYkNuMjV4cUU?oc=5",
             "date": "Sat, 08 Nov 2025 08:00:00 GMT",
             "sort_key": 1762588800.0,
             "aging": "Latest Pulse"
@@ -289,15 +317,8 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Wheat MSP Raised by \u20b9160: Will Indian Farmers Be Satisfied? - global-agriculture.com",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjIxS2xSSkViNjFsWl9JWFJfRGZIa25sOFBGSmlmUndNSVhIQ291Z2hjc0Q4cVc4YkZFN1BQc1JpMDd3WWZVZFdpeHR2UmJqektYOGZ6NVVoUzBBaE15U0xybi1VVmV1c3dLTEpvbmY0T0JOd0lTNG1LSnJJZlBpQVZwVzI2TkdFSUZ1VUVPZmdkXzE2QTN4VDFFbVI0bWcyTjJMdFktYVdKV3ROcTcwR0xON3U?oc=5",
-            "date": "Fri, 03 Oct 2025 07:00:00 GMT",
-            "sort_key": 1759474800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Food Grain Storage in India - Drishti IAS",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlNHay1vMDl1UjNqenFsYlNvTTVzX2tLSUhyeXVqQzRjRjFHODEyQ2JpZ2hWNFBvZEh3M1ZlZUZaZk1FMlgwd3BVRV9kNmRfT0h0dFJ5NVRXV1NnQmUwLXg1b3I1SHUtY05NWTFlWmo3X2xUTGE3ZVE3WWxSOHZDanNIWlMzWGJuc1k4SWoweHBLdw?oc=5",
+            "title": "Punjab: Wheat MSP hike meagre, say farmer unions | Hindustan Times - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTZKbjVQRlRhTlczTUEtamZWbmNzS0s3TFB0bUZZck0tdkdKWmdfYWtXQzV2aW1zelJZeWdNNmd6OFFsZXVWY1JyMVlHNUxMamRMMGNKU2VsMElVeWw2bWs5b2l5YlhGNVNKMy1DT0VRbkhSbXQ1T1k0clM1VGRNMkpIR0M4d2gwVmZ4ZTdHUzBWTmtNY3IzQ21Dc3dhWV9iRHdpT0lWMlpnS1FQY3U0R2dEVjJfZ3JnY1p5RDVB0gHDAUFVX3lxTE1WREtsMFRiLWJ0ZWZkSk45SmRZNW9pclNrdHFwVnBUdUhpOHlreFYwdGNqZFdhN2gzdzRTUTZkX0dvd1pFdE96RG5rcUxZUnpOV3JKOUd2SDRKdUE2RENqUWlISERLa205MkVockVkcjJpUTl5ZG1SeUF3a0JHak9fTjA0cThLUGxCbFJUS05JbjBsb2hDLWZ5Qm9lMmRWQU5mRkJ6Q2Y1WVNUM3Rzb2N6RmZyM0xZTDczV3JJR3Z3eXVmMA?oc=5",
             "date": "Fri, 03 Oct 2025 07:00:00 GMT",
             "sort_key": 1759474800.0,
             "aging": "Latest Pulse"
@@ -307,6 +328,13 @@
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeThEZENJbS1ZZ1hBNTIwRENXb1ZIRmRsbUFDSVBsb0gzVnlPdGRVVi1rNFpfWmZ2aXlnejBSZkRRQUlQcFc3VmQ1YXJVV1lXR1VuZEtIU2dzNGFEN2YzN0NkS0EyaHJfZEZudk1fU1BGTjZmRERwLXVWdF9zaXE4aGgwVUFOX2s0aFMwNzk4OXVTQVUyVzNKSU94MU3SAaABQVVfeXFMT25TWkVpX2k3UEhYYk9oZG5peklYa0E2SGxvWVVib1VQV21tdjRvTE01Zk5yWkNWS29Pb2VSekl1aHFQNW5LaEhnTm1IcFMxNFNHYlYwZXVsWWJjWERCZ01CLXdGaG9oLWx4MnI2Tmo1WkZzYWc5UDdqVEtTNy1vVHhrVjVzaFYtME9uMk1kdkRNb3dnVUNsZUllR0ZGSFBaMQ?oc=5",
             "date": "Thu, 02 Oct 2025 07:00:00 GMT",
             "sort_key": 1759388400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India raises wheat purchase price by 6.6% to boost output - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlNDQ1NhZElOQVRsQ1JSZ0lxbWFqQm9BVDZLVlVCQS1mTUZYTHNBdmpEUUt0My10Q1F3SWZJeXdBdTN5V0EzRmJGM2plOW5Va3liQmZBNXFndjJDN29FSUR3ZkEyOVN4WkRFcld4RVNzaDdWMWtqaFh1WW10eVpGS0xnMEtCNlV1eVBjWFZiOE03X0J0X0NpSm5KWThoLVptNl9iTDRDNTBvMWppUF9zdUtadEg5cEU3WmZBQUpfQjZLMzhtbWloVjY4Q1pEMnF60gHWAUFVX3lxTE8xeUk0cDQ3Nk0tQjg5UlNFRXl2T05McG03MktnU2V0Y0JhaVd6UmNlX0RQRF9kQmlJQXBHTlNGNTFaSmFpTDJIUGR1NTBnYnZVdWhnazBsTTBXZEYxWHFYVFh3NHFYWjRpMXIxS2xJNU11NjV5S1U3Qm1pZ3Vpc0hkaDZreHFjX2ZLVk45TFBCcTRfV2ZKZVJOQmVVYmZtbTdHS2w1aUc0Z2t3V05pb01kdVNJWjBMV1lTWU0tQWp6VUZBYVFnbG1GZElmdjljV2JadmctTmc?oc=5",
+            "date": "Wed, 01 Oct 2025 07:00:00 GMT",
+            "sort_key": 1759302000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -324,10 +352,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "UP offers 1k quintals of wheat seeds to Punjab farmers - The Times of India",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3dFeHZWa1psVzZGdC1JTFE0c2ZHOFQ4c0pJOTFNakl2TjBNR253Mnd1WjlyN2dhS3NQRmJZVV9UMXRjazhtQjBRLW5pTE1qQkE4dHJZdVczZ1BDdWVsY1RxaURSazFndmNYRFVvcjBIaVdIZkx1ZF90M21ocFpBWjM1SEc2aERUandjYUpoOWZRSU1LVkRIQjJCM3F6U1lXQ2V4ZTN1dnpJOGtGaTA2MEFjSkJia2tRRDBGYVNmeXBGLUVCTXRUaW91YWnSAdIBQVVfeXFMTlVFaXVINlNuMUw5YlE0TFZKV0Qzd1M1dVlMb2tXb2ZiT2Fnakp1YUFKeVNLREI5ZG1rYlpsT213YVE1Rjh1QkxwcVlDYXFmRkZxZUxqaGZoZDRST1MySG9nYWk3UG1hZGt4Y19BcVFrRDVBUFdhRUluRW9GcHRMVV9WcFl5MUJEdU5TSDZLRzdzbXFsYktTQ2tyNjVqb1o5bjZrX29TakY5THJsb0gwV2pMdUtQTXQ0TXZ0dHZ0WC02MDhtcml5TUx5NlZ4OXAxUEtR?oc=5",
-            "date": "Thu, 25 Sep 2025 07:00:00 GMT",
-            "sort_key": 1758783600.0,
+            "title": "New farming technology holds potential to stop desertification - The Hindu",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWNCT1VXTVlOY29heDZPQU80SS02eHk3eGVrYzIyZXFiWkc3UlZLWk5QcTZYZ2ZUckdpUGVRMl9td09GZXY1Tk5vaXFnemNsX2lVR0xkeElHSkhuVzFNblJUUE13Um9ESmFLSXlnc1RzQ055dm14OWE0RHRlQmZ3NWVybURvZXpkd05Ha2NnbjBEZWl1cUtyWjRYRHkzNGY4aXZaU1QtWklmbjhzdUZGMWF4a2tRUTF6aU9janhzMEsxWFHSAcoBQVVfeXFMT0hwcjdFN3liMkxSLUFobXdtMjJKMm1weHB6RGRvOTA5NDZGbjMyR3R6NndUTG1jMW5lcVUzbjZvVjFKSVBrX3F5bW93cXl0RHV4WUw3Z3Q4OG1IY1BBZ0ExVnhWS3BVcFJBM0pkLXF2eUt0VUtHUXdqWTdIc1RwRWtYRk5vZ1hFYS1OOEtZMFFDeXhjUW0teG5aUDZIUmZ2QWdWdVhhWlhDa0hOa0NjQnhkcm0teWh0SS13UVhqRFRRaVlMNGwtYUR4dw?oc=5",
+            "date": "Sat, 27 Sep 2025 07:00:00 GMT",
+            "sort_key": 1758956400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -359,13 +387,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Two PAU wheat varieties selected for national release - The Tribune",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHdoRk4zVU9oSndhNFJnZmRkYmwwZEZ1c3hLTkhUei0zbjdFVTlJSTAzajBOQ09wS0hWZURqUTVvRlJUX2tKMGFWcE1fV0NUWUJJVUhxZ09ha2FOcXFaNk9QWUJORHZwc1hKc2dtOERnekM5T1dlUE1xS0JVek9mOVVsbzVDVkFxYmFRYTU3NEk0MTJsalZXMXoyY9IBnwFBVV95cUxOOE9MeVp6NENWa0VSYmh1cnp0NTh3Y3BxbUs2YlBTTTQzRWtiNUFyaVAwTTdYUS1EV0h5cDI2THBGRmtOZHExajJSYkZxT0dHYWc1dzZRTUo5SnRhR3RCUUxQaXhETGFmd2JZdXdJc0J6YXhLZk93akNuS3lTYjJXRzdrOUZZY3FDUG9FazFCbEpSdmZZZlRydDl2Wm00ZlU?oc=5",
-            "date": "Tue, 23 Sep 2025 07:00:00 GMT",
-            "sort_key": 1758610800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "After all-time high last year, govt aims at 119 mn tonnes wheat output for 2025-26 - The Indian Express",
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzE2eldya3hWckJWb1ZmZ2pDbW5nN3M0VWdqTlJQSHNUdkdWZDlyQk9HUHpMMC1naUNzWTk2VnRjMFJSdDlUOElSWlVqemxEdlc3TDV0Zlpka3YyMHd2RTVwR09vek9hQVZtQV9VVm15bXRGOElkQ21aYVRoVU5uLWhNQk9OcXNNSkkyRXp3MmtVd1dHSEtNaEJWYV84elVDZ1NaM2NpOGZ3RWk1YkhHalNTQ09vcUx6OFlpeFVENC1pVkV1ZGNtZzd5RdIB0gFBVV95cUxQbWpQUURhaUJjNU45Q3VCcjFaZVQyRVVOSm1MR2RHbDhIb21oaEZ2UU9hZ0lia3owT0NCdUJua2I0aXhzaEcwdDBDMmdHRWpUdzR6TFY3dFY0eUdLYXlhVjVQQkU2NVJ5ZVZKSUFTNHFJR3hFSEgzTE5Za3pqeWFTcDExR1Y1Sk1TWG9iOFhQdHBRX0JQSTQwN2pYdHM0eHFrOEs1N256TGdhNmNQdG5LclcyQmlmUEtUQXBuVUFxQnFIOVZEWEZnX0tOZ0laVnd1NFE?oc=5",
             "date": "Wed, 17 Sep 2025 07:00:00 GMT",
@@ -373,8 +394,8 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Rice stocks climb 14% to hit record, wheat at four-year high, shows data - Business Standard",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGEtYUdEVlpJeEpDenJnTUJPbXdkOXJFaTdMSVQzejRIM0x2clhpckRtTkNVSDU2TzJqWGItQ3pTS01vTS1DOFljOC1OcTZyZWJFMjRWWHpnT2ZicFhTdFJLOTVrR05TUTl3M2pJZ1I3RHFSRHI2QkVNUmF6MzZzZVd0V3N1QkRZX2JSeDRUWnFFazRYYzNwYng4eU9idk82UFRuVUpicWlCYlIzWDFLeU10YjIzVXpBcjNJWDdVVm5aQTlBYWNVNy1oMmp0eVp4WGoxS1UxSWkzbURa0gHiAUFVX3lxTFBmRzdzX1VBeUlXU0tER21PUzBYc2k2ODBMaV84MzJUdnU5Q2J2d29wNEU5cVlSeENqQ1p1bVlEN09IWDNvdk5Fd0llTzJZMGlJZlFPblNoMU14M1kzNFZ6MFNiYlYxbGFuNjdYSjlqRkVRN1ZNM25yTVBaeEVzZnZBYXlxV3pXMDdReHB2dzlLZzZKbXBkdnpqQlRMRGZUZC05RWpxLW9BSk96ZkZod0FIT2liM3hMMlZ1T01VeW9xZGJzaE1YVXgyb2pxMHZDOEFsZ0ZOOFRJYlRjZXN5UXBybmc?oc=5",
+            "title": "India's rice stocks hit record, wheat at four-year high - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFlURXFYNTRuazhTVk5rZTVCWGdFRVByRXBreWNkTDFjYzFDdDhNd0x6dlNFZkFjRGQ1RkhJbWlXVmgzNFNSam4zMTc0dlJPVzIxUTdfX3NLMkFBcXJDQUJfMWMxYk1SY0ZOM2Z5dUlPUUZ0M0RPclZZaHBjV2FYWDdKZldXN05vbE80RzdmNlB0UXJDSmgxOHpWUWNnaUk?oc=5",
             "date": "Wed, 17 Sep 2025 07:00:00 GMT",
             "sort_key": 1758092400.0,
             "aging": "Latest Pulse"
@@ -384,6 +405,13 @@
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVg0U25aNDRCQ3ZfR2ZDNTh3N0VvTEhOaXBoQnJaOGVnR0NoZHhKNTY2Vm16MzVsbjdFRVBlbWlNcDdycTVxNUU5YjU5WnVJTXo5SHNaSjBvdk5fdWtjYWsxRHFBNDA3aTBNcEFYVGUtbG9xNHpneWYtU0xxMlpuaEdRdl8ycElvZGJrbWl1UDFXWXY1VmtFU3F6a3o3ckJpeUl5c295Nk8yM3Jnc2pUMWtiNXhoWVNRZ1dmNlBQRWQ2MGpiTnB0OU0ybHAxcThMQTY40gHYAUFVX3lxTE9HRzJCLWlZcDUtX2U1RlNuNGU2RTl0QkY5S2JaQ3Nfc20wOHdPbmowVGx6SzV6MERjUnJaQ0luQ2lFb3B2bC1PTkgwN2lkQnZYMXV5XzlWRGxXeHZoMFFHYUZOd2FsN0h1eXVrNWNUQnpQYnJKT3JUZE1NZW41bmZrVG00U1E3QnB1VmVlaVZFR3pMREMtUm83TVBXbkJSNnRiUzREY2hXeWlacU9kRERIUzA0WGN1eHJsQ1Zza2JiOVEySzZSdXVTaFRDTDRKdUxFNVFUTEpHNg?oc=5",
             "date": "Tue, 09 Sep 2025 07:00:00 GMT",
             "sort_key": 1757401200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Wheat Stock Limit for Traders Cut from 3,000 to 2,000 Metric Tonnes - News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZERPaFRib1ZpTngtMHNZdUpRUXZZUXFMSGFaMjNCcWdXNzh2bFZpX3pzRENiQWZ4Q3FMck5rYXFPeEJCU18wS00za0FDRmhlTWNIRjdvanVYa3ZGZkotbWpvUlZnX0pDcFJwemhiRE1VdVAzT3doenctSk1ZRDczckNJZi1USExIQkkxNjhsZnhiSXpCNTRhd1BfNA?oc=5",
+            "date": "Wed, 27 Aug 2025 07:00:00 GMT",
+            "sort_key": 1756278000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -401,13 +429,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Possible Decline in Wheat Production in India, Says Agriculture Minister - global-agriculture.com",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0F0Z3BBRFkwLVhva0k4aGxjZWhxeE1lbEl3ekdBYXdNSnBtbUlHS1BOUmZJbUEzc0tDVk03b2JwYTRsZ0p3WHhfVEdNMFNETjZLbmZwUVAwWHotVDZQYzdWTXNzZEhSLXc4ZE9MY05ZazF1TVV4WmtUbllkRFl3NW4xZkd5N3l6OFhDLTIxTi14ZVNvdnRfelQ5LWNSdVI0WDZSMFh3NWpReW9XYmtCT1FxNWl6X3kyTEN2cQ?oc=5",
-            "date": "Tue, 26 Aug 2025 07:00:00 GMT",
-            "sort_key": 1756191600.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "wheat stock limit 2026 government policy - Zee Business",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1B0a3hteC01Y1ZvT3Boc2RMa0duWmFnS2NJMnUwdTJNZndld2FVaVN5Q0JEU1A1YVVDQWpPLW5uZXk0TzRTNmJWTkV2a0lWSVVPWF9RUGV3NHRmZTZmeTY2b0JEZkRTR09NbW52NHctRmpfcEpKdDNaVy1VaGh1QnlqWWhKU2RxUG16ZUthMzRvVjVQTzBYOFd1aHM?oc=5",
             "date": "Tue, 26 Aug 2025 07:00:00 GMT",
@@ -415,10 +436,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Centre tightens wheat stock norms for wholesalers, retailers and processors - Business Standard",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmFodXIzcGtBcm5LeVk2QXZOTFg2NFlVN2RJczVCd2pFTDRlNHZ2aTF6bE91dDRmZms5eDlMV2daazVEOWJnMVhHVmtSZzRVanNNYmNfV2tjbjVNUldfa2N2R2pDam5uaGFlMWNMd2kxRjhlTGUtQkk3bXVkZ015VWdzN1Q2RTJzYXdTbDFudW4xYUNFVGIwOWRJNHNSVFptd1NZVFBsOGVtbFUzaGd1M0N4YmJIdEg3UVU3X0Zackk4Uy0zR2tIX2d1YXRTMGNmU1FIeXRTQkpjdmpqSXpR0gHkAUFVX3lxTE1SYVFEdGlSc2pZTDlJZmpaajN5YjRuYTRvaDF6Z0NsVEtzN1J4bmRlWGVFZC14NzE3enl6cVk2SzFPY0RPTDhjVUNsOFl1T0daMmx6MzcwRElkUXJjRGxxcU5FVlJDWEFMSERKVjJLWnVycVMtR19vcTNGenk0aVF4RUg5R0lUaEZBSXd6Ri1rQ2VGam1SV3QzZk81cjU2M2hSQlhOTk9kMmhTN25QNWJfRnlFaV96VU1YMldlRWxEZ0RYMGJDVUxCREJCUVV0a2hmYjl3dmVSTjV2RWU0TUlESlVlYw?oc=5",
-            "date": "Tue, 26 Aug 2025 07:00:00 GMT",
-            "sort_key": 1756191600.0,
+            "title": "Govt likely to allow wheat bran exports, order expected soon, says market - Informist Media",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmczRFRQenhobGprQ2Rjek1oUWVDWHlWMldWQW5QbDNWQkxPYmZHVzBfMElza3VoOWZCMzY4eFBhb2JzVkJoaHZiVHIwVWstTFFYOWlmbl9fc25rYXVUN095ZlJpRXJDMTRaRlVYNGZ3YkphY3lPUkhaekVEODE0YWdERnFrN0xKU1pyem5lSFZhRUM5YkVoNDBTc05xMFMwa0lVcTU5YmltWG5EQjhvUWJkSk90UnI1aG9PM0JqYVBURzdiOElzZ3E4QUV6SHVyVVBZ?oc=5",
+            "date": "Sat, 26 Jul 2025 07:00:00 GMT",
+            "sort_key": 1753513200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -429,17 +450,17 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India's July rice stocks at record high and wheat hits four-year peak - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjJKdDBTX0p6V190Uy1rM24waWZOZlNheXpOQWlKNmJiS2hpRkdWaTkxOWhNcDhNRWFtaTloYXZkWTFsTE5CSGRpaGV6RThWRTNFT0hWTjJyNU1xRGg0NEYzTjdLTTdGdG9qblBMOHc1NUFYWl8tcmxXd1g3WUIzNGRSc0RvVU4xelAtbGcwM05tUnhNYjV2dlpQSHUyQUt0bkQwbTkzczRGOUJfZHNCTHh3VkVCTzhXcTZMRHg5NmtaMTNyVHdKenhIUjVhaE0zbXdia3ZhVXJhbEdfb3RhbdIB5gFBVV95cUxOUUZxMUtETGUtb3pOQURyQTdNdE9rRDJVU1A4eTJDVzRucUhtaFdFQjdGM0FxNF9jNmdKeDJWdVdEY2FnbnAwalBDYktLOEdTUnAwQ1BRZkVhVzk0bmh1SU9mR2N1VjFCcmxqQ1l0Y05NRmVjeDNsMUlqZ010N3Z0WUV4MVRYSkhWVy1GaWIyUDVUVXloUHM4VEtiSDJWY2d3YnVodUluMVlVYVBDSlFjS3NOM3U5b05BQkpoR3NPSFl6NzRURVdFbFhtWmVuTWNoWlpVaUNzTlZYNHY1dnZFR3hIS1h3Zw?oc=5",
+            "title": "India\u2019s Rice Stocks Hit Record, Wheat Stocks Highest Since 2021 By Kedia Advisory - Investing.com India",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9qdU9xSmVfRnBIRk1USXVtVHFzOF9kSUpkMW81M1ZXczFvcHZRZXFzVXVka1p2MVgwTGRJXy1NZXNWbGl3cTdEU0ppNkZRdFE3N3BoSVQ2VUVFT0lmOGo4cGM0TmozOTdLWWg3X0xOaGw3SXZIUnJPbG9adnh5Tml5NVA5ZUpFblhwTU5wQ0QyTUdackU3SkFMZFBQRDRFWXRodXdtVUJGSUhMS1ZZMzU3MzdybGc?oc=5",
             "date": "Wed, 23 Jul 2025 07:00:00 GMT",
             "sort_key": 1753254000.0,
             "aging": "Latest Pulse"
         },
         {
-            "title": "India\u2019s Rice Stocks Hit Record, Wheat Stocks Highest Since 2021 By Kedia Advisory - Investing.com India",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9qdU9xSmVfRnBIRk1USXVtVHFzOF9kSUpkMW81M1ZXczFvcHZRZXFzVXVka1p2MVgwTGRJXy1NZXNWbGl3cTdEU0ppNkZRdFE3N3BoSVQ2VUVFT0lmOGo4cGM0TmozOTdLWWg3X0xOaGw3SXZIUnJPbG9adnh5Tml5NVA5ZUpFblhwTU5wQ0QyTUdackU3SkFMZFBQRDRFWXRodXdtVUJGSUhMS1ZZMzU3MzdybGc?oc=5",
-            "date": "Wed, 23 Jul 2025 07:00:00 GMT",
-            "sort_key": 1753254000.0,
+            "title": "India implements world\u2019s largest grain storage plan in cooperative sector - ddnews.gov.in",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREdJLVRJcEVnaU1vbzRNTHNKRURFc1Z6R0ZZMzZkNl9yOS01SEZXanFzLVl6cHd2QUh0dTlvREFObUVWN3VkOVVGeVFEN3FUaGRVZlRpVkdzemFOWjlpQklGVTdjbFgxNVA1ckloNmNuZjBIMjY2a2FsdUtkOW5UX19RVXFBM2NIdXZXRzJmMWtoNHZKamFMZkR1T2t6dGc?oc=5",
+            "date": "Tue, 22 Jul 2025 07:00:00 GMT",
+            "sort_key": 1753167600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -466,6 +487,13 @@
         {
             "title": "Centre hikes reserve prices for open-market sale of wheat by 10.86% and rice 3% - The Indian Express",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVB4OGxNbHJ5U3JOQjVmZmx2OFJRdDdNN3VXbWtfTUh5c3lkQllydDNkQXRaVG51LWt2RHl0dHNhUEJuODJlVzdLdXJCb1Y5MkJ0NFVReDFXNTM1aE4xNEZuU1E1NjVwNmRYYW1CTnh4ZXhzY3A0RDZWUzN2cmpzLXlnaC00YWNXaC1rSUtvYzBXYy1fN1HSAZwBQVVfeXFMTlpfT2NYdXhWcDFhNmo4RWd1eU0wbHBKczhlQzkwZ084ZmtmT04xV0phM1A1dktwRHVPS2ZIWjl2LUg4ckI5LVU3cTZEV0t5SGdjcXJVNWVOT3Q3b1pqcXBlcnNPNUNKRTdZZU1iT1R1OXFTVXBmMDdKSmJfS3ZCdEFiM0c3dElxellvQ3IwTWw3WjJxUFU5YnF6QzNR?oc=5",
+            "date": "Sun, 13 Jul 2025 07:00:00 GMT",
+            "sort_key": 1752390000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Govt to Sell Wheat and Rice under OMSS; \u2018Bharat\u2019 Flour and Rice by Private Mills Not Permitted - RuralVoice",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkNSX1VwRkpGYm5Mb2xIM2szNUpEbzc1aXNJenp5MTFUMHRHZEhiN1hvWlh3UjROUG50ZW1IWHhCNmprWTdfei1fVzFCQkxNT2sxdXhLY2pod2FOR3djWjJYaXRLWjRxRC1xb3l0UDQ2Mnp5REtoeFRQY09JenVMcUZBYlBxZlo4MVpJVzVKelFtaW1NZHR0YnpvV0dKV2FBWG1mWFhKZ1liWm5VUVhVMjFIM1VreXBYMWpwSWx4M1hTSEV2eXdfcGwtcHlJQdIB0wFBVV95cUxPTXJmWDJaVWJWSGl1c0VxcTBGNElFLUFGOVU4S3g4TW5rekFEWHhBVGxseWVka2dBRUxnd3BPWmhhTUgwdE5IZjhITkhPaXRPY1F1RU90akRyMVhHcTlwdjFBLTZvdnMzRkVFM1lKNDcwT3prM0dZWWQ4djJNbWZISklhVXg2WEdsc3pyb1Z6bTRRZmtvS0N2Y0dYUjV3RkdsLVQzMVhGbHR6YXBRbEpoOEpzeENTUG1Yel85RXpaWi1mWlY1eHBobXZkRVJscU1xRVVJ?oc=5",
             "date": "Sun, 13 Jul 2025 07:00:00 GMT",
             "sort_key": 1752390000.0,
             "aging": "Latest Pulse"
@@ -499,13 +527,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "UP procures over 10.2L MT wheat this Rabi season - The Times of India",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQblFka2ZXOE9NV1prTUptcmxhdXcwQ3B2Rk5yX0o1V2E1d0lLZWRGM3ZJa0g2QXZMUDBuN01pN0hseWg3RzV5S1EwMnVxU2VCN1haWll6dUZDek5yZU43Q3ZSaHZaUko0UGV0d0Z5RUp6VDJOOVI4ejJSSTcwdXFMUVJWaEJiVEo4T01sclFPdW5pVjgzenV3M3NhUmdMZzJwU3hiY3hTaDF4VkVXQmlnNGRvbDNHdW93dWwxdjBnbDfSAcYBQVVfeXFMTXYzY19hdFF5T2FkNGNtNTJleUFZVlpBdGd3d1dzZ19mbzU1OXJLazJ6bFlSRG81dHIzUzRXaXgzc0ZEcjJBRkxBd2gyc3A5dzc3X0JCWEQ3V3JJNU9mTmwyTGI1RndWLVFtSVF6RlRtdVZiblVRS05DeFhydTVIcmQyenBRY0N5Zm83aGphR0wweVBEODV1X3ZjajQ2MnRmY3dXbDZGcHJsYUpzSC1VVmZ4U2FGR0U1dXgwSGJYMDVsYjVXbjRn?oc=5",
-            "date": "Fri, 20 Jun 2025 07:00:00 GMT",
-            "sort_key": 1750402800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "A rebalancing of wheat procurement - BusinessLine",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeU9mN3RNbnl4TW1nODlTX3l5TDY2NGhKakZmZmcxUUtGZlM4aUltZ29pWHFXVTlFbE8ycWRXdWhrVFVUN1daSTB6eDRsdWpoWVZYLXlBUkFXUUhYN0tuN2YyM1BHNE9YMVhVRnlEYWNxSjRsTUhLZERjMkwxblRLS1FrdXo4cFRmQ2s2Rk9vN3VUSGlzRTFnMF84SnVaVDhO0gGnAUFVX3lxTE41SHd3ek1xa3hGekFvenpuTV9QdjZISnE2N1hPc2R6MUV1aWU0RjNLMkpOVVhoX2pKdy1lbEF3dmRNMHlTZ29YTUp0TUJLNTM5MkU5NVF4SG5mWkdsbEJ3RGE4SEl6R2dOOS0xeDlHUzA0N3V1YXNIYkdEWEkwdklQWnJkaDk4WkVmMEN2VXE1cVI3ZnF4Z2Z6NFZYa0NvY1pOYXNFeFFB?oc=5",
             "date": "Tue, 17 Jun 2025 07:00:00 GMT",
@@ -513,15 +534,15 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India grain stockpiles soaring - UkrAgroConsult",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfU0pLakFodDdRckhUVVBOdGozUU9pY2Q0WTlPTzgzdTMtSWhBcnRhVXVWUjd5ZkJEeTlBUDhJWHlnN1pnQVU0Q2RkTlkwaWNjeFYtSUFFbTg1MkROZ2lwSHk2Yy1HMVZJLUliZXJEYmlCNWNQ?oc=5",
-            "date": "Thu, 12 Jun 2025 07:00:00 GMT",
-            "sort_key": 1749711600.0,
+            "title": "India tells WTO it won\u2019t lift wheat export ban - Mint",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRWllYmhndmFQdG1FNXhhU3lIWENoQWdQQk5zWDFZbGpqTEk4VU1iSUVfdkZ3Sk1mNWl5ejQwU1VIZU55Q0hzelpIWlRqQlV6TmZ4WU5kXzZiZ0dSY0lWTlhiUHozZ0g5YWZieDVRU0pPd1NGenh3bnpsT19LMjNvVjUzWWJoTVlYMmlEbmlFb2x4dzBEb3Q3eklhQTlhT0lhY2J6V1cyaTlYNUlVamp3SWtJT0xzb3F0bFp1bnZ3cGdsVDdaM0sxRWhBNlhxSEFxb2owOWJsdTFhVU1oVVQ4VG1lTC1rdXBrSjB3allMV3BGX25CRnNn0gH8AUFVX3lxTE1GUTlBTlV1bGRDbGxCOTFvalBYMk1GZlhDVFp6b0FldElxb0ZPSEdiSExYV2lCdHliUGhmWDNFVi0tRFNoQWVEb3pNT1RuWlVac28wRGJqSURlM1VCUGZIZTg5VXdiaWVXZUktMVUzazcxeFRURUsyaGFHeWY3dHlsNGdScDF1UVFPbWNNb1FWal9TMmY2Ym1KU3NsREFReEdqWGthR0tqTDAwczBPM29XRmpWakdtYWNKZHRLRTFic3doWUpobWxYYW9Fcjl0OUwtcUxENHlYLVBPTWJ0N2ZEcFYxQnprbjJkM0Zuc01UUXBsNGx3dE1kUEpSRQ?oc=5",
+            "date": "Wed, 11 Jun 2025 07:00:00 GMT",
+            "sort_key": 1749625200.0,
             "aging": "Latest Pulse"
         },
         {
-            "title": "India tells WTO it won\u2019t lift wheat export ban - Mint",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRWllYmhndmFQdG1FNXhhU3lIWENoQWdQQk5zWDFZbGpqTEk4VU1iSUVfdkZ3Sk1mNWl5ejQwU1VIZU55Q0hzelpIWlRqQlV6TmZ4WU5kXzZiZ0dSY0lWTlhiUHozZ0g5YWZieDVRU0pPd1NGenh3bnpsT19LMjNvVjUzWWJoTVlYMmlEbmlFb2x4dzBEb3Q3eklhQTlhT0lhY2J6V1cyaTlYNUlVamp3SWtJT0xzb3F0bFp1bnZ3cGdsVDdaM0sxRWhBNlhxSEFxb2owOWJsdTFhVU1oVVQ4VG1lTC1rdXBrSjB3allMV3BGX25CRnNn0gH8AUFVX3lxTE1GUTlBTlV1bGRDbGxCOTFvalBYMk1GZlhDVFp6b0FldElxb0ZPSEdiSExYV2lCdHliUGhmWDNFVi0tRFNoQWVEb3pNT1RuWlVac28wRGJqSURlM1VCUGZIZTg5VXdiaWVXZUktMVUzazcxeFRURUsyaGFHeWY3dHlsNGdScDF1UVFPbWNNb1FWal9TMmY2Ym1KU3NsREFReEdqWGthR0tqTDAwczBPM29XRmpWakdtYWNKZHRLRTFic3doWUpobWxYYW9Fcjl0OUwtcUxENHlYLVBPTWJ0N2ZEcFYxQnprbjJkM0Zuc01UUXBsNGx3dE1kUEpSRQ?oc=5",
+            "title": "India's rice stocks hit record high, wheat reserves strongest in 4 years - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmt2bzJ5YTdPLWVkZlBCN0t2UDFET1pRai1peDBESEFLZG8yRXVfV2N3dkV5QVZMN0w1Rll2andxUXRtQ1p5bmxKSnMwOEsxM1BfVDZRb2E4dy1LZ193ZDlRb3EyOEZxRlpYODdOTGl2dnlxRl9sN1R1cFM5SExuMWhNYjltOVBFTGYxcUFBa1JZRWdzY0ZrQm1hSTIzaWR3bkJpdjAtLUVhb3JHVlNwd0JHRWpRVEdQZ2F6eEkxYV9sZ3NUb0pQc0g0cVM3REROV2VzVS0yM2VmLUhUdjJn0gHkAUFVX3lxTE5NNmpqNmlCSkp4ejZCWXA5aVpxbFRNX0JVZkdaUlVOcjRiZ2xlU1hiY29tYUJYbW05aXdwWlVjZ282UXYwOEpOQmVxVnFmZ3ExbGRQUG4zdWl6eGdsQ1drN2hjNWFHazRSRWpnZDVsZGdVZ2MtLWFKdDZhREs3eTFaUkVBLUoyQWo1cTZSLWZhNjdIeUY1bl8wN2R6WjUwcEZqNXVOWFoyQWJxVGIxbXR5dVAxQ2lfQXlQVzA0SFdoeEFzaTAwS3RmQTlHeU4xZmNCVE5nY2VrMmxLemlhNHNCS1ZRNA?oc=5",
             "date": "Wed, 11 Jun 2025 07:00:00 GMT",
             "sort_key": 1749625200.0,
             "aging": "Latest Pulse"
@@ -534,15 +555,15 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India & Pakistan take opposite MSP paths\u2014 hiked here for 14 crops, scrapped there for wheat - ThePrint",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcTFkOWJmTnk3UnhpQlNDZlRQa2RpQ2gyMnV2MHczd1F2N0JlN0ZEelZPRm10ZklHV0U5QVMtY3JJc2J4Vk52TWlsaEE0ZkJXc21lc0lRYjVxUXdSdXRGdXcwamYzbVFkaHk5R3VObU1kX1I3TEdvNGd1Qm5WQUktTkxLN1hiMDNKZXpNNkQzcUZLRWlxVVRqTUFKLUkteVZoMkk0bkpGdVdjbFlhUkRITWp1aDRCUV9Dd3J5ejJ0ZjBsd9IBxwFBVV95cUxQdTI0U0F5U1k2a2hLN0tiY0xPeWRZWk1CMHFIN2lpa09uZXotSDZlX1RYY1lzZHpGZ0ZVNWRPb0xWWHB3WE0wNFFQVnNqbno3b2RGVU1hSkNfZnYxM3VxTjdlSWFtVGdZek5xX3JxaVg5MHVxYTltM0hmRTgzX1hWLWJpZ3pDWHJEd3lSQkk4MjFfS2ZiVnd1dHJ5NDBKdnl1bFY2YUFCS2hjZ1NfNV92ZjBraUlkcjVBMk5XUDhQNVJNRDB2dF9N?oc=5",
-            "date": "Thu, 29 May 2025 07:00:00 GMT",
-            "sort_key": 1748502000.0,
+            "title": "Wheat processors push for export relaxation as stocks pile up - CNBC TV18",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZjMwVUZfUnVhT1VQaHFEVldiTWdtQlA0TkViWHdtSl9WMXNsUU95azIxV1ZOZDhMLVItU2ZwS0UzMkZYbUZnTzNpbTVPZy0xUk5tc2VwOTdJNlBVdGJHeUt3NGVlZnVINDJScXpNcHNRWDk3a2FlbDE5SDNBM2VtTVJld2VieVNJdC1KN19BajRZZ1JISThWXzFSRDVxLVJNY1VqUDMzMUxPQWgwdlHSAbMBQVVfeXFMTkhhRnNLVjhGR1JIajE3WDVyRzJrUTM1eVZVMWxjQVpWcVVsemFqRjEtR0xLRFVfT2NuRGFmdDUtaWFwOUo5UWc3SElEc0FPaFJwQ0F2ZVhKQU05LTNYbDJCclpBVEQ2eXRJX1JJa2JHcU1tcnRyU2pfUndxNkpPSUEzTGFvTy1OUE5DVHpMd1pJQzdXOUFUVXJHb1Fpb0l3R0dzS2NCR1BRNExYYzhUbkh6U1U?oc=5",
+            "date": "Sat, 31 May 2025 07:00:00 GMT",
+            "sort_key": 1748674800.0,
             "aging": "Latest Pulse"
         },
         {
-            "title": "India wheat, rice production to rise to record high, government says - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFgySkNpeDFicF9fQjJGSmNRLXZHWXhCOUltc3hLUm1Zd2hxdmQyXy1lV2wxSURETmNpVHQxcWNiUXp4a2NlcjVkS1U5SVJ2SGFzbjVTVTBqd0RmbWk0V0ZUUUtrSllUZmZiVGVjTm1tRmlJQy1mcnFUdE9jbnd5U01uS28zbUtkeHJSdzVsNGVxUXRLaEVYR0RFTjh2YnFibHcxeE5tNzVTdjA3?oc=5",
+            "title": "India & Pakistan take opposite MSP paths\u2014 hiked here for 14 crops, scrapped there for wheat - ThePrint",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcTFkOWJmTnk3UnhpQlNDZlRQa2RpQ2gyMnV2MHczd1F2N0JlN0ZEelZPRm10ZklHV0U5QVMtY3JJc2J4Vk52TWlsaEE0ZkJXc21lc0lRYjVxUXdSdXRGdXcwamYzbVFkaHk5R3VObU1kX1I3TEdvNGd1Qm5WQUktTkxLN1hiMDNKZXpNNkQzcUZLRWlxVVRqTUFKLUkteVZoMkk0bkpGdVdjbFlhUkRITWp1aDRCUV9Dd3J5ejJ0ZjBsd9IBxwFBVV95cUxQdTI0U0F5U1k2a2hLN0tiY0xPeWRZWk1CMHFIN2lpa09uZXotSDZlX1RYY1lzZHpGZ0ZVNWRPb0xWWHB3WE0wNFFQVnNqbno3b2RGVU1hSkNfZnYxM3VxTjdlSWFtVGdZek5xX3JxaVg5MHVxYTltM0hmRTgzX1hWLWJpZ3pDWHJEd3lSQkk4MjFfS2ZiVnd1dHJ5NDBKdnl1bFY2YUFCS2hjZ1NfNV92ZjBraUlkcjVBMk5XUDhQNVJNRDB2dF9N?oc=5",
             "date": "Thu, 29 May 2025 07:00:00 GMT",
             "sort_key": 1748502000.0,
             "aging": "Latest Pulse"
@@ -559,6 +580,13 @@
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS1hEU2JMQnpzejBGbEFmWUNVWXdkalFRNEhKTnNZVEZTNHlSN2pqcXdyWGRmNUlCWXJqWjJBWVZNYml6Ukx5eWhFeXdKSkMtLTg3RzBzR1NYNUIzWnIzb2dSWlNTOUoyX2tyMW1aRHJBX00tRmxwNld3NHZuM3RRTjVtdGs0RHc3OU8xVG1hLTJCWkpFU0VlTUZCd2k5eWRxUnlEOGZrUnh5em0xSTVvX1Z3UkVwbnAxcUYzRV9PZ1JIa2Fna2FWd3BmTlRTMVlaQlk1QUVrLWZPbDlKMlHSAeMBQVVfeXFMTk1MSjZ5NnBUOVFMbDZRakRSbjJPMERUWkFGMDBENDhvdHJrOVc5akRob2RNNVZGeXlnb213WWlZM1NsZ21lOXBDenExVGNJckpla2NkS3NzRDFjelBQLThRb2Yxd1pCZ3ZZRk4tWkQwdzBYQ3JmZ25JTXlnaGwwZjh3TGVESkhOLXNwNEIxWmN0SEVOV3c5N1FDZktpdXR6RlcwajA4NzdNb2M0Qm5tVk9kUzJTUmZmYUpXYWgyTUVSRmdRTHF2WnBPMG9tejVlTEdZX1E3XzlONkxLdDJFSU1iYms?oc=5",
             "date": "Thu, 22 May 2025 07:00:00 GMT",
             "sort_key": 1747897200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Food inflation in mind, Centre holds off wheat export ban rollbac k ahead of polls, festivals - Mint",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbmNheUg0UHNwR2xQeWk2c0tENkV4NlRpS1dOblBSRjlNYWsyM1Q3VDZxYVV4SDRZbzFEMEt1eTEwZkk0aDdXLVMzbHNudXB0SThyb3RhVVQ0djdGS1VMYi00TWJ2RVltSmQwZXpENHRaZFBzVzM3QzZJR214UVVraTVZM3dfY0czcnJ1OENXenJxMFd1a0dPQjI4bUttT2ZhMlhXQXNOSGpoYjRwdUhHa2J0cUFvTEtLR0VrX0g0NDFoSEhqUU5VSDJmX1d2NXZncjVUQ05nM1BGdHA3SFpsZXR3Q2lQU2Jhb0RvWkJld0V0TFZCYm1IRmZVTmM0VkwxRWfSAYcCQVVfeXFMTnBxb2lLbF9scjE2Q1R5QXhwYW01NFhZZFBLQ0F1SjA2UzIxZHVUdmJCRTNYQWEteFQxOXBEQkYxVWVDZ3VUQ0VtWFdNYU1Ib2x5WlFuMWRnb2xTYnY3XzFaOGppT0p6dUN3R21VUjFoN0czaUs0Yks0MFRKQWVkejc5NF9Mc3NKSjFLaHNZNzRQTDJEOV9tQTFSS1k2TWZyS1M4dHZ4OUpPaDUtdkFoY1o2OFUtTzVlMEJ2cDdvblI5V0Nqc0IySjlxQlBqOFBLSzFVaE9kNFZoZE9UTmVVOTBmam1jTmh5YjVtTmM3alZTMXZnZzZQRUUtTDAyQnp5SUt6M1lnTWM?oc=5",
+            "date": "Wed, 21 May 2025 07:00:00 GMT",
+            "sort_key": 1747810800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -590,13 +618,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Explained: Why farmers prefer growing rice and wheat - The Indian Express",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnlrQXAxcVNGNTJhbWp6R0FWLXAxWjJCaTFtNjRNQ3NrM2dxa3RHRXlSTWN2X3dMcGR5ZzRTNEpVelBWcVNSRXVEWlpBeGNkYzZXMjA1N0ZxR3BsYnlPdDliSlpVYjYyLWRubWxjSmowWkowNTFYMzBWT1JEVXhRSGo1WXFxaGtnWm1RWldFZEFlNW5yOTlTTE84blVHRXh3cktlNThhaXhibVY3QThlcmZISWxHOGY4RmVUTDRXVTVSQdIByAFBVV95cUxPSU5Ic3ZYRkZZU1BIbnc1U0hoMy1VWWk3WXo1NnZNM1oxZElEVUl6aEhUbHJEaHpiV21ZVHhYcWpFWU9uWFB0SVhnRUc5NkJzcVlBZ1hqRVNBU2lFMXdPLXlsaG5EZXJvTzE4c0dlNU43Z3k0YmhCeWxWZm5SQXltTm9ob3NCT19Nb3l3a3o3RjNyTHJhQTVxay01TG4xcFZjY2JkMFRIaE5kQ3hjZk50ZU9BMXo2WDQzVFFTSzY4SE1tNC1xTkdxaw?oc=5",
-            "date": "Mon, 12 May 2025 07:00:00 GMT",
-            "sort_key": 1747033200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Wheat procurement crosses 29 MT, highest in four years - The Financial Express",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem9ueXM3VjBDc3RsUjNKVEd2TXNyVlBPQTl4ZUNxYzZRVHBqeFFuNXEteHpNdUpSaHliUnZmc0RwQ1VHanJNMFNPSzJobUl6bU9ZUC11N242am1ZbGpqQzZJeUIzQmRIYnRhT1FJUDVvZWd0NFNzRGN4M3NPOFNpMUd2XzRtRWZwMEhKRzlUWWhCMjljRDRSY3Nkb3Q3czQ1NFAwTG1DS3pxWFhzWUk40gG2AUFVX3lxTFBWdUl0RHRGcjRJQnJrWFhvZWhwblFQUlQwUDRRMFQ0OUVyLUotX2ljSjJBTVU1OGlJQzdaSk1Ydm0tOUh4Wkk4eXo1YzlnSEhGRW9YRHVIeDlmcHRBNW1VSFQ5WWZBQVhXVTN4eGx6SDlIVnQtdWpKRHJxRm4zc3cyblpFWUtLSkN5WG9RZFd0c2RYUWlwNXdyb01ZVmlSZDNLRjB2bko1dVFvWjRxRThFN0h4UkZB?oc=5",
             "date": "Sun, 11 May 2025 07:00:00 GMT",
@@ -604,10 +625,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Wheat procurement crosses 18.39 mt, 54% more than last year - Mint",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFE1MHJtM2dTaFJBZmstZVFoNlhla2NXdFlibVRia1RUaHNXRG1idzhCUExOZHlEZXVIS21rV01vTkNyeHBCbnFrbkZMSldQdGN2dU9DcTNEbnNLbm5lZVJLRTVBRWp6NmZJaHpNcjZwcE5MdFNHYVpZbTJ1TXVCaURncTZOMGFhUkxPVUM4SkhHbl9fMU5nZ3l0MXdSLTV6S2tJRElKZUhvN0xDYi0zT2RPUkR4el9EZmpKZk1iZ3NYaFZZWFHSAcsBQVVfeXFMTXJhREpHTjR6NGYzb3pGRkctTVJ5UjNSMXltRHlfNHVpV0ptc3lHOThWZi1uT1FTcFFEeU5kSm5Rc21aeHJKNnhBM2ZJZDlNOHpGU04zV0s1Wi1WLUM4TGIwbEdjRVVrSXFsTWk2WTJwdE5jMUI1NWZrZTVyTHdpaW1pNDE4VmRLcUpzZW5YZlBCbWtVeXVrTEhTV3RfMEFrZlFJejVKLVhTOEtmWUJ4OEc3YkR6WGNweDdTdXktcGNacmRPWkU5eWdMem8?oc=5",
-            "date": "Mon, 28 Apr 2025 07:00:00 GMT",
-            "sort_key": 1745823600.0,
+            "title": "Wheat procurement crossed 263 lakh tonnes, UP emerged as private procurement hub due to lower prices - RuralVoice",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFZFY2pLSjBCd1EtWUtqRG5ycFVreEVHbFFpR0I0d3pyczNaNHNvaWVfcHNWZVpvblpLOUtlb0tmVWxKYVBsMGRlay0zY2l5YmZ0Tnd2WGY0QmUxNVlRcG12ay1mMi1CNUNyUElab3ZvMG9IMXJqa1ZIT3RCYXhmbVNFMDFOeGRCVlprZ1JCLTgxSkZxOVdJdXp3RGF3ZXdMb3NvQnhDUUFQc2RJWWhNSTdCSmh4cUU5d1RwcmlyNlZYQ2QtNnlNRkR0alV5N2RPTWlEbHdR0gHbAUFVX3lxTFBhSjlEWi1VdjJVYTdTTDVOOEJkM3pQNTB4c2RuQjdpY1lUb2JHQ29mVUdxd1Z1R0x0YXVOU1Z0S1BJQTRqako0MHp5MGJhTjN4ek5WcVJhVk44eFN1blN0UEZLNWxjUFJLOG1QY1hPRXhyR0dBZWlXX3lNc3pHV2FHWXpWb1JBc294R2ZrMXM3V2ZUQzBGZDhYakRDLTBlS0tUeVM3bUZzUF8xaklINkRCa2xtTTVMcG9WcmtwU3lYZ0xjMlFramhrNjRpN1ZqUnlTU1RFTTl3ZEpSdw?oc=5",
+            "date": "Sat, 03 May 2025 07:00:00 GMT",
+            "sort_key": 1746255600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -639,24 +660,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Wheat prices soften as new crop arrives - The Financial Express",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWRVOFJnMXRCNlhJalVxOXQ4eUdNMm5BMXZjS1ZoQTIzYzE2VjNfdEFYZG9lNHlySDROTVBUWnNUdWlnMml0NFJWQzJkdkgydWdsNVdUTE9ZZ3NYQk9QR2x5VW5ISkpmMDFlVHlRaEtfQUhJOTlYb2VPVUp1dGJvNnhFX2JLZHB6ejRpc0dfWGJNUU9odFhZYWRCNWXSAaMBQVVfeXFMUGVpcFprNUFDblNlbnNXRzdKalVtaThZeHhDM05CUkVWRWlDMGRrcGR4VDFfMEx1YkZSa201dWltanp5aGF0MVYyVlpLdUotNFRDbWNqYVgwa3ZTVkw1SzZTSzJGVEdkUklmMnM3bHNMZVl5aGwzV0ljcXNGMGVpMWhHdEhDUm15cW5RbFBUcnpsaHJCNHByUTlickQ5N1dqOHUwVQ?oc=5",
-            "date": "Thu, 17 Apr 2025 07:00:00 GMT",
-            "sort_key": 1744873200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "India's wheat stocks highest in 3 years, rice hits record - Yahoo Finance Singapore",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGhmSF93MFlLQms0Y2VTdkNFamxYSlltYURoU1hWTjZ6N0VWdmVWNWhtVTdwSVN2MW03TE4zUV9fUnV3blBQQ3djRGxnVmlOLUwzeFdUSU80MHZQV19DUl9ZNFBuUjcxTEkzUlRDeXRraFVCbDNSYm4yMXFla255U3N4ZjY?oc=5",
+            "title": "India's wheat stocks highest in 3 years, rice hits record - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVNtRU1ZWHMwb3ViRjRTS0oyeHZReGRjUUthWXhQaE0zTllnWVZLQXlJN1hFcjIzc0N6NmJaMnc1RUhWZzBKYWhaRUM3ang1a3cxcFUzRnQzc1paN0FaY1g2MU5lTFI3bnR6cWRGSTRMbXlqZEp2cUV6UGRoRXluV0R5ajRYTDFCWmhreGtXRFVabmdDLVF0dDU1NDBsSHZVQ0ZmTGlLc1g3ZUsy?oc=5",
             "date": "Wed, 16 Apr 2025 07:00:00 GMT",
             "sort_key": 1744786800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "India harvests 38% of wheat area so far in 2025\u201326 season, says agriculture minister Chouhan - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaENwV1VUNmpDSmpjNndLN3NlLWNiN296LV9nWXY4Q211azFwZWhSbFBtNVJjMGdLWDR0cHA3Z2N0bFcxRDdBMXBxVDhBaW1UbFM0U2Z2TVJQY3pCbDVnWUx1dkFPSGh2QXlpaGhwMnFOMWY2Wm1fLW1lYVV3ZzdKak9naGNVQko3S1dZTVFPSzg2SVZmYmRJQmVVcGlhYTZ1aG5XRG9lbnJmWGJ1bklKWkJtLWZLdXlHc0FRd1lFVWJuMW9jUWFHaGZhdm15Yk9DYkFHZU9YZE5ONXdEQ2pIMk55TWJ5bGZwRjZiSWZTMEtZN1Fjbjh1cHJpTXnSAYICQVVfeXFMT01COEE0ZDdqUFRYVGR0dWtyc1g5VjBtR25mMFdMYThHbEF4MDV1N0VvMVpibzV4T2tnWTkzRkxzR01mcjVEYkszS3czVG1DakJJc1R3c0FsZ0pFdFBseWp6SHVQemRleHBqVFNfS1cyT19XcXdId0NPbERYcXN2ZFdObC1VWXdIMlRKNXdGTkFDcUpsUUV1eWItb1VHRXlPU3lTMlNxeGlKcmdGVEpxdVNKRENPQUp5VnpHQnBMRk1iYjEyRllUYVgwX2tZcF8wSVAxSkFHUjYzRUN2aGpaejYyVTFpWGRiNFhMamR3V2VXZlZzdmVWbFRkSWh2cHpaOUl3?oc=5",
-            "date": "Mon, 14 Apr 2025 07:00:00 GMT",
-            "sort_key": 1744614000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -664,6 +671,13 @@
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQV9RWGRWV0VHY2Rrd1AwLTBuTHhBNDVfRlp1cUpNemsySWNlT282Q05YbzlxcUUwMlJPRXVCYVBmS3lFUGltd2ZCZk4zT3d6SHM5eEJVN3hCOGF6YTNzYTBkRHlLUTZZUXFheVdQUzhyYzR5WGJEMGREd1o3QXN0clpwZ2FCd1ljNkdTdEtaNmtOa25FNFNtbnZKNGJUNHZsRGZ1OWhDVk9ieW8yTXNyUnBzTkZmdHhFbHJqN2J5ZHliclZ3dmotejBzM1BtNW_SAdQBQVVfeXFMTXVjaXdISVJfajRYUkkxUDNyN0hmU0l2OThMUjAxbDVFRzU1NXdVU1RHX01oRDFLLXNlS2VHUl8tdElGVDJuNmRham5uZ3NKcVdDUE9qQUVlOHlZZ0V5R2FJejlHd01qNUhKYmc3WVBLTGNYSDBQMHJZeDAxbGYzVDh2QlU0Q3pQVkg5c2xtMk5kRm1wbkgwU1FIY0d3djVuVHdKa1NmbjhXTUI3bkR4eHREekdJRU5jMHlERTFuckVJeldUbzZwTTJxZ2FtY25YZ1RSUk4?oc=5",
             "date": "Sun, 13 Apr 2025 07:00:00 GMT",
             "sort_key": 1744527600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India's wheat procurement begins strong, signalling robust harvest - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGNFWlpoV2tHQWRFYTlVb1VqcTBkV0tDNEJtVmJadG5HRVdCVExlVkc0VVVLSVZXNHZVTW5nRWMydDJYc3U4N01HWllVQ0pzRHpaaWh5aVlJb0xsZ01uYVdQZ3JfWUpMYnlsRnhWcmowcW9ZbWl5cWQ1aXh6dzFUU1VsRzdiV0Z4SkxVV0ZwYUJYVjRBdnV6WUNjUm41QWhLRUllLXJSOS1uRlYtNDJMSDJUNWdNNVhrYmNWSQ?oc=5",
+            "date": "Wed, 09 Apr 2025 07:00:00 GMT",
+            "sort_key": 1744182000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -681,24 +695,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India\u2019s wheat procurement season begins with 6 lt surplus on early purchase - BusinessLine",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZnBOUGViSG1sMGRCNmJGNDJIWnNLN3dWNTBkZThWMk9PdUdUVnp1UWJjUHM3SnFtbHJ3UzhycWo1cFF4SXBYcDhZQW54Zy1xbm5ianU3SW50MzJLZGRrcDdDSXV1Z3J5SnlFdEEwWlR4cjloX0prY3lobnVwMGRPck9yVWx3S29Jc2l0LXRLcl82TzVxdlI5b2NISWYzX2w2bVF3d1RhellRSlQ4S3hLU3JIOFl1SVFjSGR5NUxvLTBwbm5KY2J6MjlhOXVuMlpTOEFOMDNFcnlBTm9xLVR3NXh3Z1FNQ2tj0gHvAUFVX3lxTE1OMkNPdDRkT0plSjB1NkNfSGVlRXZtWU5nNUhoRW0yM19qeldBeXZCRjJVeGtNVG5LN3dYSXZHcmllUGdGemo1Um5rdDEyQ1RaRG05UUplYWMtSVl1Ym1QLW5GSjhMV09tWUZ1V1RXLVhNY2VOYWstd3FGM05OUHR1UE1tMkdMQURMaUx6SF9aVGtZdmFGaUs3X29PbDViWGl1MlZrek1HNmdaU0NoVnZReFp1UWE4c1IwelNXYVZVdlE4ejlSTS1ibDZUMFc3NVFIV2VicnRWT1ZxcnFob0JVTUxPaE9haDNPOGlVWWFZ?oc=5",
-            "date": "Tue, 01 Apr 2025 07:00:00 GMT",
-            "sort_key": 1743490800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Wheat output may exceed record official estimate - The Financial Express",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjNMVXI1Y0JDOHNLclFEN2cwMS03bG51UERkVDlOUFdCVjdqR1FSYmFmdGNWQVJ4YXd2dC1ndW50ZWVNbkZlaEd5SUVqS3NjSllaLUdJbmNaWnhJeTloRzhZWHoyVTBRQmVnN1phTmRjWXNKRTBmUkJZNG1KbUNYUmFYTmd2ZHczYnpLNmRsVUhBeFZwanBQNF81Q3JJcGdHVmlySWx0Nm_SAa8BQVVfeXFMT3VyT1M2YlJiZ0Z4alg3UE5KdlM1Q2ZmelN0UU94VThjZm1sblJLVU5YSU8xQURCcXAtX01XNW9SOV9UaEVkNTFGWHdDSnhPeTZDSVYwYWFIb2dvbEJDLW5ZMXhxOFZwSmJXa09LdmltRlFyd0YydFIxY2k2amtnOTc1Z1h3RU96d2JZMnNQN1VqTTl5V2Q0YlhfWkx3TTZfTVZ4M1lZUUtJWmY5a193aw?oc=5",
             "date": "Mon, 31 Mar 2025 07:00:00 GMT",
             "sort_key": 1743404400.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Wheat vs. Jowar: Can India\u2019s MSP Strategy Avert a Groundwater Crisis -1? - newsclick.in",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0VLQV9EbjBLTGRPMHJ4aHFaRHVXajBMQzNZT1FBQkpDcmVXb0FKc0lVQUdjSzdVekhENERkaXlUaVB0T3JjS0U4dFN3cDU3TGxvTHRITVNNVXNxbW9ESE5IbENkakNkbXI0NUxrdnFNNlR1TEwzYk93c09fVWJraTVHMjE3SEJ5TFhQR0xiN04yQjVE0gGaAUFVX3lxTFBnLTEzYUlPYlZWTDFnNDRzOC1ULVhWTFJFb0NVVG5NM3V6QjBOMHVmOEJyVnY3Uzl1MFdEY1hSek15bnJwWlRGOF9yZGFmYl9IZ3dmTjhSelhQT182YjVvc2pKRkVTNFFjcmNfSDlXTzZqWnlkTjZBaWpaV2tldDFUcVh4MlIzRzEtazJFakNla1ZTU0ZVQ0JvSUE?oc=5",
-            "date": "Mon, 17 Mar 2025 07:00:00 GMT",
-            "sort_key": 1742194800.0,
             "aging": "Latest Pulse"
         }
     ]
