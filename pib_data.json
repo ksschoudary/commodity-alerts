@@ -1,11 +1,18 @@
 {
-    "sync_time": "12 Mar, 11:02 PM",
+    "sync_time": "13 Mar, 12:00 AM",
     "news": [
         {
             "title": "Oil India Limited Signs MoU with National Scheduled Tribes Finance and Development Corporation (NSTFDC) to Strengthen Healthcare Facilities in Tribal Areas of Madhya Pradesh - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1YXZvSEVob2cwRi1aRnEwdGtiRy13UVh6RzY2VHFaUVh2U3pkd2pvMWptV1lsdWVFQ1BETEJHRFNuZDJmaWEtb2pmTEhtdjdjZjdQOUNLOWtmZDdQVGtNUEowaEpxYVBE?oc=5",
             "date": "Thu, 12 Mar 2026 16:48:00 GMT",
             "sort_key": 1773334080.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Inter-Ministerial Briefing on recent Developments in West Asia - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYnY1cV9OZ3BaeHl2VVZtbkNzUXpYb1JaRHFYSDlpb1ZRWDU5UU1YekhCMF9NaUhtd1dIMWNzM09fVFlpSUpadko1Vy1YYkYzZzBGYTRQOFpXZ0dzRkQybWZhODhaZDlH?oc=5",
+            "date": "Thu, 12 Mar 2026 14:23:00 GMT",
+            "sort_key": 1773325380.0,
             "aging": "Latest Pulse"
         },
         {
@@ -52,13 +59,6 @@
         },
         {
             "title": "PM to visit Keralam and Tamil Nadu on 11th March - PIB",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRT3lrZlJWQkUyREJjblhucnNPY3RLTEVPWHJTZzBpTWNFdDBYcGJBbGswTmh6UFpRdTlVdUg4djFOOTR5d1U1bE80YXpGSDUxcXRHQVdNZUtOMFJvazdwRGdINmdQZ05Ib0JBM0wxMHNKaktNWmdyM3NUaw?oc=5",
-            "date": "Mon, 09 Mar 2026 15:28:00 GMT",
-            "sort_key": 1773070080.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "PM to visit Keralam and Tamil Nadu on 11th March - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5R1o0aDJjZVhGeEhvUEU3NVhLMHk5bWxMUHA5QThONFJmQlJJUER0eDliU1FSano2QTN0X0NFOV8xN0dtOVZOb1VBVERnZ0oyLVdMUi01d0x6QUEwZHFNZ0UxRTV1bzY5d3ZCV0RkNHZPQjNsM0p4WENB?oc=5",
             "date": "Mon, 09 Mar 2026 15:28:00 GMT",
             "sort_key": 1773070080.0,
@@ -86,6 +86,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "IEW 2026 concludes with strong affirmation of India\u2019s energy leadership amid geopolitical flux and recognition of innovation excellence - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iOVlUc0xMVjZFcXVrUXZYY0FScWxLdXd3LWhFVE9ERGpnM3VveURjWndHNkotc2Y3T2RSNUhDcEtPUXZ1cWVMUVl2V3hzV1BDbFhhYlhBMFEzdjI5azBaUHo2Q3BtN2RnRU9lbk9mS1daWUkxY0RTb3dB?oc=5",
+            "date": "Fri, 30 Jan 2026 08:00:00 GMT",
+            "sort_key": 1769760000.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Development of Palm Oil, Agarwood and Bamboo in NER - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5bVdVYzFKS3RrQmJicHZOUGtubGhQTE5oUkpvdXI4bGpHU0RMTnJLLXJLaE81QlJGZGhSU1FwS0U5Z0o3Ym9WZFRIejYxRm41ZTAtZkk5cE1jdHd5OU9fNjZIeVZNbng5b1BkMWUxR2JXN1BORnI3UXhn?oc=5",
             "date": "Wed, 17 Dec 2025 08:00:00 GMT",
@@ -104,6 +111,13 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPX1ktalNFYmtpVmlMdV9fWmFaRnR0ZWZCN3laZXhKdzVNNDk4T1VROWtXOHNLdy01SzdwSVBYM0hvdVlCMURKd2hqTW9nNVNmajlpZk5pY0RMVWYtNEkzOFBEUkE0QW1I?oc=5",
             "date": "Sun, 05 Oct 2025 07:00:00 GMT",
             "sort_key": 1759647600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Indian Coast Guard to Conduct 10th Edition of NATPOLREX and 27th NOSDCP Meeting - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfMWhwVnRITno5bWdMMEpmWjExUlNGNWxTYzVSeEJpcmtTQnlzM1hfbzhleUhfcFZKWllMaHh6YkxiMDZhaWFUcjhvQWl1OVg3REwyT2Q4WHI4NkY3WUlYVUZmSHVuTFY2?oc=5",
+            "date": "Sat, 04 Oct 2025 07:00:00 GMT",
+            "sort_key": 1759561200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -212,10 +226,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Production of Crude oil and Natural Gas January 2011 - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iODdpZzhYSDJPX1M2MV9KYURsdG96M0JRZlhRdWdULXZoVnMtTGVha1hsX1p4VG5pbGtmLUJsOHprQTdQUDNOM2lBRVdrSkVrSTFDMEc3cGdKZXZVcDZJVWV1MkY0QWhvRUpVTA?oc=5",
-            "date": "Fri, 16 May 2025 09:48:44 GMT",
-            "sort_key": 1747388924.0,
+            "title": "In RMS 2022-23, 161.95 LMT wheat procured from 11 states (upto 01.05.2022) - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SV0Z5eXV3QndFaS1BdjE3amxuN3BjZzRlby1jdlFXdDVxTG9tSTlLNWxmRlVMVkZ2bHQ3eTgxQm5nSXYxNHJLblc3YllqbGh2LXJlbUZYc2hMcm1RazNFYWVLOTk1TE1QWVE?oc=5",
+            "date": "Sat, 17 May 2025 17:20:49 GMT",
+            "sort_key": 1747502449.0,
             "aging": "Latest Pulse"
         },
         {
@@ -282,13 +296,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Centre revises Wheat Stock Limit - PIB",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03YmphcHFWVTZfSThsMFg1S2tXVlNHcHQ4bEgtSmpwZEx5VFR2NU9fajdxeGdnUkZuUEtrVEUtZW5zWDhOenNBTlZSV2FLbG1QUDB0S3ZacVAtS0tUZTNpR0hkOXdfc2RmaE5v?oc=5",
-            "date": "Wed, 11 Dec 2024 08:00:00 GMT",
-            "sort_key": 1733904000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "To moderate wheat price in open market, Centre to e-auction under Open Market Sales Scheme (Domestic) [OMSS (D)] 2024 - PIB",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcTFsRERuUElQem1mcnJtVjVmQlkyY2J1U2xFSHRfNV9rWHQxbG5CMGpXOE11a3YtaVA4WDh6ejZGQmZlZXd5RmtNdC1La2daXzdmellyT08zOEhVTDQwYkxLSUNfN2VvMnlB?oc=5",
             "date": "Thu, 28 Nov 2024 08:00:00 GMT",
@@ -345,13 +352,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Vision for Edible Oil Self-Reliance takes root in the North-East; Launch of Oil Palm Processing Mill under National Mission on Edible Oil - PIB",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rcG9HZWZELVZVQ0JOUGw4b3J2b0c3SjMtQl92V3k2N3dLcEdhV1dZUUNQSW9JM0dxdFE0SU95TGw1bGVHcEljN3BBTmtFdGs1RXhyMTh6WkZsWXJzd2phcFVGYkQ0QzdidTBj?oc=5",
-            "date": "Thu, 14 Mar 2024 07:00:00 GMT",
-            "sort_key": 1710399600.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Prime Minister Spearheads National Mission to Attain Edible Oil Self-Sufficiency - PIB",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hX3NuVXpVMS1hWl9NRjlRQ1J6LUY0ZzZsb0ZGM0M4MUJuNl93OW82UG9Ed0k3ZHhPZWI3WDd1aVMweWRJS2JjR0ZIV2MxUlNTOHdJMmhVNkoxNUE4ajEzbzhCVzFIQXNkNDBZ?oc=5",
             "date": "Thu, 14 Mar 2024 07:00:00 GMT",
@@ -363,6 +363,13 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OM1hzenc2M0VxdDBjOXJRSnNhV0s0ZkF3eVVzaFFQei1BVzJNUEF5MzBKaUlON0NOeDBwY202Z203d2V6MFFrekhUX0dnclNSUkNLdUtEQkthMTRXeFhIT0gxM0RyNGxw?oc=5",
             "date": "Wed, 14 Feb 2024 08:00:00 GMT",
             "sort_key": 1707897600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Chennai Petroleum mobilises resources, takes lead on cleaning up oil spill on TN Coast - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRWFGa2dEYUNsNFZPOEVzZkNYUl9hTW1WYVBJd3RNSGk2VERqOXFMc3Z5Y20yUm9MMFpYT1FxRWFONzRwQTNzenlwYklPSUs3aklva3NCUUJXNTU2WHlETWJKbF9XTDgyeXp4ZThxQm0?oc=5",
+            "date": "Sun, 17 Dec 2023 08:00:00 GMT",
+            "sort_key": 1702800000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -408,17 +415,17 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "(Release ID: 1897934) - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZGI5TnA3RmZTMk5fR2p3NDNYbU4wYjJhYmlVbTh2N1BzQTdwckRhR09tZ2RCM1BhSGJWcUhrWGdybGpmUUl3STlTdkhreTROejFLYzRMaG9STS15YUhJVmhVZ0FRSGlSMnJ5dkJ4YmY?oc=5",
+            "date": "Fri, 10 Feb 2023 08:00:00 GMT",
+            "sort_key": 1676016000.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Centre encouraging sugar mills to divert excess sugarcane to ethanol - PIB",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eUgtNWpoVVl5REk2eGkwXzlwM3ZxWENJeDRQa3ZqSl9sV3lvNU9tVUlQYTVqOWRvSDUwUUdHUnFldlBFQWRIeFhrazIxaG5NRGZwekQtQU1sR1k4ZW54YkhnTVVfb0R4aHc?oc=5",
             "date": "Wed, 14 Dec 2022 08:00:00 GMT",
             "sort_key": 1671004800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Secretary, Department of Food and Public Distribution (DFPD) visits Vasantdada Sugar Institute in Manjiri Gaon - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LZGpuZDJWd0k2LUVIZ1FBMFVWX0RQdm1GWVowTExGMDdxd2NBZG1BQVgtaUt2V2g5V0szUURHcno3MmMxT1R1Y253NW1sNEd4eGdHX2FmbXIxN2FfZDFCQWg5al80MFJa?oc=5",
-            "date": "Sun, 18 Sep 2022 07:00:00 GMT",
-            "sort_key": 1663484400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -447,13 +454,6 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTExqSGI4RHExQWswV0EzcjM4Y1pYQTgyQU5USjRzSkJrVU5Uc21XTnZlUmRDLTFIcmJXTTBkNGQ0clotSGc4WS1ZNG1xZ252MnJpMGNIanVTWDc1UTByMXE4dWl4MHRC?oc=5",
             "date": "Thu, 19 May 2022 07:00:00 GMT",
             "sort_key": 1652943600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "India\u2019s Edible Oil Position is Comfortable despite Ban by Indonesia - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aQml5V1dma3I2eVlLak05MkNscWM1ZGgtTGZpQnZfSUxFVXFUeWJsSEtoTm9ndm1CbDBUaVJ6QTF3dzJ2TU84SXBmbTZSWlVWX0t3N3FaVHptSFVib3hFMEI0aFl1LWhX?oc=5",
-            "date": "Sun, 01 May 2022 07:00:00 GMT",
-            "sort_key": 1651388400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -506,13 +506,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Procurement of wheat by government agencies reaches all-time high - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xcUQwMkdVMnFBRVpNSHJ5akpKdEpCVTctb0FrdXF2bFplM3c3cmhIUmM2V1VwVmlfYlMwMTl0QnY3bnZQSS1zS3cxc1NHSm85aDgwWEdLMTJSLXI5R29lMkFjNXdEYXY3?oc=5",
-            "date": "Wed, 17 Jun 2020 07:00:00 GMT",
-            "sort_key": 1592377200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Alternative dwarfing genes in wheat can eliminate rice crop residue burning - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzZ1o2R0lIUmdsb283d1NaVURjZjNxYmI2R2Y0c19TYkprODV2SzkwSk8yQ1lDNTVtT2lLblVuNktOakRRSDEyRTUxNFltRjdZSkNpUmttTThFTy1kQW83WHdabzlFY3lv?oc=5",
             "date": "Thu, 21 May 2020 07:00:00 GMT",
@@ -541,6 +534,20 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Global Crude oil price of Indian Basket was US$ 48.62 per bbl on 04.07.2017 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcC1WbDVfYUt3WnIyOGFfN3hxa3AxU2tCU29Jc2F6TTNzVHFVNWotT0oteDlVTHgwZFVQUk9NUjFDMHg1cXFSZGFEYmNJbTZvdWFYQ3loNGxXNmJSZjBZbjJabXJQNjg3Y05aUWF3?oc=5",
+            "date": "Wed, 05 Jul 2017 07:00:00 GMT",
+            "sort_key": 1499238000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "OIL and ONGC pay differential royalty to State of Assam - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xWlJHS3MwTXdjdzBGOFJ2YzhwalYyU0xqUi1WUjJ5RlkxS1BBeVdZaGkwUVE3dGtVWWdyN0VhZkE2SlJhenhrVnRza1BrSVFKdWdHVmdpRkRvMEhqcmc3RDBHUTlCc0E1U1F0UWx3?oc=5",
+            "date": "Thu, 04 Aug 2016 07:00:00 GMT",
+            "sort_key": 1470294000.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "News Report of ASSOCHAM stating that Wheat Production in the Country this year is likely to be lower is Factually Incorrect- Radha Mohan Singh - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZdkdqOWo3a2JidEk3c2VBMk5WOF9ucnE5dGxmN19rdmRzVVFWY2E1NUpXU1hlYzVUSjhvQzZWM3JvRU1xa0FRMGVYc3NfUkI2RzN4STBDYWV0bEJldngtaWRTeHhOanJ1SlRMeUhR?oc=5",
             "date": "Sat, 19 Mar 2016 07:00:00 GMT",
@@ -552,20 +559,6 @@
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBERHlwcW5qdFNMTkhYN295dFdwNTdqaVVwa2ZaYnJRWWw5a3AzTmVtVjhtWkpIY3lobEhxTE5jTGZNWl9EUnN6Nm9zXy1iallSSjFmZkE3RDg0aHRxV05majFJQXQ5VTVib2FzelV3?oc=5",
             "date": "Fri, 22 Jan 2016 08:00:00 GMT",
             "sort_key": 1453449600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "English Releases - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNVVtcTNaVGVzcVlReHh1cnloSy0xdnQ2Y0hvTzhFRFFCRWZwa3c5WVVJa0ROWC0yYTNGOFNBbGdfLUwzdXBTWWJEa0d5RXVDWEZEYnJ6UVBYMTlTY25FVVpVVXJrNW5IeDFSag?oc=5",
-            "date": "Thu, 15 Oct 2015 07:00:00 GMT",
-            "sort_key": 1444892400.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Exploration of Crude Oil and Natural Gas in the River Beds - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IcjVoSzRzYjJ5MnUyRjI4Z29jVjJEcHhMMkpsLUJmZW1QUDVmWFI5M3l3aTZmM0Qyb2tOdUVGa1NwaGFBNlQ0cklPYUZ2cFlvV3BUYmRKV0JuX0xieHEydE12RUtrR2hSVnJmaXhR?oc=5",
-            "date": "Mon, 20 Apr 2015 07:00:00 GMT",
-            "sort_key": 1429513200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -685,6 +678,13 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQXJFZzNlNUYyNXBneGppYVFWUWhtTWJfb2dFU1p6ZmI2WDRmMXF5dDhTcDBfZHA2M2VIcEk2TjVhaXdsN1ZjU1FYME9EeUNkN0tacDk3M1FlX3NzRU9aakxBdnFzVDhWLUFmdg?oc=5",
             "date": "Tue, 13 Mar 2012 07:00:00 GMT",
             "sort_key": 1331622000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "English Releases - PIB",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhb2xDZE14TUlOM0xoMnZpX2dtN1A0cksyd3pPQ254aHlBcU1SNGhUTzFEU2k2YWdIQXRRNTdNNS1qT01WY1M1ZWJGTHIzWEtOV3VBRnpSMUpIODNWc2Y1MVpoWUxvLXBOMmNv?oc=5",
+            "date": "Wed, 01 Feb 2012 08:00:00 GMT",
+            "sort_key": 1328083200.0,
             "aging": "Latest Pulse"
         },
         {
