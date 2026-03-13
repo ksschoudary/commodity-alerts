@@ -1,11 +1,25 @@
 {
-    "sync_time": "13 Mar, 12:00 AM",
+    "sync_time": "13 Mar, 05:06 AM",
     "news": [
         {
             "title": "Oil India Limited Signs MoU with National Scheduled Tribes Finance and Development Corporation (NSTFDC) to Strengthen Healthcare Facilities in Tribal Areas of Madhya Pradesh - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1YXZvSEVob2cwRi1aRnEwdGtiRy13UVh6RzY2VHFaUVh2U3pkd2pvMWptV1lsdWVFQ1BETEJHRFNuZDJmaWEtb2pmTEhtdjdjZjdQOUNLOWtmZDdQVGtNUEowaEpxYVBE?oc=5",
             "date": "Thu, 12 Mar 2026 16:48:00 GMT",
             "sort_key": 1773334080.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Prime Minister Shri Narendra Modi addresses the NXT Summit - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKNjRhcklqM3Nfb0pONlphV1NJMFh6dmdMR1lXMWl3TmRXNW11ZzZJWG1VSmdDWk45MUk2RF82ajZCNlFLX3ppZlRMN3hnZlBUa2RUcWN3SXdYR1JmMTEta0x1RU1YM1NU?oc=5",
+            "date": "Thu, 12 Mar 2026 16:32:00 GMT",
+            "sort_key": 1773333120.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "English rendering of PM\u2019s address during NXT Summit - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IY2JKZEpVTUZyeEdGV0lYUG55WDVrYUpnTjJ3VU1sVzdhQ194WEVtbUJsbDV1TkdxUjhYQ3dWSmtuSTY5WGc1d0NrVkFYWS1yN2tDWmtxUFBnRXozNFdYMlJva2ZJY1Vk?oc=5",
+            "date": "Thu, 12 Mar 2026 16:27:00 GMT",
+            "sort_key": 1773332820.0,
             "aging": "Latest Pulse"
         },
         {
@@ -86,13 +100,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "IEW 2026 concludes with strong affirmation of India\u2019s energy leadership amid geopolitical flux and recognition of innovation excellence - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iOVlUc0xMVjZFcXVrUXZYY0FScWxLdXd3LWhFVE9ERGpnM3VveURjWndHNkotc2Y3T2RSNUhDcEtPUXZ1cWVMUVl2V3hzV1BDbFhhYlhBMFEzdjI5azBaUHo2Q3BtN2RnRU9lbk9mS1daWUkxY0RTb3dB?oc=5",
-            "date": "Fri, 30 Jan 2026 08:00:00 GMT",
-            "sort_key": 1769760000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Development of Palm Oil, Agarwood and Bamboo in NER - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5bVdVYzFKS3RrQmJicHZOUGtubGhQTE5oUkpvdXI4bGpHU0RMTnJLLXJLaE81QlJGZGhSU1FwS0U5Z0o3Ym9WZFRIejYxRm41ZTAtZkk5cE1jdHd5OU9fNjZIeVZNbng5b1BkMWUxR2JXN1BORnI3UXhn?oc=5",
             "date": "Wed, 17 Dec 2025 08:00:00 GMT",
@@ -111,13 +118,6 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPX1ktalNFYmtpVmlMdV9fWmFaRnR0ZWZCN3laZXhKdzVNNDk4T1VROWtXOHNLdy01SzdwSVBYM0hvdVlCMURKd2hqTW9nNVNmajlpZk5pY0RMVWYtNEkzOFBEUkE0QW1I?oc=5",
             "date": "Sun, 05 Oct 2025 07:00:00 GMT",
             "sort_key": 1759647600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Indian Coast Guard to Conduct 10th Edition of NATPOLREX and 27th NOSDCP Meeting - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfMWhwVnRITno5bWdMMEpmWjExUlNGNWxTYzVSeEJpcmtTQnlzM1hfbzhleUhfcFZKWllMaHh6YkxiMDZhaWFUcjhvQWl1OVg3REwyT2Q4WHI4NkY3WUlYVUZmSHVuTFY2?oc=5",
-            "date": "Sat, 04 Oct 2025 07:00:00 GMT",
-            "sort_key": 1759561200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -226,13 +226,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "In RMS 2022-23, 161.95 LMT wheat procured from 11 states (upto 01.05.2022) - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SV0Z5eXV3QndFaS1BdjE3amxuN3BjZzRlby1jdlFXdDVxTG9tSTlLNWxmRlVMVkZ2bHQ3eTgxQm5nSXYxNHJLblc3YllqbGh2LXJlbUZYc2hMcm1RazNFYWVLOTk1TE1QWVE?oc=5",
-            "date": "Sat, 17 May 2025 17:20:49 GMT",
-            "sort_key": 1747502449.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "11.82 % more wheat procured in comparison to last year\u2019s corresponding period - PIB",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2VWt0cURoVHFORGVxdWhjME1SZ1BFQmxrWEI4UTJ3T2VMeFNGNlFqTXhsUlhVdXExVEQxQnc3YjZmeDhud2RnT0hrY3BJR2NGS1d6U2dRbXpBT1FKZVRMeDQ5bWlaekxJcGc?oc=5",
             "date": "Thu, 15 May 2025 14:51:16 GMT",
@@ -279,6 +272,13 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wb0dHd21HTWI4Rk45RV9DN0JCR21ncE83OVFISFV5MjNuSVVKZlRRaDFtS0xZUU9lbWhuaUlKaEdfZ0toU0VIYmZqUnR0cGdscUFZUTVYTUlnVnVPM3RxTEFxT2tlN09P?oc=5",
             "date": "Wed, 12 Mar 2025 07:00:00 GMT",
             "sort_key": 1741762800.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Press Release:Press Information Bureau - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iN1R6U1d1TjYxOGQtOTdKZjlhQ3M0aWFmd19oNWc1VmZ0bUl1aGpqZ2NJWE16bi1zMHdWeXFSRGlvaGN4Vnh3SHBTNDlvSzB1Z3IwSnN1N0dmTzVWUmdjWS0xTEZ3UGg1?oc=5",
+            "date": "Wed, 29 Jan 2025 08:00:00 GMT",
+            "sort_key": 1738137600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -366,13 +366,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Chennai Petroleum mobilises resources, takes lead on cleaning up oil spill on TN Coast - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyRWFGa2dEYUNsNFZPOEVzZkNYUl9hTW1WYVBJd3RNSGk2VERqOXFMc3Z5Y20yUm9MMFpYT1FxRWFONzRwQTNzenlwYklPSUs3aklva3NCUUJXNTU2WHlETWJKbF9XTDgyeXp4ZThxQm0?oc=5",
-            "date": "Sun, 17 Dec 2023 08:00:00 GMT",
-            "sort_key": 1702800000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "BOOSTING DOEMSTIC CRUDE OIL PRODUCTION - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MeFV6a2xMQko2Um5ScHA3dXhHcVRzS1JvSndpcktIakFDYWo3anFtNGxXWHlXN1pBbmJCQ2lZVDFMWnMyMlNFZXEzbUlzeXpBcWRWRXgzSmlCS2htVFdoQW1vaE5BNU5f?oc=5",
             "date": "Mon, 04 Dec 2023 08:00:00 GMT",
@@ -454,6 +447,13 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTExqSGI4RHExQWswV0EzcjM4Y1pYQTgyQU5USjRzSkJrVU5Uc21XTnZlUmRDLTFIcmJXTTBkNGQ0clotSGc4WS1ZNG1xZ252MnJpMGNIanVTWDc1UTByMXE4dWl4MHRC?oc=5",
             "date": "Thu, 19 May 2022 07:00:00 GMT",
             "sort_key": 1652943600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India\u2019s Edible Oil Position is Comfortable despite Ban by Indonesia - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aQml5V1dma3I2eVlLak05MkNscWM1ZGgtTGZpQnZfSUxFVXFUeWJsSEtoTm9ndm1CbDBUaVJ6QTF3dzJ2TU84SXBmbTZSWlVWX0t3N3FaVHptSFVib3hFMEI0aFl1LWhX?oc=5",
+            "date": "Sun, 01 May 2022 07:00:00 GMT",
+            "sort_key": 1651388400.0,
             "aging": "Latest Pulse"
         },
         {
