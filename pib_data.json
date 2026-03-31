@@ -1,5 +1,5 @@
 {
-    "sync_time": "31 Mar, 07:06 PM",
+    "sync_time": "31 Mar, 08:04 PM",
     "news": [
         {
             "title": "Updates on Key Sectors in View of Developments in West Asia - PIB",
@@ -100,13 +100,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Updates on Key Sectors in View of Developments in West Asia - PIB",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pS2J0bXBPSm1PME5OaGcyYUxza3BzdHZpYVFZOFRscjMyTGxkcV9lb3RaQ1VydFppejFlb3l5d1VlR2dMN3VkUm93ekVxOHZNbDkyN1FPLXhJcWdDejBuQUVjcTdhcmR0Wnpmek1uTk1WQ3M4QzBxa3NLWQ?oc=5",
-            "date": "Sun, 15 Mar 2026 07:00:00 GMT",
-            "sort_key": 1773558000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Oil India Limited Signs MoU with National Scheduled Tribes Finance and Development Corporation (NSTFDC) to Strengthen Healthcare Facilities in Tribal Areas of Madhya Pradesh - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83VG51QTRRLUFoZUtLZ2dTb3JpOUVwRllSbGJlR3laZE1pb2l5Sm5qc2gtY1M3a3R5VmlDaXZSdUpNYVdUZzhNYVVXU2c5dnNWbUkyVnd0LUQ3QzhxT1ctUHg1OXQtTzVzY3JSR3RTSE05YWZpMHBZdnh3?oc=5",
             "date": "Thu, 12 Mar 2026 07:00:00 GMT",
@@ -130,6 +123,13 @@
         {
             "title": "Inter-Ministerial Briefing held on Recent Developments in West Asia - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aaVdRWVM2VmkxUnNHdDdEcGZ4akhhUVFkOXpHbmtPQlRUM2Fadkk2cHZoQ2ptY3k5VnlKMDJLM3B3Y0xldGVyMjVsaEpyMWQ4OGhOaGF1WjNlcVI5VFgzbkw5RXZ2UjVjYm00WHBrdmZBOG9mVjhHeGlR?oc=5",
+            "date": "Wed, 11 Mar 2026 07:00:00 GMT",
+            "sort_key": 1773212400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Government of India welcomes IEA decision to release emergency oil stocks amid prevailing supply disruptions - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sclo5TmR6U1FPbndWTU5fLURqdHVLVm9XUDViRGxuX24zdHJYclhiOFJRanhRWktHRk9nWkprWWVwamd4akN6ZjNQU3pmNlpkdzM5X3VINGt4WGxSbXdYSFBVWDc0UjVaZDhJczNrR3VmUVlJWEdZSXJB?oc=5",
             "date": "Wed, 11 Mar 2026 07:00:00 GMT",
             "sort_key": 1773212400.0,
             "aging": "Latest Pulse"
@@ -219,10 +219,24 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "ICG-Led Response Mitigates Oil Spread After Liberian Container Vessel Sinking; 46 Containers Wash Ashore in Kerala - PIB",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qUFBRd3YyMXQtcFhqeHd0elpUa2lSOTlyZlpSOWlxZERTM19BZlZISENWaGVRUV9JejNGV0Ewb3F5bHFfSTA4SnloLUhFQjFkclRYSXJUWTVRUzNzYkVKSVVNRWpWUXpQdkZ3?oc=5",
+            "date": "Tue, 27 May 2025 07:00:00 GMT",
+            "sort_key": 1748329200.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Sufficient sugar available in the country at reasonable price throughout the year - PIB",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xRGdLQXRkVHFVNVEwd1oyNmQ4dmh5X05URi1DTV9XTlVXMkdLUkRvOWFvMEZldmlqVXVsbGlzcDNjUHNhcGpNdS15V1NNeW5qWVVuQTZra2w2RmtHc0tpUHBPYUVSY1dwc2c?oc=5",
             "date": "Sat, 24 May 2025 19:54:24 GMT",
             "sort_key": 1748116464.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Financial assistance for sugarcane farmers - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZU1UzNHBQNEkwTmE2LVczMWRMQVRPT3hxYkNNcWdCaTZxV0FaR2xJNHhleTlheVVGV3VXZGE0WHkwZF9mZHJ2TlVza0F3ekFpbHBPTDJuUFUtYnNYcVotT2NkREw0ZzNhemc?oc=5",
+            "date": "Thu, 22 May 2025 04:00:44 GMT",
+            "sort_key": 1747886444.0,
             "aging": "Latest Pulse"
         },
         {
@@ -237,6 +251,13 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42UjNvNzVKSUNscE9RemtwTW9GTVU2cE1vVkxITklUY29SNzVsOEVRQ3o4UFFVdnRweEJRNFBNd3NxOGJtX0NnMGtsb0dtdTNWVUdxUElkWi1XbnNqRXBmOTA3aU5weWJ1LXc?oc=5",
             "date": "Mon, 19 May 2025 10:26:47 GMT",
             "sort_key": 1747650407.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Paddy procurement figure also reached all-time high, surpassing previous year high record - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MS2pXMWt5UFhoNWJNMGRSUmFwTjlveDBTM1BMNEtXNV9Zb09MLTViRnd6R1otM3BrWmdpdFFjSGhMcTJJemxXd1pZZnRHQWtfbllteHZWQWNzNFZjUlRNNGlXbTVCeXZvUDdLRzVNOGo?oc=5",
+            "date": "Sun, 18 May 2025 07:23:01 GMT",
+            "sort_key": 1747552981.0,
             "aging": "Latest Pulse"
         },
         {
@@ -289,10 +310,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "2024 Year-End- Review for Department of Consumer Affairs - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wakc0bG9iTHAtMTNtNTk5TWxKSk5oZnc2MWg5SEowS2E0eHVCMklTS1VFcGhETXpTaWJwYlVxVHhuSm1sNWZGXzVOY1dGTU5CX1Q4eTZObTZXUll6M2plbHVYMmZXdlRr?oc=5",
-            "date": "Thu, 26 Dec 2024 08:00:00 GMT",
-            "sort_key": 1735200000.0,
+            "title": "To moderate wheat price in open market, Centre to e-auction under Open Market Sales Scheme (Domestic) [OMSS (D)] 2024 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcTFsRERuUElQem1mcnJtVjVmQlkyY2J1U2xFSHRfNV9rWHQxbG5CMGpXOE11a3YtaVA4WDh6ejZGQmZlZXd5RmtNdC1La2daXzdmellyT08zOEhVTDQwYkxLSUNfN2VvMnlB?oc=5",
+            "date": "Thu, 28 Nov 2024 08:00:00 GMT",
+            "sort_key": 1732780800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -338,20 +359,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "FSSAI approves proposal to display nutritional information labelling of total sugar, salt and saturated fat in bold letters and bigger font size in 44th meeting of Food Authority - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2VmdDUDlyN2FWbzhvODZMYjdJQWo5Z3J1YWQtV3V2MjV5c2p4YnA2amhjdGJJVFBxWkxXcXRicXpQWktHUkZ5LW04MkMwdkJaRnZMUS1LUG81eXFEV2VZX0RKS3pidGxaVC1VSFZVX2Q?oc=5",
-            "date": "Sat, 06 Jul 2024 07:00:00 GMT",
-            "sort_key": 1720249200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Centre keeping close watch over market price of Wheat - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KMlNWVFRzdEc2TjVCbUt6bnZsbjNsSVdkMkhQSTd0c0c2dzBEdHhmamVsV2xYZVdTbEpYaUltWHNDRXZ2UUlPQkFnZlJvTFV5TElmWHoyWGhwbi1WSUN3djFUeDRiWHJE?oc=5",
-            "date": "Thu, 13 Jun 2024 07:00:00 GMT",
-            "sort_key": 1718262000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Vision for Edible Oil Self-Reliance takes root in the North-East; Launch of Oil Palm Processing Mill under National Mission on Edible Oil - PIB",
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rcG9HZWZELVZVQ0JOUGw4b3J2b0c3SjMtQl92V3k2N3dLcEdhV1dZUUNQSW9JM0dxdFE0SU95TGw1bGVHcEljN3BBTmtFdGs1RXhyMTh6WkZsWXJzd2phcFVGYkQ0QzdidTBj?oc=5",
             "date": "Thu, 14 Mar 2024 07:00:00 GMT",
@@ -370,6 +377,13 @@
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hX3NuVXpVMS1hWl9NRjlRQ1J6LUY0ZzZsb0ZGM0M4MUJuNl93OW82UG9Ed0k3ZHhPZWI3WDd1aVMweWRJS2JjR0ZIV2MxUlNTOHdJMmhVNkoxNUE4ajEzbzhCVzFIQXNkNDBZ?oc=5",
             "date": "Thu, 14 Mar 2024 07:00:00 GMT",
             "sort_key": 1710399600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Historic Milestone in Jharkhand: Foundation stone laid for HPCL\u2019s Gas Network - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUVo2TTlpRGFpa0tDdV9IWkdqYjBqUjZkSXFBNXZsZVh1Yk9TU2drVFhUaGtQaGpjeDlRWmdweWpHa19IcXpQWFVBZ0F5b1hVTDZUb215b09mSjNqQ01BUTJYOEhuYlZPWDVza0hYOXI?oc=5",
+            "date": "Sun, 25 Feb 2024 08:00:00 GMT",
+            "sort_key": 1708848000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -401,20 +415,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "NTPC and OIL come together to collaborate in Renewable Energy and Decarbonization - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWnJZaXRyWEc5eURLVHl5LUtuWDZOdEdCakc2OWJ0VGJhQXZ0amRKVmd5X1o2U1NKaW14NlVtN1QtdjVSbnpUNmRfNUMyMXdURmpiOWkyendJYkdCRzFKNUUxaGtjWmNp?oc=5",
-            "date": "Fri, 01 Sep 2023 07:00:00 GMT",
-            "sort_key": 1693551600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Increasing Agricultural Production under National Food Security Mission - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wemJxVklWR0g2ZE9EcDBFZzBfMEptRmYyeFRkWmpPUWk5ZndoaUV4ZmNXd3dLbDNaYlQ5d1gwSnZlUHRrWnNLNTd4NlRLNU51dDMyMkdsNnJ2VEFKaElFTFZJeHNPTkg3X1ppNGhoM2I?oc=5",
-            "date": "Tue, 08 Aug 2023 07:00:00 GMT",
-            "sort_key": 1691478000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Sufficient availability of sugar in the country: Centre - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSjZ5NXBnbHhXcm9XdndpZXVHWTNwV25UU2ozQU1kVUR4LVB1UEM5MDFEZmFZTktOUlJIRXdQSnJ2LVFvUlRhZnMzd0JBMGpkSWFfdng3TXd3ZHJUOEtpREFrX3kzZEQz?oc=5",
             "date": "Fri, 04 Aug 2023 07:00:00 GMT",
@@ -443,10 +443,24 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Centre encouraging sugar mills to divert excess sugarcane to ethanol - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eUgtNWpoVVl5REk2eGkwXzlwM3ZxWENJeDRQa3ZqSl9sV3lvNU9tVUlQYTVqOWRvSDUwUUdHUnFldlBFQWRIeFhrazIxaG5NRGZwekQtQU1sR1k4ZW54YkhnTVVfb0R4aHc?oc=5",
-            "date": "Wed, 14 Dec 2022 08:00:00 GMT",
-            "sort_key": 1671004800.0,
+            "title": "Union Minister of Petroleum and Natural Gas Hardeep Singh Puri re-dedicates ONGC\u2019s iconic Sagar Samrat as a Mobile Offshore Production Unit to the nation - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BckhHYlVGS3RQQWdWdFp5OC1hWm9ZNFJkVHhCTGNVdW85RWFScFpLWDhiblAzc1FvNVN1VUhyQlVNR3dPcGRyQnFOeWh4TFRhMUFJOGI2QVdXb3Mwa0U3Y3N4emtwbmJ4RnNWZ2tmcVk?oc=5",
+            "date": "Sat, 28 Jan 2023 08:00:00 GMT",
+            "sort_key": 1674892800.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Sufficient stocks are available in central pool to meet the requirement of the country: Centre - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tajJsU3Fpa295QV9Oc2RValB3MktkMXBpalZTU05xUndoS2pnb3IydHpkSzhmRVlvMXhMZ2d1ak5rSlVwWG45OUlhbGxRclVlVzFyd2N5UVI4M2F3VVBtei1hM1hVRS1q?oc=5",
+            "date": "Mon, 17 Oct 2022 07:00:00 GMT",
+            "sort_key": 1665990000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "The fuel quality has improved significantly from BS-IV to BS-VI norms by reducing the permissible Sulphur content - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uc3JjNEpZOGd2T0FxQnBjMnUtTXZsMjBJLU9jLWgyamRrcVM0djNlakh6TlM3ck9sZWxxeFM4R1VGR1FjbGlWQkFCcVlPTzFPckxlQmdrSzBqN2I1TlE1bG9PekhoSHBHZ2NPOTNSR1A?oc=5",
+            "date": "Mon, 25 Jul 2022 07:00:00 GMT",
+            "sort_key": 1658732400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -459,13 +473,6 @@
         {
             "title": "Price of EU Durram wheat in the international Market is 39.5% higher than Indian wheat - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ncTBDM1IyaENjeVZxeHM3c0hTVzdCeVNtMmQ4SFdyeEJ0eGNKSlBPbFNndGhLeGtIbW5VNVlkZmVvcjh6TWl0SmdHSEMwazRnS3NJZmRqWE9Va1FVWFRfRnZiTkdMX1JB?oc=5",
-            "date": "Thu, 02 Jun 2022 07:00:00 GMT",
-            "sort_key": 1654153200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Price of EU Durram wheat in the international Market is 39.5% higher than Indian wheat - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jOEVXN04wRDVuYTRfNHd1TTNzTGNnUVRBQmx1WGo0eEhQSG5EelJpbnVISE5rVDhxSXk5NHlBakFGTDF2ZmMxYjc0ZVBPbU95LUxpU2s0QmlVbFp5QkhwUXZwNWdNQjFfVFE?oc=5",
             "date": "Thu, 02 Jun 2022 07:00:00 GMT",
             "sort_key": 1654153200.0,
             "aging": "Latest Pulse"
@@ -499,13 +506,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "New premium quality wheat variety gives soft and sweet chapatis - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mcnVPbkVsMFZ2eEE4Z1lIUk9wd3dzSnhpQXZ3UF9XRmNvZGotVTNwVURXNHVqR1c5NGtPdmVPU3VzWGxzT1ZJclJNbEdieWJPeW96TWpLcVJ5NlVWOFBxTDg4dnR0RFl2cDZDU2txajc?oc=5",
-            "date": "Wed, 27 Apr 2022 07:00:00 GMT",
-            "sort_key": 1651042800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "India\u2019s first pure green hydrogen plant commissioned in Jorhat - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SSFZLdDdjNFRDQTBDenVPdExYRURCRHdzbnR5cmJsSXprRGVoUHpNYjdVQjR4eHBZSUZKQU1HVTVWQ1VQN0szSzVadWRIM3pWdmUyZEdNWUN2ZGFWQWJJZjNrTTdnU2l3VENkZ2kxTk8?oc=5",
             "date": "Wed, 20 Apr 2022 07:00:00 GMT",
@@ -520,13 +520,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India\u2019s wheat exports prospects get boost, with Egypt agreeing to import grain - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZGJWS1M4a0g2SFpsMGhUVGcxM0RGN0JSb0FIc05USTVCSE5HanJlYVlrdkY0dkVJWFpacFFzWXZaRzVmSk5nTGFpclZWRW00RE0xd0xKQ2tUZnd2VXZ2TDFPX2Nid0dESDdaSlQxNEw?oc=5",
-            "date": "Fri, 15 Apr 2022 07:00:00 GMT",
-            "sort_key": 1650006000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Production of Palm Oil - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iSGEzV09CMWxyNkMzTEpfSTRCWllwOEk1X1dnMTV3TExKbjY0SldOXzl5QjBXOUc2T19UNlRzUy1meU1tZ2FoZzA1blVGLTNWbUsya0lMLWtRalhVN09BdmgxZ2VOS1pKV3pNbVA2T1M?oc=5",
             "date": "Fri, 10 Dec 2021 08:00:00 GMT",
@@ -534,10 +527,31 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "DRI seizes 25 kg heroin concealed in oil cans at the Nhava Sheva Port - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hb2xkV1pPTEpzTjFMNWlCV3JlUm1XMGFiU280aXNzMDhiS2xQdVJ3cHUxMEhvLWZCMUtDQ21yZHg3WDQyTHlTdHBYOWZ6ZzMzMEh1RER3WlpkUjFVTzR3NkVod043VHgxLVJYbUloRkw?oc=5",
-            "date": "Sat, 09 Oct 2021 07:00:00 GMT",
-            "sort_key": 1633762800.0,
+            "title": "Need a new Indane LPG connection? Just give a Missed call to 8454955555 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xRkZtTE5NTXlJX2hLSlJGZGlqckRZdHZsMl91U3FSLWN1ZlljbU00RUd5aHc2bkZuOTR0WFg5NDFCTHhrc2hVQjZuWVZIZ3lJejJZV3MxS1YtWVd6QjhmR19iQW05dk9tSkJXX21ucUc?oc=5",
+            "date": "Mon, 09 Aug 2021 07:00:00 GMT",
+            "sort_key": 1628492400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India expands its cereals exports footprints through shipping rice, wheat and other cereals to newer destinations ; - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82b0JhNlBzRDhoQl80NnRyYlI4Y2UzZnEzU1lDMFlZOHcxNWNzVHBMa1ZqaGVHSnVWeDZXZEt6eS00LUQxdVVaYU9BQnJrLUp3VUsycE9uX05SdnowUkRHSWZxQWhaNkZK?oc=5",
+            "date": "Mon, 21 Jun 2021 07:00:00 GMT",
+            "sort_key": 1624258800.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Integrated Refinery-Cum-Petrochemical Complex at Ratnagiri - PIB",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DSjRuWEpXYnhzU3BnSGhrT2d5TTRHaGpscnBPZVJLY2ZYTjB1ZmRMV0lHN0d0b2l2WWJZTG9CSkNjNmtXLVZXV19BbjB4allLMDh3S1N5V2lHRFlDYVZjMDlWUTRHdHJ1MFNOR0VURks?oc=5",
+            "date": "Wed, 10 Mar 2021 08:00:00 GMT",
+            "sort_key": 1615363200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "PM dedicates to the nation and lays foundation stone of key projects of oil and gas sector in Tamil Nadu - PIB",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrbzZtMjZtOVMtYUZQVl9uLWNEZS01QTZHS1liR1pSY3E4aGpOd29LUDJYS3NFTlU4enAtVHdpdzhSX0dIcjV2Qko4MW9zTDc5UzZaZEEyMUh2aHI1TXlaT016TWlmeFBHRHZB?oc=5",
+            "date": "Wed, 17 Feb 2021 08:00:00 GMT",
+            "sort_key": 1613548800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -555,31 +569,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "KVIC and ITBP sign MoU; Paramilitary forces to taste Khadi Mustard Oil Now - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKX1NLODdXb09qQUZHb0Fvck4ydXBzRXBqLXlHMklhZ1hNY1NKbTVHV0Vjc0g1LWRiVzd4RDJyazJfU1FJT1VhdERYQ0U4dU5ndTBOSjZ0ODBXbDRXRVR6TWpUbi1ZQ05fN2s2UWVR?oc=5",
-            "date": "Fri, 31 Jul 2020 07:00:00 GMT",
-            "sort_key": 1596178800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Shri Paswan reviews FCI's food grain distribution and procurement - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZW8tUFFRUTY0ODRpUnV3MzhqM2ZpQjR0V193TmpQek5HRFVoLUx6a3k2d0xITlRlRm5BZjVUcm5zZWVZZFB6d1d2U2hpeV9iQnVqeFlKR1N5THNCTXhBNExvQ213NHREMXNXeXJib2Y?oc=5",
-            "date": "Thu, 28 May 2020 07:00:00 GMT",
-            "sort_key": 1590649200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Alternative dwarfing genes in wheat can eliminate rice crop residue burning - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzZ1o2R0lIUmdsb283d1NaVURjZjNxYmI2R2Y0c19TYkprODV2SzkwSk8yQ1lDNTVtT2lLblVuNktOakRRSDEyRTUxNFltRjdZSkNpUmttTThFTy1kQW83WHdabzlFY3lv?oc=5",
             "date": "Thu, 21 May 2020 07:00:00 GMT",
             "sort_key": 1590044400.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "FSSAI\u2019s Hygiene Rating Scheme - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVkgzZ2tJc1I1LTJndnd2RGxXSnA2UkJCTzNnekF2Vk9RbWhPdzBEQ1FjcnAza2ptYzU2N0JyNFV2dUtiNW9nUHZHMTJoS1J4VnQ0aFBsZzAwV1ZqZFFoaXFfWFBWNTdK?oc=5",
-            "date": "Fri, 13 Dec 2019 08:00:00 GMT",
-            "sort_key": 1576224000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -604,13 +597,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Petroleum Ministry advices Indian Oil\u2019s R&D Centre to take active part in oil spill management in Chennai - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zd19pOGFFYnJqcllOcWd1QmtMRHBub2NCclVZTm1jMUsxREFqZzI0OEY0RDJCNTdhaHdqMTdGa0V6SVYyZW1iMERXalVYRjdMclhzNlZpOGxmQkNwU0RkaFZrcnE2ODY3?oc=5",
-            "date": "Thu, 02 Feb 2017 08:00:00 GMT",
-            "sort_key": 1486022400.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Environment Ministry Notifies Stricter Standards for Sugar Industry - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBERHlwcW5qdFNMTkhYN295dFdwNTdqaVVwa2ZaYnJRWWw5a3AzTmVtVjhtWkpIY3lobEhxTE5jTGZNWl9EUnN6Nm9zXy1iallSSjFmZkE3RDg0aHRxV05majFJQXQ5VTVib2FzelV3?oc=5",
             "date": "Fri, 22 Jan 2016 08:00:00 GMT",
@@ -618,17 +604,24 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Import/Export of Petroleum Products - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZlU3WG5PaXJPTkkweGhiTWg5VGlJZkJSUW1ob0h3dVZpa19feDgyM1BOc3o3WUtwYUNlV3p2ZDRHSU1JMWlQVnNKdHl0WHYxWUNlYUNBLWhUWnc5LUdqRzcwRFNNX25TY0h2X0FB?oc=5",
+            "date": "Mon, 27 Jul 2015 07:00:00 GMT",
+            "sort_key": 1437980400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India\u2019s Foreign Trade (Merchandise): May, 2015 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zSjlDMjFHNHNQWGZDWjlycnFseFZROEVGSWlVREM1Mk5DaDE1REZpdzBNUWtrcEJhZkFtSUhVRWYxTnpRNzVoU3F6MWtzOXRYMGJZb3pCdVRQQnBCQkR6UjEtUGJ0UDRXeThHa0F3?oc=5",
+            "date": "Tue, 16 Jun 2015 07:00:00 GMT",
+            "sort_key": 1434438000.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Exploration of Crude Oil and Natural Gas in the River Beds - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IcjVoSzRzYjJ5MnUyRjI4Z29jVjJEcHhMMkpsLUJmZW1QUDVmWFI5M3l3aTZmM0Qyb2tOdUVGa1NwaGFBNlQ0cklPYUZ2cFlvV3BUYmRKV0JuX0xieHEydE12RUtrR2hSVnJmaXhR?oc=5",
             "date": "Mon, 20 Apr 2015 07:00:00 GMT",
             "sort_key": 1429513200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Losses to Public Sector OMCS due to Subsidy on Oil and Gas - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUlZFQkl6cFJzRnQ4cDlyaG5DMHB6X1ZRX1NoZ0lkX21XVkkzS2dGRjJXWEktOEZ0NU9EWGJyN2s3U2UwR2tuYWRZbjdwYXhnNWszMklTRjVBejJfY2hLTnFGYkEyY1JrcnZObkJ3?oc=5",
-            "date": "Wed, 23 Jul 2014 07:00:00 GMT",
-            "sort_key": 1406098800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -699,6 +692,13 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hZ1pheTEyVTBvRk5FTTZvX1I2eUxjNDdXNUxiQ0JCMnVUU0hlSXIzNlRwOVNWY2ZhT25SUThHMHhqS2E3VTk1ckJhRFFhU29EYy05WjNtZDlFQy1IRWVqWXEwQk92YzBsU000VA?oc=5",
             "date": "Tue, 16 Nov 2010 08:00:00 GMT",
             "sort_key": 1289894400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Latest Releases - PIB",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjhvT3ZUb0N2RERwYmJ3T1lGMFhkVWQ3bWJ0ajlLZjEzRVE3TVU2bHlaX2xDc29Qb0Y0TkIzR2R0M0VjZmlucEJfeThCay02YVdQN2RZOHFnaHVZNnJpdXZhaGk4TlJZZ2RnRWhvV3VvbHIyNVZXbVFNNG1WV25oTjhDRjQxUGQ5YWd3MG5wVk1Ldw?oc=5",
+            "date": "Tue, 18 Dec 2001 08:00:00 GMT",
+            "sort_key": 1008662400.0,
             "aging": "Latest Pulse"
         }
     ]
