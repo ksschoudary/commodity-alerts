@@ -1,16 +1,9 @@
 {
-    "sync_time": "16 Apr, 12:41 PM",
+    "sync_time": "16 Apr, 02:55 PM",
     "news": [
         {
             "title": "Index Numbers of Wholesale Price in India for the Month of March, 2026 (Base Year: 2011-12) - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRDhGLWpNOWpxekNvUW5xWDBXMnVDS1VqUkN5ajk1SWdyZk1PN28yQ0x6bkhOQ0h6U25iaUlSZF9wTU5HT0dQeDJ2RUpjRkFqTkxIMjh5RTk4WUVLTHptWmhWaFNIQWVz?oc=5",
-            "date": "Wed, 15 Apr 2026 06:30:00 GMT",
-            "sort_key": 1776234600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Index Numbers of Wholesale Price in India for the Month of March, 2026 (Base Year: 2011-12) - PIB",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ndWpKS3FwQzFwRHBKNDN5cUxqLXpZU3BtN2RJSXpvQ0R2SVZEN2NKTkhTTHRwWU1Nb2t1cWhaa1ZOcVhJOHpSdWpHR2dqSmtYUUYzamFGamJUX0ZnSzZGRHFxOG9nSEJPRFZCMHVVWEtKa1BESTZuV2JlQ2Y?oc=5",
             "date": "Wed, 15 Apr 2026 06:30:00 GMT",
             "sort_key": 1776234600.0,
             "aging": "Latest Pulse"
@@ -72,10 +65,24 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Government Slashes Excise Duty on Petrol and Diesel to Shield Consumers and OMCs from Global Oil Shock - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83djZWSWN4UGgxRThSYkhiZ080Rlgzd19TUEpqX0NUYS1nQnRKSlgxeTZCWTVETkZMcmtpQU5MR1JLdkw3UG9YSDgxOHFFVC16X3gtOWVlSkhVVkxzLWdMNGpUS0w2OFlNNTUyanBzUTFrVnBCMWFsbUFB?oc=5",
+            "date": "Fri, 27 Mar 2026 07:00:00 GMT",
+            "sort_key": 1774594800.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "India's Energy Supply Fully Secure; Government Calls Out Deliberate Misinformation Campaign - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FN1JIUGJXWkZFZFNYdVM4TGpGc09ISnpma1N4Ti1ZZC12X1dwWGdHTFpaYUVyYW1WSnZWZk9SeG5hRzRFZmZvZkpWSUJ5YmEtdXM1ZDlCZEFWeGRUNU5wVy12ZGdsdkFTWDF5ZVNHYnFra1lVd0ZNX2RB?oc=5",
             "date": "Thu, 26 Mar 2026 07:00:00 GMT",
             "sort_key": 1774508400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Redefining Growth: India's Revised GDP Estimates and the New Measurement Framework - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Bb29UVTJMSVQxREhMNTZjbmMtX1pNUEhoaXpWSFcwLUR0QWdQUTBDWEdFdFhOY1BtMXdtcEtQLTVvT1hJOU8zNy1lYWpIQWVlWkNENE5HMXJWUGp6Zm03VEpCS1RRVDB6QXQzMnVXRzBGbHlCV0Y0d0dR?oc=5",
+            "date": "Fri, 27 Feb 2026 08:00:00 GMT",
+            "sort_key": 1772179200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -111,13 +118,6 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5bVdVYzFKS3RrQmJicHZOUGtubGhQTE5oUkpvdXI4bGpHU0RMTnJLLXJLaE81QlJGZGhSU1FwS0U5Z0o3Ym9WZFRIejYxRm41ZTAtZkk5cE1jdHd5OU9fNjZIeVZNbng5b1BkMWUxR2JXN1BORnI3UXhn?oc=5",
             "date": "Wed, 17 Dec 2025 08:00:00 GMT",
             "sort_key": 1765958400.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Government Boosts Advanced Biofuel Production Through Expanded JI-VAN Yojana - PIB",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTFRV0FjeUt2UTFZT3J1TmJydkRDckdVVFNSbjMycFplUmtZbjNobTJhajBPdVJDZDhsSkxrenNjTl9tVGJuS0cxMlpPUFJuSWdRS01wZFJCWGd4bFVjTzB6SVY2UGdKb3NqaW1OYXAwVkZyUXpwb1A4U09DRmI2eFJwVUV4QQ?oc=5",
-            "date": "Thu, 04 Dec 2025 08:00:00 GMT",
-            "sort_key": 1764835200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -160,6 +160,13 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5najBmbW1HN056ZDU3Y2N6bmFnNC1tTnR4RG55cng3cExrOXMyX1dsSjhWbDRfRWR2OXVTeTBhdDhLc2VxNTN3WWVmQjlEOG9XckQ1TlBKRUtDeklScy1NY1AtdTQ1MldPaVE?oc=5",
             "date": "Mon, 14 Jul 2025 01:04:39 GMT",
             "sort_key": 1752455079.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India Showcases Ambitious Exploration Vision & Energy Security Strategy at 9th OPEC International Seminar - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WcjNUTXd6d3V6bk9Qa0FucERQSTYyWFRxdmJLdS0wUTlna3JuMnhsOFhBZEItcTBjWUp2N1NhUWYySU9xTU90dS1FOG9Ec1czZVFVTHFQMmh6NGdjQVdmSzV4a2ZfZEQ4?oc=5",
+            "date": "Wed, 09 Jul 2025 07:00:00 GMT",
+            "sort_key": 1752044400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -230,13 +237,6 @@
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LcXRoTGZJbEJ4cS0xNDFBVDloSUxGSzZqdE5TQ3drWENHelpiQ1hWM19DZ1Z2TVAySWFBQzZKNWdMVEFhUk4yTEZYY3h0anM5SDBBX0g3YXpXTDFLX1FTUGpjQ3JjRWQt?oc=5",
             "date": "Wed, 25 Sep 2024 07:00:00 GMT",
             "sort_key": 1727247600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Over 17 Lakh Saplings Planted during Mega Oil Palm Plantation Drive 2024 Benefiting 10,000 Farmers under National Mission on Edible Oil-OilPalm - PIB",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9USUtTYWJ6eWVoZ0V4cVFZVE1nTGo2UFVBeEZrY0Zoejlza3p3SktxcldjQVZsdHdZZWF5NWt1cXFkbXB2enlnMHplV0VCRHVyeEV1TEtvaU1TOFVOZjE2eXpIakZqWEhxUmlF?oc=5",
-            "date": "Sat, 07 Sep 2024 07:00:00 GMT",
-            "sort_key": 1725692400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -345,13 +345,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Press Release Page | Press Information Bureau - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xcExUSlNvaFN4a3NsQkpPdzNEUFV4SXAzS0lUR0dsd3JNU25MaDYteGFJbGFvQnhQVzRoYVh0U3pnbU1vT283ZjJxMHpsZzg5RjAxV2R4NnpaM0k4ZTZoX1NmamFxX2VhT0pyelVSekFNQl9halZhSXN3?oc=5",
-            "date": "Thu, 03 Aug 2023 07:00:00 GMT",
-            "sort_key": 1691046000.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Strategic Petroleum Reserve Programme - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sWUl3dGtTdkpwQkRxbVhTY0lKRTdkS3MzSkszNHJIQWdJRk83Q3cyQlI1OUxKSWZFc3IyR2g4WjE4eXpHbVdtdXJLZWtpS1dSeEpRU0RYaWU1R01JamxsMTFRc3NVSENjVWxab3NqeGE?oc=5",
             "date": "Thu, 03 Aug 2023 07:00:00 GMT",
@@ -457,13 +450,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Export of sugar in sugar season 2021-22 is 15 times that of 2017-18 - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzTExqSGI4RHExQWswV0EzcjM4Y1pYQTgyQU5USjRzSkJrVU5Uc21XTnZlUmRDLTFIcmJXTTBkNGQ0clotSGc4WS1ZNG1xZ252MnJpMGNIanVTWDc1UTByMXE4dWl4MHRC?oc=5",
-            "date": "Thu, 19 May 2022 07:00:00 GMT",
-            "sort_key": 1652943600.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Press Statement - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EVXE4M1c3Rzd0SXZaZGwxTHRBWGZRalRjMlhPVWZ6aHpxTE1uaU1BN09pc0FkSTcxV3BVVFBzbmVfbEkyaElsdFk4eGk1N3ltYmxadVF4TVBFOUoxbWpVbjFfUThRM203?oc=5",
             "date": "Wed, 04 May 2022 07:00:00 GMT",
@@ -503,6 +489,13 @@
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZGJWS1M4a0g2SFpsMGhUVGcxM0RGN0JSb0FIc05USTVCSE5HanJlYVlrdkY0dkVJWFpacFFzWXZaRzVmSk5nTGFpclZWRW00RE0xd0xKQ2tUZnd2VXZ2TDFPX2Nid0dESDdaSlQxNEw?oc=5",
             "date": "Fri, 15 Apr 2022 07:00:00 GMT",
             "sort_key": 1650006000.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Second Advance Estimates of Production of Major Crops for 2021-22 Released - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xVGRLWDE5ZFk3MnNDYjZJZXZxQ3JyTmdydnJhU2Fob2xjcEFkenhvXzQ2ZUx4VWFVWTFqcDBQR1ptVEZTQ0FFVTVWbkU2cE1SU0xVSnZfS0tvRElucTlxZmRobE5LUzdk?oc=5",
+            "date": "Wed, 16 Feb 2022 08:00:00 GMT",
+            "sort_key": 1644998400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -555,6 +548,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Cabinet approves soft loan to sugar mills to facilitate payment of cane dues of the farmers for the current sugar season - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSHRpM3RFaGdUVXZrNjZPOWpnelVzUEFhdzV3OFdHWGpQVXY1cmUxOEwxVkJmM3pYZlp4Y2RTYjRGOVplaS1zS3BfUFlsRU53ejcxTGJlLXZjRGdEZDc5NURIc1g2UXhwTEE?oc=5",
+            "date": "Thu, 28 Feb 2019 08:00:00 GMT",
+            "sort_key": 1551340800.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Oil and Gas Reserves in KG Basin - PIB",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YOGFZMWxvSGNkR2hxeng4ZklNSElycVBCY2R5bUdIRC1odmo5d3NXazBOaUkwdFRuQmFhcFUzaHIwRnVGMzViQVhPTnpJNThQZUNjVVA3dF9JbHhlMTVpcVN0RmJoTVNHQ2c?oc=5",
             "date": "Mon, 04 Feb 2019 08:00:00 GMT",
@@ -583,6 +583,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Discovered Small Fields Bid Round-2016 launched - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rV192ZFkwZzhwX1ZqRktnZEdYZTNWNXlTVVBYNzdJQzRTV3FBbHc2bEF2Z2hPWUxBVTRVTWdHZkc4ZXNKNUJjSWlsU1dyT1ptd2QzaGJkZ1FTV21VZU4xLWlDRHo0MC1NZE1XZmJR?oc=5",
+            "date": "Wed, 25 May 2016 07:00:00 GMT",
+            "sort_key": 1464159600.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Environment Ministry Notifies Stricter Standards for Sugar Industry - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBERHlwcW5qdFNMTkhYN295dFdwNTdqaVVwa2ZaYnJRWWw5a3AzTmVtVjhtWkpIY3lobEhxTE5jTGZNWl9EUnN6Nm9zXy1iallSSjFmZkE3RDg0aHRxV05majFJQXQ5VTVib2FzelV3?oc=5",
             "date": "Fri, 22 Jan 2016 08:00:00 GMT",
@@ -597,17 +604,17 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Determination of Fair and Remunerative Price payable by sugar mills for 2015-16 sugar season - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zYlJWeC1ybmE4MkZUSkpJbjFWelVQeDdRRFgzTUJhY0hESi12ZmZLRG5PLWQxQV9McUJjZEhZWGVoeVY1Sks4ZE5VQTVwTTFaZlp3NklaME9vbWVMUTQ2QXlGa0ZfaVlwNUJuTzh3?oc=5",
+            "date": "Fri, 16 Jan 2015 08:00:00 GMT",
+            "sort_key": 1421395200.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Losses to Public Sector OMCS due to Subsidy on Oil and Gas - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUlZFQkl6cFJzRnQ4cDlyaG5DMHB6X1ZRX1NoZ0lkX21XVkkzS2dGRjJXWEktOEZ0NU9EWGJyN2s3U2UwR2tuYWRZbjdwYXhnNWszMklTRjVBejJfY2hLTnFGYkEyY1JrcnZObkJ3?oc=5",
             "date": "Wed, 23 Jul 2014 07:00:00 GMT",
             "sort_key": 1406098800.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Prices of Grains, Sugar and Pulses Remain Steady - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZFhodGk4VUU3aU5UMG9vbnNlLUhETWc0VXNQcmVEOFBFV1pLVTlfOTFjNkJrX3hld1VTcElfNWxPakQ2SkZIcGV2Y3pYUldEbkUzSjlhbHJoaVhRSHoxWEFnNlZNcE5EOHp5d1FR?oc=5",
-            "date": "Mon, 02 Jun 2014 07:00:00 GMT",
-            "sort_key": 1401692400.0,
             "aging": "Latest Pulse"
         },
         {
@@ -643,6 +650,13 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkUWhJVHQ3LVRuS1NPaEVtM2MzcWVhWjRROUVVbDBVWmoxbC1QLWRGZmxBeXlETTNIUGxGUXVyRkdXTVg2YnBEUWRneGJBZDFTRklRUTFxSDNNTV9wbzNKemxLVExFcG5vcmw4MA?oc=5",
             "date": "Thu, 08 Nov 2012 08:00:00 GMT",
             "sort_key": 1352361600.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "International Crude Oil Prices of Indian Basket Increases on 21.9.2012 to US$ 109.20/BBL - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMFJjVXlqMHVXMXZ2SnNjMWFOVHpfalFoTl9BSlhOS2x6U05fWF9Tc3M3X2ZXTEVFY0tvclNKN09KQ0hJMk42eXdVeHA2VW84bE1UTTAwVEdsVURBQXFMaHRoRGxzNlExcmNRaQ?oc=5",
+            "date": "Mon, 24 Sep 2012 07:00:00 GMT",
+            "sort_key": 1348470000.0,
             "aging": "Latest Pulse"
         },
         {
@@ -685,20 +699,6 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNEVKOG9GSkZ2eWlEaEtxV0xJRlRwRnVHTU8yblpNaWpfVnFqSnFmd0ctaUtxZzZPZVZ6WUkxcTFseTRScUVxb2lTbnVHT3I2Z1JvV0Q0TXRKMDE3d09hU29YbnJ3MS1KXzlVUw?oc=5",
             "date": "Thu, 03 Mar 2011 08:00:00 GMT",
             "sort_key": 1299139200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Impact of Rising Temperature in Production of Wheat - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01Zk1jSWtKUFBEeE9MWDdkYnhzc1RxaWJQdEE2cW1VaEhzMldaODh0NDZKNjJJclFjSHY2QzJxc0VDSVgxSWQxVnI2dEVmdjRrUWxURVh2TFZaMjBweVlITVRmSXJvNzVRLW1teg?oc=5",
-            "date": "Fri, 03 Dec 2010 08:00:00 GMT",
-            "sort_key": 1291363200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "34% Decline in Retail Price of Sugar in Delhi - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ud29DMWg5NWxZaVVnOXRleXJaelBjZDl4bmlpLUdRYnRuNXdsN1Z3UHUwdXlocktHTC1NYXNTZG5vZm9qc2RETmVYRGI0MnVkSnpkLU9UQTFkWEduQmFwb3BMaEh5Zk1vaTZjYw?oc=5",
-            "date": "Fri, 27 Aug 2010 07:00:00 GMT",
-            "sort_key": 1282892400.0,
             "aging": "Latest Pulse"
         }
     ]
