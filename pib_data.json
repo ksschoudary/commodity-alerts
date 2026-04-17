@@ -1,18 +1,18 @@
 {
-    "sync_time": "17 Apr, 04:00 PM",
+    "sync_time": "17 Apr, 05:02 PM",
     "news": [
-        {
-            "title": "UNION PUBLIC SERVICE COMMISSION RESEARCH AND STATISTICS SECTION RECRUITMENT RESULTS F.1/25/2026-R&S - PIB",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHU2VXJtbVg4d1BOQy1IcjVVa3Y0VV9Jb0lueXU5Z2UweVVVRGNSdzU4bzNDbDZPREVnMThsbV8taWdha290eG5VeFVFeHNSbXcwNi0tMkFoNHA1UGxxcjZ2aThuLWllZnFvOG1lbm9fYnBITnVILW9YLVBOVXc4VExnQXlvRTVHOFd0VHhpbjBzQWxOa01F?oc=5",
-            "date": "Fri, 17 Apr 2026 08:02:40 GMT",
-            "sort_key": 1776412960.0,
-            "aging": "Latest Pulse"
-        },
         {
             "title": "Updates on Key Sectors in View of Developments in West Asia - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pSllpQk0yR1ZvNDdzVVZWdi0ycUNCSkloVGRXRWxRc0NINnVPRWRxTWtac3h3NVlBT2ZReWdUVjNZeXpzRklmNElHVnUzbV84Z0ZNd3lUcUs5Qno4Ml9IVWdWVjNZLUpMUVZlZ0ZCNXdEM213T1dhZllB?oc=5",
             "date": "Thu, 16 Apr 2026 12:26:00 GMT",
             "sort_key": 1776342360.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Oil Marketing Companies Assure Uninterrupted Supply of Petroleum Products and LPG in Haryana - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHejhEbF91LWRiWlB1bFJtc1NZa2U2cVJ6MV91UmxBaEFpUnE0QUM4a0F6V3FDTFFfR0FKOGVhYndpUWM5ZEJHMVRTclBjWHE1bDJqSnFYNjlBRjRnR0JlMzhUZw?oc=5",
+            "date": "Wed, 15 Apr 2026 10:29:00 GMT",
+            "sort_key": 1776248940.0,
             "aging": "Latest Pulse"
         },
         {
@@ -58,13 +58,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "HBCH&RC Punjab Witnesses Inauguration of 3T MRI Scanner with Support from Indian Oil Corporation Limited - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ES1otaFVXOUsyVXFsTTlrNXIxZzBYM2YxRE1OWEhwYXU5bFBIMHpyZGxCd3FiMGwwMEdZc2pSWkIzS1BING90UEFQOUpUOVVrZ0g5a1drZWVDWks1VkhUbGtjbjBQbUtu?oc=5",
-            "date": "Thu, 02 Apr 2026 07:00:00 GMT",
-            "sort_key": 1775113200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "India's Energy Supply Fully Secure; Government Calls Out Deliberate Misinformation Campaign - PIB",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FN1JIUGJXWkZFZFNYdVM4TGpGc09ISnpma1N4Ti1ZZC12X1dwWGdHTFpaYUVyYW1WSnZWZk9SeG5hRzRFZmZvZkpWSUJ5YmEtdXM1ZDlCZEFWeGRUNU5wVy12ZGdsdkFTWDF5ZVNHYnFra1lVd0ZNX2RB?oc=5",
             "date": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -90,6 +83,13 @@
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WdTF2ZGdPVzladkF3bEJac0JuQjV6X295NHdvMGQ4ek1qY2c1ZVJNMUcxS3BFYmN5T0RUVFhNT3ZxX0pnV3ZQaG9QYUVwak1GYWNoNWVlU1JOaTRIYmIxTmtraE9pay16OFE4MUo4VEVBRlIxdmQ1ME5B?oc=5",
             "date": "Wed, 28 Jan 2026 08:00:00 GMT",
             "sort_key": 1769587200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "IEW 2026: Ministerial Panel Underscores Energy Security, Investment Continuity and Global Cooperation Amid Geopolitical Uncertainty - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50YTF1OVZkcW9yYk1wcWNKckl2WDdyS3E5QnN5UTlFcEpPME82X18tMDRqNURINnlvblpEMEpoNDFtLVppMDNSdlhfV21jSXFyNFFEVjVfMEZkSzFQTDd6WUlod1NIM2wxSXcxN3FpbjFzb2d0SE9NSG5R?oc=5",
+            "date": "Tue, 27 Jan 2026 08:00:00 GMT",
+            "sort_key": 1769500800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -219,6 +219,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Department of Agriculture and Farmers\u2019 Welfare releases Final Estimates of major agricultural crops for 2023-24 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LcXRoTGZJbEJ4cS0xNDFBVDloSUxGSzZqdE5TQ3drWENHelpiQ1hWM19DZ1Z2TVAySWFBQzZKNWdMVEFhUk4yTEZYY3h0anM5SDBBX0g3YXpXTDFLX1FTUGpjQ3JjRWQt?oc=5",
+            "date": "Wed, 25 Sep 2024 07:00:00 GMT",
+            "sort_key": 1727247600.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Union Home Minister and Minister of Cooperation Shri Amit Shah to attend NFCSF\u2019s \u2018Sugar Conclave and National Efficiency Award 2022-23\u2019 ceremony as Chief Guest on Saturday, 10th August 2024 in New Delhi - PIB",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LdjVrSThIUnQ4TzIxbmxqWEJrM0FodDhsTW9ZWnNJOUUzbXdNMFI2N1EzYTZpVGVCaXJBZ0hLSzB6VkM3NXAzMThRQWIwaW1PbFBsUVptcUNzWmRldW5tYTZvV0tXZVZU?oc=5",
             "date": "Fri, 09 Aug 2024 07:00:00 GMT",
@@ -261,10 +268,10 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Cabinet approves signing of Memorandum of Understanding between India and Guyana on cooperation in the hydrocarbon sector - PIB",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Tb25tUGJWZU5zWDhtbzVwX1hYTmNVbkNzOXJwSHRjZVlmVFpNUVVZZnhreVpvY2tGeTVGUWRvNUZRdHV6WWtTLTF4NjcwRFI0ajhLRFJxdjdrZUtIMTQ2cGdjMUwycDJBUkJQX2EwLXE?oc=5",
-            "date": "Fri, 05 Jan 2024 08:00:00 GMT",
-            "sort_key": 1704441600.0,
+            "title": "India will become largest source of global oil demand growth between now and 2030: IEA - PIB",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05LUdMMjhjXzN5NlJ5LXU4N3VZUVpRbUktSlRCLUxUU2pCaWNxNEVtRWlhcnJEQUZ6NFJzXzNBZVBjNlJrdzVLX2ozeXFyX3AtR0FmSFA2eER5ZUZpbkUwSGdnTVBKTVJ3Y0tyNTlJYXNEd0xmTm1nOUln?oc=5",
+            "date": "Wed, 07 Feb 2024 08:00:00 GMT",
+            "sort_key": 1707292800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -370,13 +377,6 @@
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY3pHUFNzb0RLTnJSdHdIbFF0aFg5VGN2LWE1RjdZQVVWR3d3NFJpUU5EeEtpUzZwSVJkazd1VnlhZ1hUWnNvSURqUG82VUlBaHhVbFRNU015bDQ3SUtTX3dON09sdzROTnc?oc=5",
             "date": "Thu, 02 Mar 2023 08:00:00 GMT",
             "sort_key": 1677744000.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Reservation norms for Jute Packaging Materials for Jute Year 2022-23 under JPM Act, 1987 - PIB",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sMFROUEgwTldwempSVzd1b0EzbjB6djJiNGtjc2hOR3hzX29PYVc2VFlEdUVsNnZnTVF2a005N0FFODBvMkxjZVZ2bzMxejVleXVRU3RRM0tyYWFUVzZocEtSV1BLOVM4?oc=5",
-            "date": "Wed, 22 Feb 2023 08:00:00 GMT",
-            "sort_key": 1677052800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -492,6 +492,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Amidst a record surge in wheat exports in the current fiscal, APEDA organizes meet for boosting India\u2019s wheat exports - PIB",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bHhVYUszME01V29lWHZWRVpUcTlrM0hJNm52dFlZZG5Sc1VaZTB6OHlYeWNEYnpCRURjRHVBSE9KdWx5Szh6QUdrclpYa29ZRkE2TU5MaGZXYkRFUW5QTzgyNDREWEtmLU44?oc=5",
+            "date": "Sat, 19 Mar 2022 07:00:00 GMT",
+            "sort_key": 1647673200.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "Production of Palm Oil - PIB",
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iSGEzV09CMWxyNkMzTEpfSTRCWllwOEk1X1dnMTV3TExKbjY0SldOXzl5QjBXOUc2T19UNlRzUy1meU1tZ2FoZzA1blVGLTNWbUsya0lMLWtRalhVN09BdmgxZ2VOS1pKV3pNbVA2T1M?oc=5",
             "date": "Fri, 10 Dec 2021 08:00:00 GMT",
@@ -590,17 +597,17 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Global Crude oil price of Indian Basket was US$ 40.22 per bbl on 04.12.2015 - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wWXU3ancyaFl0ZG8xVGlJU28tVnVZNU9qX1FJZjNVaktYY0U5WlFyMFlvTWJUbi1ORW1RbFlRWlhRR0s4UHFCOGZmQlVQLVFEcm9iRzk4SnpuN09CWTZDRUdkUDk4TkRVNTFhYmZn?oc=5",
-            "date": "Mon, 07 Dec 2015 08:00:00 GMT",
-            "sort_key": 1449475200.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "Exploration of Crude Oil and Natural Gas in the River Beds - PIB",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IcjVoSzRzYjJ5MnUyRjI4Z29jVjJEcHhMMkpsLUJmZW1QUDVmWFI5M3l3aTZmM0Qyb2tOdUVGa1NwaGFBNlQ0cklPYUZ2cFlvV3BUYmRKV0JuX0xieHEydE12RUtrR2hSVnJmaXhR?oc=5",
             "date": "Mon, 20 Apr 2015 07:00:00 GMT",
             "sort_key": 1429513200.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "India\u2019s Foreign Trade (Merchandise): December, 2014 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91N0xRQnE2TS13QnREVVpVVks5QUdOQnBiRi00bGwweGd6NGVzMzJXZ19zelBEVk9KM09DUFZnQXNNV2JDaWdqa25ETW0tOEJSZ3JpR2E2U3BPTzl5Szl0VlRISk56VVR1VktodTJB?oc=5",
+            "date": "Thu, 15 Jan 2015 08:00:00 GMT",
+            "sort_key": 1421308800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -636,6 +643,13 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XblEzQTZzX0JJdGZISlN4WTVqNmVUOXBOVFJrZk5xT21DUnQ0a2ZHYzBoTDlubjJjMU5mV080ZllrNW5LV3puRHpFZ0lqQzRISHlfM2h5c1NxT2oxam5QcVJOOUQ2YkljcXZpaQ?oc=5",
             "date": "Fri, 03 May 2013 07:00:00 GMT",
             "sort_key": 1367564400.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Global crude oil price of Indian Basket falls sharply to US$ 101.35/bbl on 12.04.2013 - PIB",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQnFSak5hTUhxcVJNNnluaVZzakhVNHZVWkR2Mmhpblg1VDFZUFJud0xiWnYzQVZjYXByYjROQ0FxdDdTVVNaaU5CTmZNSjI1dTk0UnBfWHpVN3FZaS1VNkVCVFlIRGxhclFyVw?oc=5",
+            "date": "Mon, 15 Apr 2013 07:00:00 GMT",
+            "sort_key": 1366009200.0,
             "aging": "Latest Pulse"
         },
         {
@@ -685,20 +699,6 @@
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnN291ZTlYdnduazNvLWZ0R293Nmsyak1hM1ZGSHNJQXNzNlFGVjJsUlBzWW5kRktydjB4WHJrMTBxMDlLYW54eEpLc2pBZUVoZ05uQW1pdDdrcVRqTVhGaVpTMXE3OFlXY0RjQw?oc=5",
             "date": "Mon, 29 Aug 2011 07:00:00 GMT",
             "sort_key": 1314601200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Payment of 1.5 Billion Euro made for Crude Oil imports from IRAN - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mNEVKOG9GSkZ2eWlEaEtxV0xJRlRwRnVHTU8yblpNaWpfVnFqSnFmd0ctaUtxZzZPZVZ6WUkxcTFseTRScUVxb2lTbnVHT3I2Z1JvV0Q0TXRKMDE3d09hU29YbnJ3MS1KXzlVUw?oc=5",
-            "date": "Thu, 03 Mar 2011 08:00:00 GMT",
-            "sort_key": 1299139200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Impact of Rising Temperature in Production of Wheat - PIB",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01Zk1jSWtKUFBEeE9MWDdkYnhzc1RxaWJQdEE2cW1VaEhzMldaODh0NDZKNjJJclFjSHY2QzJxc0VDSVgxSWQxVnI2dEVmdjRrUWxURVh2TFZaMjBweVlITVRmSXJvNzVRLW1teg?oc=5",
-            "date": "Fri, 03 Dec 2010 08:00:00 GMT",
-            "sort_key": 1291363200.0,
             "aging": "Latest Pulse"
         }
     ]
