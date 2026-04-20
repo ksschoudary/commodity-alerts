@@ -1,6 +1,13 @@
 {
-    "sync_time": "20 Apr, 05:40 AM",
+    "sync_time": "20 Apr, 08:05 AM",
     "news": [
+        {
+            "title": "Relief for UP farmers: Wheat procurement norms relaxed, can sell produce at govt centres without registry - indianews.com.au",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcHlqSFNvNm9qUkF6ajhhUFotbE4xTzdoNUEzazNYdVRmdGxiUVh4U1hSYXpqMzNLVVlBeXJCTlVtVS1mZDJDUlRhVUdBSVZOUDdvQ0pjbjlHemhfNUhLUDdPM01QOUlucTAwekJfU0dESmxfMWZfVVowOFhmUEhmeXZPaXNhYjhQRDFtVmVwVEQydVFNNzBpQTZXMU9sMWhhNndkYjN3eTRoenhHRG1NbFdyZWFNZWtuaFNPbmlWRVlTOUNiNzMzMw?oc=5",
+            "date": "Mon, 20 Apr 2026 07:37:21 GMT",
+            "sort_key": 1776670641.0,
+            "aging": "Latest Pulse"
+        },
         {
             "title": "Out of 28 LMT Wheat arrival in mandis, more than 24 LMT stands procured: Lal Chand Kataruchak - livingindianews.co.in",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3hxdUJ5LWREblRzZVJIakprUGExZHZRUXhheUR0dnM5QXc2OHVJeEQtWHlzN2NaMEVOQWl5S2hzVGhOYXMyeVFRRWZoajJQUUxoSDJwS2xsWlBBd2dDQWFPVzVtTVo0ZERadUxwS3ZIcFlPeDlyTGpaUFkyN0tOUGU3Y1RoY2JRa0hpWnFTMGVlQ2hSMnlscHIxeEdqVUdjQ01NOFlBYy1nVGVET3lNMUcwaW4xT2lsREtLajRDQQ?oc=5",
@@ -37,13 +44,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "ICAR Pushes Climate-Resilient Wheat Research to Strengthen India\u2019s Food Security and Farm Sustainability - HospiBuz",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd2xVcW0tQXhOc3dwQjg0WlV0WE0xNWw5RWcyTE5vV3VUZzlaajRfdlNDckFrdGh5bmM4SnFtaXRjREpKTGc0WUszaXVzVTdPTkRBUjhfdmxoRzloYnBoUXZ5TktCUm8zLTUtMDRMdU8wZ3laZTlaM1VJOWV2WUVkZzQ5MGhoOV9BblF3OHl0NGpsQzZsb3N3bUNDQmMzTmFMUkgwUTBGRXJjVWl4Wjk4V0Y0bjNGMDZxSFVvZlpxal9fM3E3Qld5UkZ1V0Iwd0w1ME5WWmwxa2Nua3BwVm1OemxNTdIB4wFBVV95cUxNd2xVcW0tQXhOc3dwQjg0WlV0WE0xNWw5RWcyTE5vV3VUZzlaajRfdlNDckFrdGh5bmM4SnFtaXRjREpKTGc0WUszaXVzVTdPTkRBUjhfdmxoRzloYnBoUXZ5TktCUm8zLTUtMDRMdU8wZ3laZTlaM1VJOWV2WUVkZzQ5MGhoOV9BblF3OHl0NGpsQzZsb3N3bUNDQmMzTmFMUkgwUTBGRXJjVWl4Wjk4V0Y0bjNGMDZxSFVvZlpxal9fM3E3Qld5UkZ1V0Iwd0w1ME5WWmwxa2Nua3BwVm1OemxNTQ?oc=5",
-            "date": "Sat, 18 Apr 2026 12:01:25 GMT",
-            "sort_key": 1776513685.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "India Wheat Procurement Drops 40% Amid Delayed Madhya Pradesh Buying By Kedia Advisory - Investing.com India",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2E0aHd6LXRfM3VwSkVaYXJqWm84THl6T2RUMVZnZTJSdUJfd2V1M1JCVnB0NTZEX20zWFJLaUtaNlZCLUJ0TEhjTTJ0QTJUNGdGWnhDM2pWc2pFZnJ6VEFFVjB5cU4xTzhaTS04NGdIamFUcmF5MjVqUEpXU01CYzJOTHdid2RpNEdRTkFGZE9FMmY3VW9SanA0Q0xCcGNYRm5rOXdFMm9ETXdqeF9WTlRyS185djU1MXM2SEwyUQ?oc=5",
             "date": "Sat, 18 Apr 2026 05:49:06 GMT",
@@ -72,17 +72,17 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India's wheat production set to fall 10-15% after April rains - NewsBytes",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXRGcnkxMG14THA0MU9memN1ZGZ6OVZ2NTdrdEV5NUpCM2xKc2hIekJqbVQ5R3FJTWJxeHF0LU1lZHlYY1VfNjhSeGtGdHdwdENMSnl5U1NFYjdnZldWdjJTMmEwdXJBb09JeUQ0WmR0MUx0elRxX0ZjTENtU3Q4VWVUZ19OZE13aWI1cUhfaDF4N1NTNG1TX1lscGt4Tjd1QldIVmtLcw?oc=5",
-            "date": "Thu, 16 Apr 2026 09:44:05 GMT",
-            "sort_key": 1776332645.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "OPINION | Wheat inflation may be triggered by April\u2019s extreme weather patterns - Moneycontrol.com",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmpydGdwZlBndGd1dDc0dmZlY0lmcWNCUHloOEVhR2FFYlVuUDB4aTdHR3hIa1A3dVpDWUVmbUJRS0JzWnVhYWhBRlBNZ3gxZ1ZRVFBOSm1iSHQzVVFoQk82SExiaHBBUnM1Y1A5eU16bUZhVVhWNG5jTDhYa0MtWjU2Uzg0OXZQYjJYS095b2R2Q0NZeG1OaHpjM0ZKakxldHB4emhrOFV4VzhQMXJLaDI4OWs0dThQSS1jUGxXdUhjZ9IBxwFBVV95cUxNcjk0SnB4YzBHUU5SZEpJVGxpSmw3cjhIcUthdGtQcnMtTllfdkFNZGxiLU40eThxRkl4ckVRQkJWR3pSVGgzRmlVM2NEMU1pV3pkOW05TW9SUGRpbHlOM2MydVN0UDhEVy1lRmp0c2x5TEtwd0ZKZlZMMjhnYVhMWjRtOVJUcFFhcEZiSFZ1QmNPRGNSTUpfM2VqRXVQa2tNeUFYQ3lwTDRQUDRNeTNIek1BT0E1NnlQUE5kTElQdkhkU0pLWmhV?oc=5",
             "date": "Thu, 16 Apr 2026 07:17:15 GMT",
             "sort_key": 1776323835.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "Govt's wheat procurement to drop 69% due to delayed arrivals - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVFBHVFl2RDU3VmNCRU40c08tYWRhbVlOLVZtNEtTa1F6c2lnN0ZlOVhMNlZRYzRiMEtXNkpKYzJpbEhOTkFyY2pVZ1hPbmpUaUZTNF9IUlhqUW5GbkhuY3ZRSWRtdzlfbm5kYVJXTlBIc3U5d2hqTVlVa29QNmw2Rm5PS0ktalotckowZmdBRTlyTm1IaW9Yc3VsODJSd0gzSkZIZ0dBeFBZWmtheTZNRWlhNWkyd1pCa24yR3lXRU5SUWtFeHRpcGVzbUx5aHZnZmNj0gHYAUFVX3lxTE1NRERnZll5S28tTGpyQnh2TndEOC14TGZkNzZ2OUp2UVVwZGVPNGZlNUVJNGFfUzI0Q09HUkM3U1JoX2VhdWNlNnYyNm5LQnI2amVlM1dUdGtBbDVWOWY1MjkzNkt1QnM4QTB5eHlSeHMwVUtTd3dVOVN4WlZubWU2UmgwRXVNQ0xaUnNwa1dvY0tBLU5IV3J5eVFhbTExcF9Kb3FOYnpmWlVYVHFWVFpDVi1Obm4wekdZZFMyckRfSXhnTDl5MmVKQ3FNU1BpZFNvNnJfMEx2YQ?oc=5",
+            "date": "Wed, 15 Apr 2026 19:54:54 GMT",
+            "sort_key": 1776282894.0,
             "aging": "Latest Pulse"
         },
         {
@@ -436,7 +436,7 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India Relaxes Wheat Export Curbs to Appease Protesting Farmers - Bloomberg.com",
+            "title": "India Relaxes Wheat Export Curbs to Appease Protesting Farmers - Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUE11LWNmYW5QRHhXOEpHOXMxYkpSYXRHLWpzWS1HMFBPQXc0YWpQM0lWd19uQk5tb3hZcnBKM1J0aUhUbEQ4RlpRTktGLWtxeUdod0tTY1NsSjhqRWtyRE8wTmtKLWdNN0o5SHJPOS1rSnRuYlp6X1JXRURnLUx0Yi1zNzBsQng1WEROSFJHQXBSMUljczZ6SjhSdWJadzZ4R0JDWkdoTTJzdkMwRVE?oc=5",
             "date": "Fri, 13 Feb 2026 08:00:00 GMT",
             "sort_key": 1770969600.0,
@@ -506,7 +506,7 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India Allows Some Exports of Wheat Products After Three-Year Ban - Bloomberg.com",
+            "title": "India Allows Some Exports of Wheat Products After Three-Year Ban - Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXpaU3VqeF9sc0V4bGNuYlFyR1JKNkoxVW9mSkJ5UWJZcTlRWXJ1R21HVkd2NEU4X2JnbFp4TjhIeTAwWHdXb3dMa0NBOTR3LWxKRngxWHZHcWJzeUQ3bEdYUWFEc216blhibElIMlk0MHMzLUQ2OWpoLTZLQzBVY05fQ2pNLXQ1TF9XRE9BS3o1elpQcGtyaE9DYk11UEZWcVI3TVc3SmNvcXhfdHUwNUtCV3FnUQ?oc=5",
             "date": "Mon, 19 Jan 2026 08:00:00 GMT",
             "sort_key": 1768809600.0,
@@ -604,7 +604,7 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "India Set to Resume Wheat Product Exports After Three Years - Bloomberg.com",
+            "title": "India Set to Resume Wheat Product Exports After Three Years - Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTN1Q1FiZjVaUHFKNGxqUnJpOWZoamxJSGtZSVZYN1AyRlFWdjdxMm5ac3RRdHpOYnE5U1NHVlJ0MDNKUVpNSzRpTWFyNGlCbzZIWTZaSjJGNGxTUExzVzlxeHRmRVhtMUd4YmM1NnRJUmhmbnJVenRuZlR6OHNCbGZPOWIwNzRUcEh4VHdNblhMZlpmX3NfZFl2ZjRjR3lqSXFaVGJ4STNRdXNMT0E0?oc=5",
             "date": "Fri, 14 Nov 2025 08:00:00 GMT",
             "sort_key": 1763107200.0,
