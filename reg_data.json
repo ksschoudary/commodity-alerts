@@ -1,13 +1,6 @@
 {
-    "sync_time": "15 May, 09:47 AM",
+    "sync_time": "15 May, 11:55 AM",
     "news": [
-        {
-            "title": "An FSSAI order warned against use of meat & bone meal in cattle feed. Why Delhi High Court quashed it - MSN",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3lVT2lMemZMTHhkT2RuZDRNZ0UwMEg2QVVPMFF0SGY4RXh1SlBFcW1Yc2V5bWU5UElSZnpSUjFXczFMYWdPQzJ0S1R0VVprYW1zcTdGaWJXVENlUDJ4QVp5WXd0ekVaNXBiNW9HcUExV0ZBbkhpdGJsZktYVXA5NWdWTHp0bFc0ZmRWOXZhR0x0WWpJeE5rTlhoV1dsS2tvSUZTTkRpbERidUJQQ0tZWW5NUUpaXzR1eFdpdW5RVUI5bnM4dUlKUi1Rc1hoMzhxRGpwZzZ4R0hJWmNVR1pHOA?oc=5",
-            "date": "Thu, 14 May 2026 20:12:19 GMT",
-            "sort_key": 1778789539.0,
-            "aging": "Latest Pulse"
-        },
         {
             "title": "Karnataka High Court stays FSSAI advisory banning use of Ashwagandha leaves in health supplements - The Indian Express",
             "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMV80S05LdlphQ1hhYllBU3FSem56XzdsQzVQSTEwUkxTOVdCUUhLNWlSYUNDNloxVGs0UXVFSjl0eFBBX1dOaVJQZDRhcWZlVC1tcjl4aGJHSjhzbVdqOWtaV1dSY2lPNE8xZUFkS2dNalE4YjFKdlc1b0pVLXFFVWJHaHY5R042QnNIcHR5R2RhbDFEdC0zUHdiczdYbHA0YWhwVTV5TnRXOGhIVlc5WjhycE9DeldUZkJXcUtpdU80UXRPMlkxRGNlejZWX2syZXpzZDNDTDExRDhXQ2lnMXZNVG5HbTDSAe4BQVVfeXFMTUdqMXVIN3ZjZzNCZm5sU2JIOXRlQm1XcFR3OThyTUg1blE3UUdZREVDS2xhYkpBRmp1V3FiN1lzNHlUc1ItdWhwWnBEbVA0a2FrRE9kUXhfY1hMVjF0cGt6WkdnMHN6dTVKejRfNDFkd01oQ01RYlpOWWxRV2ZCZHVzVFF5czA2V0x5OE5BaHVLdUh2U1dGWEVLSlNGMGZldDFzNWpyc05NSkNJOFZ6V0w4Z2Myc3ltWUU4OUhXRV80aEF6cmxSSUhHU29NdEJoY21XekpSUTY1cVN6Y1oyQVZFU2NBY0psbFY4cThhdw?oc=5",
@@ -44,6 +37,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "FSSAI Ashwagandha Guidelines: Why Leaves are Now Banned - OC Academy",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2ducG9XMW9OdnhmUHNycG1XTjdlUDlzMHVpbXhrZkNMOGxXTU91MWxmcXlWU2ctTmxEd0ZxNTBRbG1LMlFIUG1DU2lSRHdGZkFxUHF6T0tzeXFxazl1Y0tRN0h2d0RQXzJDZTNYR0hFUEo0MTJQako4ZGZrbExqZ2FYWQ?oc=5",
+            "date": "Tue, 21 Apr 2026 13:00:45 GMT",
+            "sort_key": 1776776445.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "FSSAI Issues Advisory on Ashwagandha Use in Food Products - The CSR Journal",
             "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMdmpMcEdDUHFrZlBfSkZsXzZJeG5oNy1PbzVOcFY4akZCOFpmbGllWlJiRl96ZjRONW9MYnhVZURpVWdibEZkZkdGY1NIbmZQdmtBTzltaHpiS2JyQVBMQ1V4Vmc5QjFEaGswSGs5MW11WG5XREZ6NHZn?oc=5",
             "date": "Tue, 21 Apr 2026 07:00:00 GMT",
@@ -65,10 +65,24 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "Using Ashwagandha? FSSAI Flags Leaf Use As Experts Clarify What\u2019s Safe - News18",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNnl1NW8zdjBiRGtwX0FkTnNGWHQwNXU5MGRERXFyVDBoSmxaLTZ6QU9rVVVYZUFKQlEwNUJCenZpT2d0SmVhRU8wcnpEcTNnVkQzZW01RXQ3UVhuakxic1JRWjRZQ2V4U2FCeHdMTDNQTnBCVTN2S08xcmVRcXVEOFY2eFQ1WkVCVVB6ZVBmWnd2UEpHOGxmcXlmSXJMRHVqdUxEX1Jha0M4cmhBazdsN3d0QU5yZzFsWl9peTNBelU3MFFjWHh1M2NlUUM3VUXSAdQBQVVfeXFMUGtRZWszWkpyR0V3U1AxV3Q5bTdJYVFLSlhpbGdkY19WZ3JHbThvN3ViMm85QWpBTFFySDZ2dFNra0ZvN013c2VOQ1RadmFzeDBBOFVEVy14TkpIZTQ1azVUMDlHS1phbW5WTVVCX0xjWUpPOF84R3REQk5aamQtemJBZFU2NExpRC1OeXQ2WGpiUHM5Z0pUNV9RVEJBWFBEZkx2cGpHVmFmclh3YnJpOFVBNDhuZXZuSlJZQ2x6NXFRaXhuYUNwUU5USndIX1VxSDJSbXE?oc=5",
+            "date": "Tue, 21 Apr 2026 07:00:00 GMT",
+            "sort_key": 1776754800.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "FSSAI orders crackdown on illegal fruit ripening practices; pushes for strict action - The New Indian Express",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFp2OWozczJINlRVTUtjZFVsN0NqejBxb1o1d3pmWkZxQnByQ05OS3FzMWpVYzVoM0pKTU1ESVp1WTNKVElMSDh5aS1ldkpXVWpwbWloVHY2T05EaVNDNzRXbU8tbjRMd3hDR0xaSUV3cDhXYnVZTlhRMzZNM3M5RFN2Z2hqZnB4Y3FwV0kwN3VMMjcxOHZTbTZ2Wmtjc0NmbnFueHF1TTlxV2g5VUdJX1ZZUDl4UTRoWm0wV1Q0RnM5SHlzcXRqRDFvNDgzenpl0gHeAUFVX3lxTE9rSVE2T2lYNHRFNk5tTEFyWnFHNS16bFYwaGNzcUhNSTg3ajJBOVBpYmtvSzFGSGZYa1lDaFlPeXFLLVlRUWVBVndmT3prWkE3Uy1peFpueEZKMUlTRk00ODVyMG5QVm5HU1Q5QURoWlA3STdHRGVMSlptdjZfc2EwQmtnYXZYTTBVZG1zUjJ4aU5HdlZHSzVONnc3b041aXhSVElmeTExOUNZMEJ1bnNmSEJscFN3SlFtQ1ZIUWtsWDE5eEpuT1ZPbmZWZDVkWUlwV2JkRzZZLXVzMHdBdw?oc=5",
             "date": "Thu, 16 Apr 2026 07:00:00 GMT",
             "sort_key": 1776322800.0,
+            "aging": "Latest Pulse"
+        },
+        {
+            "title": "An FSSAI order warned against use of meat & bone meal in cattle feed. Why Delhi High Court quashed it - ThePrint",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0V3OVJrNE9Obm9sc3J3M3NQZkJidTRibUhwYzBMdmJsR3YzOGt6bnBiOEFFVS1hanFOTFJqUThoX0U2WTA5THZQU0lxRWpTR1p0RUxjZEZGZjNMX1B4d25rc3NQYXRwR1dMb3VXZWoySTl2Z2trUVlZbFlSX2k3d2x2RFdSNk1Menl3TDVsQ1JJY08waHBXY2poQjNuMUxfRXVFb1RSendmYXpxYWhLaEM2UW83bU9SVUs2cmlqSmtnR00yQl8za1I0WlVZeUpGZTFB0gHYAUFVX3lxTFAxcE1xTEdFa25DVFRMRWd2ZmlPLS12UTl5ZndJNDdwbVBOMjI4T3gwRHBXRzMtSjNibVNUUGpWNzVnS29TV0tnTjR1Y2Z5eC1xNzkydTR0Vk1uV0oxOWdZLW5SdHRZVkJQWkFGZmVxRkw1REVwV1JtSU5aUndzTmRhdlZ1OGpQQWJhd1ZGS0JJU1k0MXlBZmdGOWdyVnFJLXlHdVRCeDNIclIyU1RtdERydjJadHhFbWV0NzBMc09LQmR3LXYxMWwxYmVURHVmMElOU050RXgxZQ?oc=5",
+            "date": "Wed, 08 Apr 2026 07:00:00 GMT",
+            "sort_key": 1775631600.0,
             "aging": "Latest Pulse"
         },
         {
@@ -345,6 +359,13 @@
             "aging": "Latest Pulse"
         },
         {
+            "title": "FSSAI clarifies: Honey exceeding HMF limit to be classified as \u2018substandard,\u2019 not \u2018unsafe\u2019 - Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNG80SjFnNmpOUkNleDZmQXZEUTJZX2JGc3VZRjEzMUxFU0N2ZGdXLXhqWG95RmF0aG5DREpFbkY4ZDR0Z1pYUUowWllSOWx1QndHc1kybVdCRUFQRXp4QkVoLUpLUnUtUk92QVZ2SThRNXk2X3VKWUFGZ0pVMElEenludUtWOTZMUDJ6d1hac0YwUjFCbGJsdUxJVUV2SGZrbUFiR0luS0hIdFRSUGlzWWxrc0tkQWdjR19kaTBNQWRSbXAxVGFYZWpNLWF4dXpPUnfSAdcBQVVfeXFMTTNZNTNPWjN3Sy1PbzhBa01ZcjNqdGFMZExyLXNhUUgwdklCQkh0TEZuZl8xSXlDXzAtejY2TTNwNm56aGd0OUFBcDRqNE5oYkJCdnFSTDVOVUpvVFBnbG5IVE5jd1NiaGZPVnh4NVB3eXdqZFRvalhPTUd6TGdGZkowUlhoU0RMN1VPbXJSdHR0REJSa2cxN1hycEhiUGticmZRTGtOS3piWVpyVEJPeUV5LUxQby11MUdOXzU2aXNveFRoV0RiSGZidDZ0RlNXaEdNajBVZm8?oc=5",
+            "date": "Mon, 10 Nov 2025 08:00:00 GMT",
+            "sort_key": 1762761600.0,
+            "aging": "Latest Pulse"
+        },
+        {
             "title": "FSSAI bans dumping of expired and seized food items in rivers and open lands - Storyboard18",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWlJWHVJOGV5NFdfWl94Z3E5MlhLdVdwYnFpRERoYnlINlF0VUtLNkhFdEtVV3FSVTlXYTF2M1hxWjFwT2ZOcGZWR3ZCQ1lhVkdtWFFWR05YT09NY1JLWVBRSmpXNDVKX3dwMHdPZ3poeHJ5R1RaNlBzdDVLU2k1TTRJUU0xVXFtQV9TWkJ3Q0xmbUtwSWVBam9YUUNIQjY4bXJ2X01rWHM1VHdjZ0ZRam9rYUxET1RLV0U4QVB3LWZLMlJIYjFN0gHMAUFVX3lxTE01bUR1OURIeVhzOE5LbVBraGdiT2pkNEhCbk5tSkhEWWIySHd3TnQ3WEZvUGhnUlJwQ3VnS3FfZDNzSjlCWUZUdFp4MUljVkhvMXJzY2N4S0NGNFZiRjNkX1B0QjdKMFNxbG1KbFdOVGx1M05xWF9nLTllb0FZTnp4bmtQNzVWOWJuYUtKZWJOQnFGcHhCUkZwa1ZsYTZiUHkxWUY2dnk1RmhRY3J0SzI2emR2dHhyTXFuT0xGRlEybkN5RE00SDE1Q1hITg?oc=5",
             "date": "Thu, 06 Nov 2025 08:00:00 GMT",
@@ -363,13 +384,6 @@
             "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTENEYjFVRzk3Q1ctdDdPcVowMjR2ZkpXazVqRTRWSXZCS0xxTU9ZUXB2SDlvdzlUM1lLbkJqUHFMSkVGelhBMXE3U3p5SHE0WnFCeGJid2RtMDRWVnZLSTFka2ZKbEI4TFZsa3owSWZRNkdqSE0zYWVYU3JhMFEtdUwyX1dONUdxSTBtUElEU0dtY0s3NHhpeXljbkhIemFhSEJrUEVnUnRaNUVlZlYzYjZYWkNna1UwRFg5Zl94My1BNWRPaDVPazFoQ0tXZWotVU10VkVNc3lJbUVMdTdiWDRFRUVtaTQ5QU1ZYzZFdUhsZEFmLWJhYWNB0gH_AUFVX3lxTE1sOTZSMzJrRUxnRnZzRHVZV1Y1bTR5V1Q1dlBaMDRzU200NjJFbkVSSjN5SDBiWUlnWDZJWWtLRDI5czlJOXZUUWxocVZjdjM3QlVjVUx3TjNJUDV2Uy1SYjItZUFZNGkwbk4yVHF5R3FJUkJ3cVh2TE0xTU1YLVdHTFVFV1d5Q3V3Q0xScGtSN3JhUUFxMkRLRk5XbE04c1hub1UxR0t2SW5ndDBSbHNpcE9tbHRoYnlhcTFZZkNjTVp0MDZWTEVHalB0YmlQSWR2ckdtb0g1ZDJ1UVZsaGdVbVpESHhpT2NIZDlOWHRoU1NEaGhydl9MUy1pS2tZMA?oc=5",
             "date": "Tue, 04 Nov 2025 08:00:00 GMT",
             "sort_key": 1762243200.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "Has Deleterious Effect & Adverse Health Outcomes: Delhi High Court Rejects Plea Against FSSAI\u2019s Decision... - Verdictum",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnlxbWR5ZEV4aXFoUFBYWUdaZlNKWXltakNZSzZIOUtUanpLY3ZKQ25mbGdFN1plNjZLM2hBemNpeXBTbktVTVItSVZjcDhPaElSdndvMWMwdlB0SktvRXFJWkJpX1ZXcV9xQkF2X095c19pQXlheFlBelNnUmFpVk0tcHh6SEFwMVdkLWY2OVFvZnNJblIxV3BxbVI2YnBwaFdQNzJ2azNoMXprV3JpaXdydW92akRxck1aakdUdmFfZnBFSEotZGZJeEhVanhuMElDejN2cGlVaktZSWdCMXBodDd2ZEU5MlVsVHVib9IB9AFBVV95cUxPRDVtaGU0aHhZTmJjS1VuZk1JUTRRZE9uRFR5T3NFTkVVZzJVcThKSlNFVWNXRkJRN0tJWTlUZktRSmxfeHRWR21sRGNHZEhLZmdhWkNmWHpINEh5VkRIaGROa2hvb3BnQTNkSWJlUko4eVNqS3o3X09wQ1hVRW43MnR1WVpNQzMydnRxRWxYU2xCNkV1Vm1ZSG4ybmdjLWpiTFF0eVEtR3p1bE42ZUVWd05IM1FPa0xNVFhmd28xdW1fX1ZaYWlRaVl2NXpKR21Xbk9ncWQ2bXdDeUFQUnROamx0SG9BWnV1dW01Zi01eUdGX19w?oc=5",
-            "date": "Mon, 03 Nov 2025 08:00:00 GMT",
-            "sort_key": 1762156800.0,
             "aging": "Latest Pulse"
         },
         {
@@ -457,13 +471,6 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Delhi High Court stays regulator\u2019s curb on ORS branding in relief for J&J arm - The Indian Express",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDNBRERPWWc0TFQxWGNjc1BPTHVQMXZKTTNVXzFzQWFsTmlKZVFxeHA5QlJnZC1hUkRPS3NENWxGTXhmMF94WkQyNmg5M1BEOTlYRGwyVmFiMTBaVF9KZE1DTjdlWWJxbWJfVm5qdTNYbF90WFNmaXNpMEFlNWh0NDBhSXdralhWcVJKbWhWRFpFTkR2LS1hUkNpbTZiSzhIcm5QXzBMZ3ZmS19BU0ZxM19DMGQ4VUpfMmxwWUtubGliTVnSAcoBQVVfeXFMUFVIcXVQRUNNNl80VGhVa2lqMjVIN2RJTmhVcnlEbXVfNXg5ajdWNEpZNTNBSTFUcExlajE1RlJuOUJBQWpwZ1NoekdvSTB3WmdzamVXTlRYMHJ1aEFsOGwtYk43NzVPTFhySVpBa2FORFJNdVBKdkNReC1yU1R5TUVFRnZUc0tCM2h1R1RldHNOQWh3RnJjT0pVaDM5UnA2QUpTQ0NMOER5T1gxN2tSdC01ZHRzOEg1RHBmakFqYjJvcTZ5SUhaZXlFQQ?oc=5",
-            "date": "Tue, 28 Oct 2025 07:00:00 GMT",
-            "sort_key": 1761634800.0,
-            "aging": "Latest Pulse"
-        },
-        {
             "title": "\u2018Fight not over yet\u2019: Paediatrician hails FSSAI order on fake, high-sugar ORS sachets after 8-year battle, urges strict, speedy implementation - The Indian Express",
             "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNFR1TktiTkM5WS1JNmlhZUdQRmZ4OThRa2duaXN0Y3I0TXJ4a2VmblVQdDBzaWdVQXk1SzNycEU5OEJTRUlfWWhUVm5YNHdkV1Y1Zk04MWRuLXJDVS0xc3g4c2FhUnhJWUxFV2hlSmF3S1J5LTJzSzN2Ymk1OC1YS0ZoMnlrY2lZR01oUk1YblhybDdKMmw3LXJEd2hsTWkyOGNDbkhjTlJDMzJmTjd0YWFldWJ4RjNDUGQ3cUpzQWJFWHduYUlCMlVFeHhyNnU5Y0JWeHlWUUdTWEJSblBfSk1TX196X0JZM0lNZDRjRE91aUJLX3ZES2ZoRlE5SlF0MjFOMmNiclJnN0dMN0HSAZQCQVVfeXFMT1c5VzZ3SU50aThMVlBvVmNybU5GYVN2c3R5c1U5QzVSZWI2YzFsU0ExR1d2RVlFVjJyTEFCeE0xLVhGSEFrOEswVTBXY3doT3h2bUN0NDItMWRIMzdtQnhzS0xWVGFwOUpVX0pCX21xc0djb0RQX0xKdVh1QXp5T2czcHB4VHlXNnpCdXRmR0o1NjRZbWdYY0dDMm0wbVIzRzdpTmQwY3k0VXU2NWE2T0p0cm5maFVNNHZzeDBZOVNWcnhaakQ4Skl6Y3dqVFp6bjB2My1jNHo4UFRMMW00RmVma2oxSk5pdFByN1p0VzBRR1dZaWFDcWVOdzZuVW1RODc5NjhpeXBpQndnU3NZR3ZSdWtH?oc=5",
             "date": "Mon, 27 Oct 2025 07:00:00 GMT",
@@ -506,8 +513,8 @@
             "aging": "Latest Pulse"
         },
         {
-            "title": "Doctors hail FSSAI ban on sugary \u2018ORS\u2019 drinks, warn of hidden dangers - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTW1Eb0RGLUdPN2hiT2J3dE00R3ZGQjdOaWRhN2kzU2tQYS1XRmNRVmpOSE9uNmhiTW1yc3dzZUdJMUQ1ZElMdUIzaERscUMwSlZRMWFlUGhUakphc3pEYXBzZk9ORjdMcTMwVDRFNXpuYVFkOU52OTJldTlGRklZN29UMzJNSzRQY3k2eTRfMmxEWlFhM1VzOFdrS1M2OTQtQVRRa0tJWTRYblVhdjd6RkdUaWhQTDUtSDFYbGMwYWpsYzk1b25MUEFkcTdlTE01OW95cXMzclJ3em5fVkc2alJ30gHnAUFVX3lxTFBCTVlrYzBqWHZvSlQ1RC1mSWM1cERQV0RGNnlrbkphRk1MM19DLTRFYVNsZl9JZ3pvWjEzZVlXUFFZQzdSVFloNnZhbE5ZRm4xSDJhakNsTXUwUlduejVDNVdKWFpuVjNfYVlWMTM1Yk0xV3h5alM0YW9HRnQzR1F3MU5HV3J6bVVodkZwWklRcENyeWtHNnhlWElwSVAwMkRFLUUzV1lKWHdFUlBjWHJDYzhfRFpvN2tCRU9KT3UyVmxXQzFsaXc3SnJ6ZUZXNFJSM0RYOGtsT0g3SzJ6TWo4U1Zsb29TMA?oc=5",
+            "title": "Labelling like it is: ORS label ban should spark rethink on other products - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmVEOE1xN0pkSXBWNUhWVGdEQWlZN25xeF8yRXhxaUs5blRycmw3YWVNc2FSQ2lIREZNMUNDWmtvaXNBcWhocVNsZnI3bnFGUDhmaWM5UzhnSzhtMVVGQWVqYnJaQU1Xb1o2NVNrQkk4Ynd5WUZPQkd2TmNkbDVwM3JXd0hKNkcycDVJdy1zdkVDZE00eDV6UHBSZHVEUno1M0JqdWpSMDkyaktHNzJZdlVRNDJEQW1nSXJ0cExMbGhKU1ByOUNubUFfMjNKanFXSDdwRHFheURRdlV5UUHSAeMBQVVfeXFMUGVPZ1V4dnR0N2hmM1NJcGg4UTRXeFNqMGtFaG5Gdm9SZjk3THU3NGZpOTJWMTZHaF84OVJEcldOUkk5dDdTYjFncjNQM0hxTEEyUUtOMjBjdWREVi1NNVdyQmY4WGlDb1pDS2tsTmxIZzJFb2JJcERyZWZqUE41WTZhZ1BqY0JwLXFDc0piQWlwZFVBdjI0THRCVHlYVEdoSTBEVlZRNllZSmltd2xiWnhmaTFDR2lIcG11a3JMWlRIRHZNM3VpeWtVOER4bHBYNXpVcTdMSjRqV2JfNWd5TVd4NTQ?oc=5",
             "date": "Thu, 23 Oct 2025 07:00:00 GMT",
             "sort_key": 1761202800.0,
             "aging": "Latest Pulse"
@@ -655,13 +662,6 @@
         {
             "title": "Food Safety Goes Digital with Connect App and QR Code Innovation: Inside FSSAI Advisory - SCC Online",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLV9fdGtOY0NBQV9aRFdGdUlyTWxIYzBZQ3JVUWRsSV8wVXhXU2ZGblRZRThDTHllcGItdWk1Q0dhRVVBdjZ3aUJZLWFOTXB4X0RHVnJmMS1VbnFqdU5JbHYtTlUwQ0h4VTc3ZnlTVm1sRWN5ZTZvTWFoS29kX0ZMdmZjLTFDZWhKcjFueW92X0tjWDRma1hva1ZxYw?oc=5",
-            "date": "Fri, 01 Aug 2025 07:00:00 GMT",
-            "sort_key": 1754031600.0,
-            "aging": "Latest Pulse"
-        },
-        {
-            "title": "No Inspector? No Problem, Meet the FSSAI App That Lets Customers Police the Kitchen - IndiaLaw LLP",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeG5iYnZwajRwelR1eC1NQlE2N1haYjhhNzZLUnljX21QWGlPSHl0UFBjV2Fad2J4cWJMOWdHbUtPNE5qS25fbjJjd0VreXBLVXFxeXZiYkJFU2YwZ2dZdHhTczhORUZFTEFiTGFsazhOM3QyVEt5OGJIaG5RZHlGYUlBOW55LTRtdnhWY0RvdTNDYUlHTjZoZA?oc=5",
             "date": "Fri, 01 Aug 2025 07:00:00 GMT",
             "sort_key": 1754031600.0,
             "aging": "Latest Pulse"
